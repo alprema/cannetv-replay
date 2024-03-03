@@ -70,8 +70,8 @@ namespace CanneTVReplay.Repositories
                                 .SelectMany(grp => grp)
                                 .Select(row => new Fighter
                                 {
-                                    Firstname = row.Firstname,
-                                    Lastname = row.Lastname,
+                                    FirstName = row.Firstname,
+                                    LastName = row.Lastname,
                                 }
                                 ).ToList(),
                 },
@@ -83,8 +83,8 @@ namespace CanneTVReplay.Repositories
                                 .SelectMany(grp => grp)
                                 .Select(row => new Fighter
                                 {
-                                    Firstname = row.Firstname,
-                                    Lastname = row.Lastname,
+                                    FirstName = row.Firstname,
+                                    LastName = row.Lastname,
                                 }
                                 ).ToList(),
                 }
