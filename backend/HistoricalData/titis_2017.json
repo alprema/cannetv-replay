@@ -1,0 +1,1755 @@
+[
+    {
+        "id": 419,
+        "name": "Canne Club Prague - Sam fait rire",
+        "dayOfWeek": "Saturday",
+        "time": "12:00",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3962_1484391602_1484392367.mp4",
+            "offset": 47,
+            "videoBeginningTime": "1484391602",
+            "rawEncounterTime": 1484391604
+        }
+    },
+    {
+        "id": 421,
+        "name": "Arvernes 1 - Titigron",
+        "dayOfWeek": "Saturday",
+        "time": "12:00",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9040_1484392944_1484393701.mp4",
+            "offset": 118,
+            "videoBeginningTime": "1484392944",
+            "rawEncounterTime": 1484391604
+        }
+    },
+    {
+        "id": 532,
+        "name": "It's a surprise 2017 - Les Brozes",
+        "dayOfWeek": "Saturday",
+        "time": "12:00",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2795_1484390193_1484390794.mp4",
+            "offset": 96,
+            "videoBeginningTime": "1484390193",
+            "rawEncounterTime": 1484391604
+        }
+    },
+    {
+        "id": 485,
+        "name": "Pandapaches - Lions Picards",
+        "dayOfWeek": "Saturday",
+        "time": "12:20",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3963_1484392746_1484393884.mp4",
+            "offset": 232,
+            "videoBeginningTime": "1484392746",
+            "rawEncounterTime": 1484392857
+        }
+    },
+    {
+        "id": 514,
+        "name": "Duck Team - Nordic Noir",
+        "dayOfWeek": "Saturday",
+        "time": "12:20",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9043_1484394272_1484395056.mp4",
+            "offset": 146,
+            "videoBeginningTime": "1484394272",
+            "rawEncounterTime": 1484392857
+        }
+    },
+    {
+        "id": 471,
+        "name": "Les Padawan d'Ermont - Les Dalton",
+        "dayOfWeek": "Saturday",
+        "time": "12:20",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2797_1484392852_1484393453.mp4",
+            "offset": 155,
+            "videoBeginningTime": "1484392852",
+            "rawEncounterTime": 1484392857
+        }
+    },
+    {
+        "id": 420,
+        "name": "Sam fait rire - Arvernes 1",
+        "dayOfWeek": "Saturday",
+        "time": "12:40",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3965_1484394046_1484394707.mp4",
+            "offset": 102,
+            "videoBeginningTime": "1484394046",
+            "rawEncounterTime": 1484394040
+        }
+    },
+    {
+        "id": 552,
+        "name": "Canne Club Prague - Les Brozes",
+        "dayOfWeek": "Saturday",
+        "time": "12:40",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9046_1484395378_1484395949.mp4",
+            "offset": -2,
+            "videoBeginningTime": "1484395378",
+            "rawEncounterTime": 1484394040
+        }
+    },
+    {
+        "id": 537,
+        "name": "Titigron - Les Amaroks",
+        "dayOfWeek": "Saturday",
+        "time": "12:40",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1820_1484394018_1484394619.mp4",
+            "offset": 129,
+            "videoBeginningTime": "1484394018",
+            "rawEncounterTime": 1484394040
+        }
+    },
+    {
+        "id": 470,
+        "name": "Les Lascarvernes - Savate Arcisienne",
+        "dayOfWeek": "Saturday",
+        "time": "12:55",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3967_1484394942_1484395694.mp4",
+            "offset": 98,
+            "videoBeginningTime": "1484394942",
+            "rawEncounterTime": 1484394925
+        }
+    },
+    {
+        "id": 455,
+        "name": "It's a surprise 2017 - Pandapaches ",
+        "dayOfWeek": "Saturday",
+        "time": "12:55",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9049_1484395986_1484396348.mp4",
+            "offset": 76,
+            "videoBeginningTime": "1484395986",
+            "rawEncounterTime": 1484394925
+        }
+    },
+    {
+        "id": 504,
+        "name": "Duck Team - Les Dalton",
+        "dayOfWeek": "Saturday",
+        "time": "12:55",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1821_1484394922_1484395523.mp4",
+            "offset": 68,
+            "videoBeginningTime": "1484394922",
+            "rawEncounterTime": 1484394925
+        }
+    },
+    {
+        "id": 435,
+        "name": "Canne Club Prague - Arvernes 1",
+        "dayOfWeek": "Saturday",
+        "time": "13:15",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3969_1484396178_1484396846.mp4",
+            "offset": 78,
+            "videoBeginningTime": "1484396178",
+            "rawEncounterTime": 1484396148
+        }
+    },
+    {
+        "id": 496,
+        "name": "Les Padawan d'Ermont - Lions Picards",
+        "dayOfWeek": "Saturday",
+        "time": "13:15",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9051_1484397658_1484398639.mp4",
+            "offset": 237,
+            "videoBeginningTime": "1484397658",
+            "rawEncounterTime": 1484396148
+        }
+    },
+    {
+        "id": 459,
+        "name": "Rose couverte - Nordic Noir",
+        "dayOfWeek": "Saturday",
+        "time": "13:15",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1822_1484396127_1484396728.mp4",
+            "offset": 218,
+            "videoBeginningTime": "1484396127",
+            "rawEncounterTime": 1484396148
+        }
+    },
+    {
+        "id": 434,
+        "name": "Les Brozes - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Saturday",
+        "time": "13:41",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3970_1484397448_1484398386.mp4",
+            "offset": 332,
+            "videoBeginningTime": "1484397448",
+            "rawEncounterTime": 1484397662
+        }
+    },
+    {
+        "id": 480,
+        "name": "Titigron - Pandapaches ",
+        "dayOfWeek": "Saturday",
+        "time": "13:41",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9054_1484399158_1484399887.mp4",
+            "offset": 10,
+            "videoBeginningTime": "1484399158",
+            "rawEncounterTime": 1484397662
+        }
+    },
+    {
+        "id": 483,
+        "name": "Les Lascarvernes - Les Dalton",
+        "dayOfWeek": "Saturday",
+        "time": "13:41",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2798_1484397659_1484398260.mp4",
+            "offset": 29,
+            "videoBeginningTime": "1484397659",
+            "rawEncounterTime": 1484397662
+        }
+    },
+    {
+        "id": 437,
+        "name": "Arvernes 1 - Duck Team",
+        "dayOfWeek": "Saturday",
+        "time": "14:04",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3972_1484399174_1484399866.mp4",
+            "offset": 24,
+            "videoBeginningTime": "1484399174",
+            "rawEncounterTime": 1484399084
+        }
+    },
+    {
+        "id": 465,
+        "name": "Sam fait rire - It's a surprise 2017",
+        "dayOfWeek": "Saturday",
+        "time": "14:04",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9056_1484400530_1484401221.mp4",
+            "offset": 15,
+            "videoBeginningTime": "1484400530",
+            "rawEncounterTime": 1484399084
+        }
+    },
+    {
+        "id": 432,
+        "name": "Lions Picards - Les Amaroks",
+        "dayOfWeek": "Saturday",
+        "time": "14:04",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2799_1484399074_1484399675.mp4",
+            "offset": 1,
+            "videoBeginningTime": "1484399074",
+            "rawEncounterTime": 1484399084
+        }
+    },
+    {
+        "id": 554,
+        "name": "Canne Club Prague - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Saturday",
+        "time": "14:25",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3973_1484400330_1484401083.mp4",
+            "offset": 113,
+            "videoBeginningTime": "1484400330",
+            "rawEncounterTime": 1484400324
+        }
+    },
+    {
+        "id": 462,
+        "name": "Nordic Noir - Les Brozes",
+        "dayOfWeek": "Saturday",
+        "time": "14:25",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9058_1484401750_1484402498.mp4",
+            "offset": 97,
+            "videoBeginningTime": "1484401750",
+            "rawEncounterTime": 1484400325
+        }
+    },
+    {
+        "id": 453,
+        "name": "Titigron - Les Lascarvernes",
+        "dayOfWeek": "Saturday",
+        "time": "14:25",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2800_1484400300_1484400901.mp4",
+            "offset": 29,
+            "videoBeginningTime": "1484400300",
+            "rawEncounterTime": 1484400324
+        }
+    },
+    {
+        "id": 452,
+        "name": "Arvernes 1 - It's a surprise 2017",
+        "dayOfWeek": "Saturday",
+        "time": "14:44",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3974_1484401466_1484402267.mp4",
+            "offset": 111,
+            "videoBeginningTime": "1484401466",
+            "rawEncounterTime": 1484401467
+        }
+    },
+    {
+        "id": 507,
+        "name": "Les Padawan d'Ermont - Les Amaroks",
+        "dayOfWeek": "Saturday",
+        "time": "14:44",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9060_1484402962_1484403707.mp4",
+            "offset": 17,
+            "videoBeginningTime": "1484402962",
+            "rawEncounterTime": 1484401467
+        }
+    },
+    {
+        "id": 541,
+        "name": "Sam fait rire - Lions Picards",
+        "dayOfWeek": "Saturday",
+        "time": "14:44",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2801_1484401456_1484402057.mp4",
+            "offset": 68,
+            "videoBeginningTime": "1484401456",
+            "rawEncounterTime": 1484401467
+        }
+    },
+    {
+        "id": 464,
+        "name": "Canne Club Prague - Duck Team",
+        "dayOfWeek": "Saturday",
+        "time": "15:11",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3975_1484403158_1484403844.mp4",
+            "offset": 21,
+            "videoBeginningTime": "1484403158",
+            "rawEncounterTime": 1484403063
+        }
+    },
+    {
+        "id": 475,
+        "name": "Les Dalton - Les Brozes",
+        "dayOfWeek": "Saturday",
+        "time": "15:11",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9062_1484404514_1484405204.mp4",
+            "offset": 4,
+            "videoBeginningTime": "1484404514",
+            "rawEncounterTime": 1484403063
+        }
+    },
+    {
+        "id": 492,
+        "name": "Titigron - Rose couverte",
+        "dayOfWeek": "Saturday",
+        "time": "15:11",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1823_1484403054_1484403655.mp4",
+            "offset": 4,
+            "videoBeginningTime": "1484403054",
+            "rawEncounterTime": 1484403063
+        }
+    },
+    {
+        "id": 466,
+        "name": "Arvernes 1 - Les Lascarvernes",
+        "dayOfWeek": "Saturday",
+        "time": "15:31",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3976_1484404314_1484405247.mp4",
+            "offset": 108,
+            "videoBeginningTime": "1484404314",
+            "rawEncounterTime": 1484404315
+        }
+    },
+    {
+        "id": 526,
+        "name": "Les Padawan d'Ermont - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Saturday",
+        "time": "15:31",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9064_1484405916_1484406830.mp4",
+            "offset": 79,
+            "videoBeginningTime": "1484405916",
+            "rawEncounterTime": 1484404315
+        }
+    },
+    {
+        "id": 546,
+        "name": "Sam fait rire - Les Amaroks",
+        "dayOfWeek": "Saturday",
+        "time": "15:31",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1824_1484404306_1484404907.mp4",
+            "offset": 128,
+            "videoBeginningTime": "1484404306",
+            "rawEncounterTime": 1484404315
+        }
+    },
+    {
+        "id": 477,
+        "name": "Canne Club Prague - It's a surprise 2017",
+        "dayOfWeek": "Saturday",
+        "time": "15:56",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3977_1484405378_1484406516.mp4",
+            "offset": 536,
+            "videoBeginningTime": "1484405378",
+            "rawEncounterTime": 1484405804
+        }
+    },
+    {
+        "id": 487,
+        "name": "Savate Arcisienne - Les Brozes",
+        "dayOfWeek": "Saturday",
+        "time": "15:56",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9068_1484407318_1484408125.mp4",
+            "offset": 61,
+            "videoBeginningTime": "1484407318",
+            "rawEncounterTime": 1484405804
+        }
+    },
+    {
+        "id": 422,
+        "name": "Titigron - Duck Team",
+        "dayOfWeek": "Saturday",
+        "time": "15:56",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1825_1484405779_1484406380.mp4",
+            "offset": 45,
+            "videoBeginningTime": "1484405779",
+            "rawEncounterTime": 1484405804
+        }
+    },
+    {
+        "id": 479,
+        "name": "Arvernes 1 - Les Padawan d'Ermont",
+        "dayOfWeek": "Saturday",
+        "time": "16:14",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3979_1484406964_1484407574.mp4",
+            "offset": 34,
+            "videoBeginningTime": "1484406964",
+            "rawEncounterTime": 1484406887
+        }
+    },
+    {
+        "id": 535,
+        "name": "Sam fait rire - Nordic Noir",
+        "dayOfWeek": "Saturday",
+        "time": "16:14",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9071_1484408320_1484409004.mp4",
+            "offset": 17,
+            "videoBeginningTime": "1484408320",
+            "rawEncounterTime": 1484406887
+        }
+    },
+    {
+        "id": 446,
+        "name": "Les Dalton - Lions Picards",
+        "dayOfWeek": "Saturday",
+        "time": "16:14",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1826_1484406870_1484407471.mp4",
+            "offset": 7,
+            "videoBeginningTime": "1484406870",
+            "rawEncounterTime": 1484406887
+        }
+    },
+    {
+        "id": 489,
+        "name": "Canne Club Prague - Les Lascarvernes",
+        "dayOfWeek": "Saturday",
+        "time": "16:31",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3981_1484407858_1484408685.mp4",
+            "offset": 149,
+            "videoBeginningTime": "1484407858",
+            "rawEncounterTime": 1484407904
+        }
+    },
+    {
+        "id": 498,
+        "name": "Rose couverte - Les Brozes",
+        "dayOfWeek": "Saturday",
+        "time": "16:31",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9074_1484409352_1484409978.mp4",
+            "offset": -61,
+            "videoBeginningTime": "1484409352",
+            "rawEncounterTime": 1484407904
+        }
+    },
+    {
+        "id": 531,
+        "name": "Duck Team - Les Amaroks",
+        "dayOfWeek": "Saturday",
+        "time": "16:31",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1827_1484407902_1484408503.mp4",
+            "offset": 3,
+            "videoBeginningTime": "1484407902",
+            "rawEncounterTime": 1484407904
+        }
+    },
+    {
+        "id": 491,
+        "name": "Arvernes 1 - Pandapaches ",
+        "dayOfWeek": "Saturday",
+        "time": "16:49",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3982_1484408940_1484409638.mp4",
+            "offset": 71,
+            "videoBeginningTime": "1484408940",
+            "rawEncounterTime": 1484408959
+        }
+    },
+    {
+        "id": 520,
+        "name": "Sam fait rire - Savate Arcisienne",
+        "dayOfWeek": "Saturday",
+        "time": "16:49",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9076_1484410380_1484411071.mp4",
+            "offset": 38,
+            "videoBeginningTime": "1484410380",
+            "rawEncounterTime": 1484408959
+        }
+    },
+    {
+        "id": 522,
+        "name": "Titigron - Nordic Noir",
+        "dayOfWeek": "Saturday",
+        "time": "16:49",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2802_1484408953_1484409554.mp4",
+            "offset": 11,
+            "videoBeginningTime": "1484408953",
+            "rawEncounterTime": 1484408959
+        }
+    },
+    {
+        "id": 500,
+        "name": "Canne Club Prague - Les Padawan d'Ermont",
+        "dayOfWeek": "Saturday",
+        "time": "17:08",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3983_1484410122_1484410892.mp4",
+            "offset": 192,
+            "videoBeginningTime": "1484410122",
+            "rawEncounterTime": 1484410138
+        }
+    },
+    {
+        "id": 448,
+        "name": "Lions Picards - Les Brozes",
+        "dayOfWeek": "Saturday",
+        "time": "17:08",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9078_1484411554_1484412271.mp4",
+            "offset": 69,
+            "videoBeginningTime": "1484411554",
+            "rawEncounterTime": 1484410138
+        }
+    },
+    {
+        "id": 461,
+        "name": "Les Dalton - Les Amaroks",
+        "dayOfWeek": "Saturday",
+        "time": "17:08",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2803_1484410064_1484410665.mp4",
+            "offset": 47,
+            "videoBeginningTime": "1484410064",
+            "rawEncounterTime": 1484410138
+        }
+    },
+    {
+        "id": 502,
+        "name": "Arvernes 1 - Rose couverte",
+        "dayOfWeek": "Saturday",
+        "time": "17:25",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_3984_1484411120_1484412047.mp4",
+            "offset": 127,
+            "videoBeginningTime": "1484411120",
+            "rawEncounterTime": 1484411134
+        }
+    },
+    {
+        "id": 478,
+        "name": "Sam fait rire - Les Lascarvernes",
+        "dayOfWeek": "Saturday",
+        "time": "17:25",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9081_1484412608_1484413366.mp4",
+            "offset": 53,
+            "videoBeginningTime": "1484412608",
+            "rawEncounterTime": 1484411134
+        }
+    },
+    {
+        "id": 548,
+        "name": "Titigron - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Saturday",
+        "time": "17:25",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2804_1484411110_1484411711.mp4",
+            "offset": 23,
+            "videoBeginningTime": "1484411110",
+            "rawEncounterTime": 1484411134
+        }
+    },
+    {
+        "id": 510,
+        "name": "Canne Club Prague - Pandapaches ",
+        "dayOfWeek": "Sunday",
+        "time": "09:45",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4039_1484469892_1484470471.mp4",
+            "offset": 127,
+            "videoBeginningTime": "1484469892",
+            "rawEncounterTime": 1484469907
+        }
+    },
+    {
+        "id": 433,
+        "name": "Les Amaroks - Les Brozes",
+        "dayOfWeek": "Sunday",
+        "time": "09:45",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9131_1484471092_1484471583.mp4",
+            "offset": 75,
+            "videoBeginningTime": "1484471092",
+            "rawEncounterTime": 1484469907
+        }
+    },
+    {
+        "id": 454,
+        "name": "Duck Team - Les Padawan d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "09:45",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2807_1484473000_1484473542.mp4",
+            "offset": 86,
+            "videoBeginningTime": "1484473000",
+            "rawEncounterTime": 1484469907
+        }
+    },
+    {
+        "id": 512,
+        "name": "Arvernes 1 - Savate Arcisienne",
+        "dayOfWeek": "Sunday",
+        "time": "09:58",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4040_1484470686_1484471226.mp4",
+            "offset": 113,
+            "videoBeginningTime": "1484470686",
+            "rawEncounterTime": 1484470687
+        }
+    },
+    {
+        "id": 553,
+        "name": "Sam fait rire - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "09:58",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9133_1484471934_1484472507.mp4",
+            "offset": 93,
+            "videoBeginningTime": "1484471934",
+            "rawEncounterTime": 1484470687
+        }
+    },
+    {
+        "id": 438,
+        "name": "Titigron - It's a surprise 2017",
+        "dayOfWeek": "Sunday",
+        "time": "09:58",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2808_1484473794_1484474328.mp4",
+            "offset": 62,
+            "videoBeginningTime": "1484473794",
+            "rawEncounterTime": 1484470687
+        }
+    },
+    {
+        "id": 519,
+        "name": "Canne Club Prague - Rose couverte",
+        "dayOfWeek": "Sunday",
+        "time": "10:09",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4041_1484471398_1484471930.mp4",
+            "offset": 100,
+            "videoBeginningTime": "1484471398",
+            "rawEncounterTime": 1484471384
+        }
+    },
+    {
+        "id": 538,
+        "name": "Duck Team - Les Brozes",
+        "dayOfWeek": "Sunday",
+        "time": "10:09",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9135_1484472612_1484473174.mp4",
+            "offset": 102,
+            "videoBeginningTime": "1484472612",
+            "rawEncounterTime": 1484471384
+        }
+    },
+    {
+        "id": 447,
+        "name": "Nordic Noir - Les Amaroks",
+        "dayOfWeek": "Sunday",
+        "time": "10:09",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2809_1484474494_1484475043.mp4",
+            "offset": 74,
+            "videoBeginningTime": "1484474494",
+            "rawEncounterTime": 1484471384
+        }
+    },
+    {
+        "id": 521,
+        "name": "Arvernes 1 - Les Dalton",
+        "dayOfWeek": "Sunday",
+        "time": "10:21",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4042_1484472174_1484472669.mp4",
+            "offset": 42,
+            "videoBeginningTime": "1484472174",
+            "rawEncounterTime": 1484472105
+        }
+    },
+    {
+        "id": 490,
+        "name": "Sam fait rire - Les Padawan d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "10:21",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9137_1484473294_1484473786.mp4",
+            "offset": 72,
+            "videoBeginningTime": "1484473294",
+            "rawEncounterTime": 1484472105
+        }
+    },
+    {
+        "id": 463,
+        "name": "Lions Picards - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "10:21",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2810_1484475194_1484475703.mp4",
+            "offset": 55,
+            "videoBeginningTime": "1484475194",
+            "rawEncounterTime": 1484472105
+        }
+    },
+    {
+        "id": 527,
+        "name": "Canne Club Prague - Savate Arcisienne",
+        "dayOfWeek": "Sunday",
+        "time": "10:34",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4043_1484472838_1484473389.mp4",
+            "offset": 124,
+            "videoBeginningTime": "1484472838",
+            "rawEncounterTime": 1484472851
+        }
+    },
+    {
+        "id": 543,
+        "name": "Titigron - Les Brozes",
+        "dayOfWeek": "Sunday",
+        "time": "10:34",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9139_1484474142_1484474526.mp4",
+            "offset": 78,
+            "videoBeginningTime": "1484474142",
+            "rawEncounterTime": 1484472851
+        }
+    },
+    {
+        "id": 427,
+        "name": "Pandapaches - Rose couverte",
+        "dayOfWeek": "Sunday",
+        "time": "10:34",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2811_1484476028_1484476609.mp4",
+            "offset": 40,
+            "videoBeginningTime": "1484476028",
+            "rawEncounterTime": 1484472851
+        }
+    },
+    {
+        "id": 529,
+        "name": "Arvernes 1 - Nordic Noir",
+        "dayOfWeek": "Sunday",
+        "time": "10:46",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4044_1484473544_1484474148.mp4",
+            "offset": 183,
+            "videoBeginningTime": "1484473544",
+            "rawEncounterTime": 1484473613
+        }
+    },
+    {
+        "id": 451,
+        "name": "Sam fait rire - Duck Team",
+        "dayOfWeek": "Sunday",
+        "time": "10:46",
+        "area": "B",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 515,
+        "name": "It's a surprise 2017 - Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "10:46",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2812_1484476686_1484477175.mp4",
+            "offset": 52,
+            "videoBeginningTime": "1484476686",
+            "rawEncounterTime": 1484473613
+        }
+    },
+    {
+        "id": 534,
+        "name": "Canne Club Prague - Les Dalton",
+        "dayOfWeek": "Sunday",
+        "time": "10:56",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4045_1484474266_1484474772.mp4",
+            "offset": 62,
+            "videoBeginningTime": "1484474266",
+            "rawEncounterTime": 1484474217
+        }
+    },
+    {
+        "id": 517,
+        "name": "Les Padawan d'Ermont - Les Brozes",
+        "dayOfWeek": "Sunday",
+        "time": "10:56",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9144_1484475422_1484475923.mp4",
+            "offset": 65,
+            "videoBeginningTime": "1484475422",
+            "rawEncounterTime": 1484474217
+        }
+    },
+    {
+        "id": 503,
+        "name": "Titigron - Savate Arcisienne",
+        "dayOfWeek": "Sunday",
+        "time": "10:56",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2813_1484477314_1484477799.mp4",
+            "offset": 24,
+            "videoBeginningTime": "1484477314",
+            "rawEncounterTime": 1484474217
+        }
+    },
+    {
+        "id": 536,
+        "name": "Arvernes 1 - Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "11:07",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4046_1484474886_1484476216.mp4",
+            "offset": 95,
+            "videoBeginningTime": "1484474886",
+            "rawEncounterTime": 1484474870
+        }
+    },
+    {
+        "id": 501,
+        "name": "Sam fait rire - Pandapaches ",
+        "dayOfWeek": "Sunday",
+        "time": "11:07",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9146_1484476158_1484476718.mp4",
+            "offset": 40,
+            "videoBeginningTime": "1484476158",
+            "rawEncounterTime": 1484474870
+        }
+    },
+    {
+        "id": 469,
+        "name": "It's a surprise 2017 - Rose couverte",
+        "dayOfWeek": "Sunday",
+        "time": "11:07",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2814_1484477980_1484478467.mp4",
+            "offset": 13,
+            "videoBeginningTime": "1484477980",
+            "rawEncounterTime": 1484474870
+        }
+    },
+    {
+        "id": 540,
+        "name": "Canne Club Prague - Nordic Noir",
+        "dayOfWeek": "Sunday",
+        "time": "11:19",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4046_1484474886_1484476216.mp4",
+            "offset": 817,
+            "videoBeginningTime": "1484474886",
+            "rawEncounterTime": 1484475592
+        }
+    },
+    {
+        "id": 525,
+        "name": "Les Lascarvernes - Les Brozes",
+        "dayOfWeek": "Sunday",
+        "time": "11:19",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9148_1484476864_1484477359.mp4",
+            "offset": -8,
+            "videoBeginningTime": "1484476864",
+            "rawEncounterTime": 1484475592
+        }
+    },
+    {
+        "id": 467,
+        "name": "Titigron - Les Padawan d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "11:19",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2815_1484478654_1484479080.mp4",
+            "offset": 1,
+            "videoBeginningTime": "1484478654",
+            "rawEncounterTime": 1484475592
+        }
+    },
+    {
+        "id": 542,
+        "name": "Arvernes 1 - Les Amaroks",
+        "dayOfWeek": "Sunday",
+        "time": "11:31",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4048_1484476246_1484476833.mp4",
+            "offset": 145,
+            "videoBeginningTime": "1484476246",
+            "rawEncounterTime": 1484476280
+        }
+    },
+    {
+        "id": 511,
+        "name": "Sam fait rire - Rose couverte",
+        "dayOfWeek": "Sunday",
+        "time": "11:31",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9150_1484477580_1484478222.mp4",
+            "offset": 110,
+            "videoBeginningTime": "1484477580",
+            "rawEncounterTime": 1484476280
+        }
+    },
+    {
+        "id": 494,
+        "name": "It's a surprise 2017 - Les Dalton",
+        "dayOfWeek": "Sunday",
+        "time": "11:31",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR2816_1484479326_1484479855.mp4",
+            "offset": 119,
+            "videoBeginningTime": "1484479326",
+            "rawEncounterTime": 1484476280
+        }
+    },
+    {
+        "id": 545,
+        "name": "Canne Club Prague - Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "11:42",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4049_1484476922_1484477530.mp4",
+            "offset": 141,
+            "videoBeginningTime": "1484476922",
+            "rawEncounterTime": 1484476950
+        }
+    },
+    {
+        "id": 495,
+        "name": "Les Lascarvernes - Nordic Noir",
+        "dayOfWeek": "Sunday",
+        "time": "11:42",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9152_1484478142_1484478699.mp4",
+            "offset": 134,
+            "videoBeginningTime": "1484478142",
+            "rawEncounterTime": 1484476950
+        }
+    },
+    {
+        "id": 426,
+        "name": "Les Padawan d'Ermont - Pandapaches ",
+        "dayOfWeek": "Sunday",
+        "time": "11:42",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1828_1484480031_1484480534.mp4",
+            "offset": 108,
+            "videoBeginningTime": "1484480031",
+            "rawEncounterTime": 1484476950
+        }
+    },
+    {
+        "id": 547,
+        "name": "Arvernes 1 - Les Brozes",
+        "dayOfWeek": "Sunday",
+        "time": "11:52",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4050_1484477604_1484478058.mp4",
+            "offset": 65,
+            "videoBeginningTime": "1484477604",
+            "rawEncounterTime": 1484477556
+        }
+    },
+    {
+        "id": 436,
+        "name": "Sam fait rire - Titigron",
+        "dayOfWeek": "Sunday",
+        "time": "11:52",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9154_1484478808_1484479307.mp4",
+            "offset": 17,
+            "videoBeginningTime": "1484478808",
+            "rawEncounterTime": 1484477556
+        }
+    },
+    {
+        "id": 429,
+        "name": "Savate Arcisienne - Les Dalton",
+        "dayOfWeek": "Sunday",
+        "time": "11:52",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1829_1484480662_1484481108.mp4",
+            "offset": 27,
+            "videoBeginningTime": "1484480662",
+            "rawEncounterTime": 1484477556
+        }
+    },
+    {
+        "id": 549,
+        "name": "Canne Club Prague - Les Amaroks",
+        "dayOfWeek": "Sunday",
+        "time": "12:03",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4051_1484478238_1484478766.mp4",
+            "offset": 82,
+            "videoBeginningTime": "1484478238",
+            "rawEncounterTime": 1484478209
+        }
+    },
+    {
+        "id": 523,
+        "name": "Duck Team - Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "12:03",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9156_1484479558_1484480141.mp4",
+            "offset": 3,
+            "videoBeginningTime": "1484479558",
+            "rawEncounterTime": 1484478209
+        }
+    },
+    {
+        "id": 484,
+        "name": "Les Padawan d'Ermont - Nordic Noir",
+        "dayOfWeek": "Sunday",
+        "time": "12:03",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1830_1484481301_1484481777.mp4",
+            "offset": 71,
+            "videoBeginningTime": "1484481301",
+            "rawEncounterTime": 1484478209
+        }
+    },
+    {
+        "id": 551,
+        "name": "Arvernes 1 - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "12:15",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4052_1484478928_1484479503.mp4",
+            "offset": 131,
+            "videoBeginningTime": "1484478928",
+            "rawEncounterTime": 1484478946
+        }
+    },
+    {
+        "id": 508,
+        "name": "Pandapaches - Les Brozes",
+        "dayOfWeek": "Sunday",
+        "time": "12:15",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9158_1484480170_1484480672.mp4",
+            "offset": 49,
+            "videoBeginningTime": "1484480170",
+            "rawEncounterTime": 1484478946
+        }
+    },
+    {
+        "id": 528,
+        "name": "Sam fait rire - Les Dalton",
+        "dayOfWeek": "Sunday",
+        "time": "12:15",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1831_1484482080_1484482598.mp4",
+            "offset": 72,
+            "videoBeginningTime": "1484482080",
+            "rawEncounterTime": 1484478946
+        }
+    },
+    {
+        "id": 450,
+        "name": "Canne Club Prague - Titigron",
+        "dayOfWeek": "Sunday",
+        "time": "12:27",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4053_1484479612_1484480184.mp4",
+            "offset": 123,
+            "videoBeginningTime": "1484479612",
+            "rawEncounterTime": 1484479624
+        }
+    },
+    {
+        "id": 460,
+        "name": "Savate Arcisienne - Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "12:27",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9160_1484480944_1484481548.mp4",
+            "offset": 54,
+            "videoBeginningTime": "1484480944",
+            "rawEncounterTime": 1484479624
+        }
+    },
+    {
+        "id": 442,
+        "name": "Les Padawan d'Ermont - Rose couverte",
+        "dayOfWeek": "Sunday",
+        "time": "12:27",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1832_1484482713_1484483140.mp4",
+            "offset": 25,
+            "videoBeginningTime": "1484482713",
+            "rawEncounterTime": 1484479624
+        }
+    },
+    {
+        "id": 550,
+        "name": "Sam fait rire - Les Brozes",
+        "dayOfWeek": "Sunday",
+        "time": "12:37",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4054_1484480302_1484480827.mp4",
+            "offset": 55,
+            "videoBeginningTime": "1484480302",
+            "rawEncounterTime": 1484480245
+        }
+    },
+    {
+        "id": 472,
+        "name": "Pandapaches - Nordic Noir",
+        "dayOfWeek": "Sunday",
+        "time": "12:37",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9162_1484481553_1484482047.mp4",
+            "offset": 61,
+            "videoBeginningTime": "1484481553",
+            "rawEncounterTime": 1484480245
+        }
+    },
+    {
+        "id": 533,
+        "name": "Les Lascarvernes - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "12:37",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1833_1484483358_1484483835.mp4",
+            "offset": 51,
+            "videoBeginningTime": "1484483358",
+            "rawEncounterTime": 1484480245
+        }
+    },
+    {
+        "id": 513,
+        "name": "Titigron - Les Dalton",
+        "dayOfWeek": "Sunday",
+        "time": "12:47",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4055_1484480986_1484481373.mp4",
+            "offset": 6,
+            "videoBeginningTime": "1484480986",
+            "rawEncounterTime": 1484480869
+        }
+    },
+    {
+        "id": 473,
+        "name": "Rose couverte - Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "12:47",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9164_1484482052_1484482442.mp4",
+            "offset": -3,
+            "videoBeginningTime": "1484482052",
+            "rawEncounterTime": 1484480869
+        }
+    },
+    {
+        "id": 474,
+        "name": "Savate Arcisienne - Les Amaroks",
+        "dayOfWeek": "Sunday",
+        "time": "12:47",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1834_1484483954_1484484399.mp4",
+            "offset": 48,
+            "videoBeginningTime": "1484483954",
+            "rawEncounterTime": 1484480869
+        }
+    },
+    {
+        "id": 476,
+        "name": "Nordic Noir - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "13:00",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4056_1484481564_1484482160.mp4",
+            "offset": 159,
+            "videoBeginningTime": "1484481564",
+            "rawEncounterTime": 1484481612
+        }
+    },
+    {
+        "id": 441,
+        "name": "Les Lascarvernes - Pandapaches ",
+        "dayOfWeek": "Sunday",
+        "time": "13:00",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_1689_1484482742_1484483189.mp4",
+            "offset": 15,
+            "videoBeginningTime": "1484482742",
+            "rawEncounterTime": 1484481612
+        }
+    },
+    {
+        "id": 423,
+        "name": "Duck Team - It's a surprise 2017",
+        "dayOfWeek": "Sunday",
+        "time": "13:00",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1835_1484484721_1484485147.mp4",
+            "offset": 4,
+            "videoBeginningTime": "1484484721",
+            "rawEncounterTime": 1484481612
+        }
+    },
+    {
+        "id": 530,
+        "name": "Titigron - Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "13:10",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4057_1484482318_1484482770.mp4",
+            "offset": 31,
+            "videoBeginningTime": "1484482318",
+            "rawEncounterTime": 1484482238
+        }
+    },
+    {
+        "id": 482,
+        "name": "It's a surprise 2017 - Savate Arcisienne",
+        "dayOfWeek": "Sunday",
+        "time": "13:10",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_1690_1484483358_1484483798.mp4",
+            "offset": 18,
+            "videoBeginningTime": "1484483358",
+            "rawEncounterTime": 1484482238
+        }
+    },
+    {
+        "id": 430,
+        "name": "Les Dalton - Nordic Noir",
+        "dayOfWeek": "Sunday",
+        "time": "13:21",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4058_1484482890_1484483416.mp4",
+            "offset": 112,
+            "videoBeginningTime": "1484482890",
+            "rawEncounterTime": 1484482891
+        }
+    },
+    {
+        "id": 509,
+        "name": "Rose couverte - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "13:21",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_1691_1484484002_1484484419.mp4",
+            "offset": 5,
+            "videoBeginningTime": "1484484002",
+            "rawEncounterTime": 1484482891
+        }
+    },
+    {
+        "id": 468,
+        "name": "Duck Team - Pandapaches ",
+        "dayOfWeek": "Sunday",
+        "time": "13:21",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1836_1484485978_1484486394.mp4",
+            "offset": 17,
+            "videoBeginningTime": "1484485978",
+            "rawEncounterTime": 1484482891
+        }
+    },
+    {
+        "id": 506,
+        "name": "Les Lascarvernes - Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "13:32",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4059_1484483540_1484484070.mp4",
+            "offset": 91,
+            "videoBeginningTime": "1484483540",
+            "rawEncounterTime": 1484483520
+        }
+    },
+    {
+        "id": 457,
+        "name": "Les Padawan d'Ermont - Savate Arcisienne",
+        "dayOfWeek": "Sunday",
+        "time": "13:32",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9178_1484488480_1484488946.mp4",
+            "offset": 62,
+            "videoBeginningTime": "1484488480",
+            "rawEncounterTime": 1484483520
+        }
+    },
+    {
+        "id": 481,
+        "name": "Duck Team - Rose couverte",
+        "dayOfWeek": "Sunday",
+        "time": "13:42",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4060_1484484170_1484484691.mp4",
+            "offset": 117,
+            "videoBeginningTime": "1484484170",
+            "rawEncounterTime": 1484484176
+        }
+    },
+    {
+        "id": 449,
+        "name": "Les Amaroks - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "13:42",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9168_1484485502_1484486055.mp4",
+            "offset": -4,
+            "videoBeginningTime": "1484485502",
+            "rawEncounterTime": 1484484176
+        }
+    },
+    {
+        "id": 431,
+        "name": "Nordic Noir - Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "13:53",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4061_1484484872_1484485340.mp4",
+            "offset": 52,
+            "videoBeginningTime": "1484484872",
+            "rawEncounterTime": 1484484813
+        }
+    },
+    {
+        "id": 443,
+        "name": "Pandapaches - Savate Arcisienne",
+        "dayOfWeek": "Sunday",
+        "time": "13:53",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9170_1484486055_1484486418.mp4",
+            "offset": 0,
+            "videoBeginningTime": "1484486055",
+            "rawEncounterTime": 1484484813
+        }
+    },
+    {
+        "id": 456,
+        "name": "Les Lascarvernes - Rose couverte",
+        "dayOfWeek": "Sunday",
+        "time": "14:03",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4062_1484485432_1484485943.mp4",
+            "offset": 78,
+            "videoBeginningTime": "1484485432",
+            "rawEncounterTime": 1484485399
+        }
+    },
+    {
+        "id": 524,
+        "name": "It's a surprise 2017 - Les Amaroks",
+        "dayOfWeek": "Sunday",
+        "time": "14:03",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9172_1484486642_1484487099.mp4",
+            "offset": -15,
+            "videoBeginningTime": "1484486642",
+            "rawEncounterTime": 1484485399
+        }
+    },
+    {
+        "id": 488,
+        "name": "Les Dalton - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "14:03",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2\/C\/GOPR1837_1484488526_1484488855.mp4",
+            "offset": -50,
+            "videoBeginningTime": "1484488526",
+            "rawEncounterTime": 1484485399
+        }
+    },
+    {
+        "id": 445,
+        "name": "Savate Arcisienne - Nordic Noir",
+        "dayOfWeek": "Sunday",
+        "time": "14:14",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4063_1484486094_1484486600.mp4",
+            "offset": 90,
+            "videoBeginningTime": "1484486094",
+            "rawEncounterTime": 1484486073
+        }
+    },
+    {
+        "id": 544,
+        "name": "Duck Team - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "14:14",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9174_1484487270_1484487675.mp4",
+            "offset": -23,
+            "videoBeginningTime": "1484487270",
+            "rawEncounterTime": 1484486073
+        }
+    },
+    {
+        "id": 458,
+        "name": "Pandapaches - Les Dalton",
+        "dayOfWeek": "Sunday",
+        "time": "14:24",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4064_1484486732_1484487227.mp4",
+            "offset": 55,
+            "videoBeginningTime": "1484486732",
+            "rawEncounterTime": 1484486676
+        }
+    },
+    {
+        "id": 486,
+        "name": "Rose couverte - Les Amaroks",
+        "dayOfWeek": "Sunday",
+        "time": "14:24",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9176_1484487908_1484488378.mp4",
+            "offset": 7,
+            "videoBeginningTime": "1484487908",
+            "rawEncounterTime": 1484486676
+        }
+    },
+    {
+        "id": 439,
+        "name": "Duck Team - Les Lascarvernes",
+        "dayOfWeek": "Sunday",
+        "time": "14:24",
+        "area": "C",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 505,
+        "name": "It's a surprise 2017 - Nordic Noir",
+        "dayOfWeek": "Sunday",
+        "time": "14:35",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4065_1484487376_1484488000.mp4",
+            "offset": 39,
+            "videoBeginningTime": "1484487376",
+            "rawEncounterTime": 1484487304
+        }
+    },
+    {
+        "id": 499,
+        "name": "Savate Arcisienne - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "14:35",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9178_1484488480_1484488946.mp4",
+            "offset": 62,
+            "videoBeginningTime": "1484488480",
+            "rawEncounterTime": 1484487304
+        }
+    },
+    {
+        "id": 444,
+        "name": "Rose couverte - Les Dalton",
+        "dayOfWeek": "Sunday",
+        "time": "14:45",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4066_1484488028_1484488469.mp4",
+            "offset": 1,
+            "videoBeginningTime": "1484488028",
+            "rawEncounterTime": 1484487915
+        }
+    },
+    {
+        "id": 516,
+        "name": "Les Lascarvernes - Les Amaroks",
+        "dayOfWeek": "Sunday",
+        "time": "14:45",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9180_1484489158_1484489623.mp4",
+            "offset": -7,
+            "videoBeginningTime": "1484489158",
+            "rawEncounterTime": 1484487915
+        }
+    },
+    {
+        "id": 493,
+        "name": "Duck Team - Savate Arcisienne",
+        "dayOfWeek": "Sunday",
+        "time": "14:55",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4067_1484488638_1484489078.mp4",
+            "offset": 19,
+            "videoBeginningTime": "1484488638",
+            "rawEncounterTime": 1484488544
+        }
+    },
+    {
+        "id": 518,
+        "name": "Pandapaches - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "14:55",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9182_1484489968_1484490622.mp4",
+            "offset": 0,
+            "videoBeginningTime": "1484489968",
+            "rawEncounterTime": 1484488544
+        }
+    },
+    {
+        "id": 440,
+        "name": "It's a surprise 2017 - Les Padawan d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "14:55",
+        "area": "C",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 428,
+        "name": "Rose couverte - Savate Arcisienne",
+        "dayOfWeek": "Sunday",
+        "time": "15:06",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4068_1484489254_1484489746.mp4",
+            "offset": 74,
+            "videoBeginningTime": "1484489254",
+            "rawEncounterTime": 1484489215
+        }
+    },
+    {
+        "id": 497,
+        "name": "Pandapaches - Les Amaroks",
+        "dayOfWeek": "Sunday",
+        "time": "15:06",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2\/B\/MVI_9184_1484490682_1484490884.mp4",
+            "offset": 13,
+            "videoBeginningTime": "1484490682",
+            "rawEncounterTime": 1484489215
+        }
+    },
+    {
+        "id": 424,
+        "name": "It's a surprise 2017 - Les Lascarvernes",
+        "dayOfWeek": "Sunday",
+        "time": "15:06",
+        "area": "C",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 425,
+        "name": "Les Lascarvernes - Les Padawan d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "15:21",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2\/A\/MVI_4069_1484490170_1484490610.mp4",
+            "offset": 25,
+            "videoBeginningTime": "1484490170",
+            "rawEncounterTime": 1484490083
+        }
+    },
+    {
+        "id": 539,
+        "name": "It's a surprise 2017 - Les Padatwo d'Ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "15:21",
+        "area": "B",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    }
+]

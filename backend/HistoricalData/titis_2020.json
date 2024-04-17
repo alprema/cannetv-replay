@@ -1,0 +1,1497 @@
+[
+    {
+        "id": 3028,
+        "name": "Padatout d'Ermont - Beasts from the East",
+        "dayOfWeek": "Saturday",
+        "time": "10:53",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_10-03-59___2020-01-18_10-20-19.mp4",
+            "offset": 333,
+            "videoBeginningTime": 1579341839,
+            "rawEncounterTime": 1579341191
+        }
+    },
+    {
+        "id": 3030,
+        "name": "Les Schilikouards - Les Grands Ducs",
+        "dayOfWeek": "Saturday",
+        "time": "10:53",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_10-04-08___2020-01-18_10-20-28.mp4",
+            "offset": 323,
+            "videoBeginningTime": 1579341848,
+            "rawEncounterTime": 1579341191
+        }
+    },
+    {
+        "id": 3032,
+        "name": "Les Lionceaux Picards - Les cas saoul\u00e9s",
+        "dayOfWeek": "Saturday",
+        "time": "10:53",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_10-53-28___2020-01-18_11-04-56.mp4",
+            "offset": 0,
+            "videoBeginningTime": 1579344808,
+            "rawEncounterTime": 1579341191
+        }
+    },
+    {
+        "id": 3034,
+        "name": "La Rose couverte de Paname 2020 - Les Ardi Galdu de Viroflay",
+        "dayOfWeek": "Saturday",
+        "time": "11:10",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_10-20-28___2020-01-18_10-31-57.mp4",
+            "offset": 73,
+            "videoBeginningTime": 1579342828,
+            "rawEncounterTime": 1579342212
+        }
+    },
+    {
+        "id": 3036,
+        "name": "Les padawans d'ermont - Bunny Suicide",
+        "dayOfWeek": "Saturday",
+        "time": "11:10",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_10-20-29___2020-01-18_10-31-52.mp4",
+            "offset": 363,
+            "videoBeginningTime": 1579342829,
+            "rawEncounterTime": 1579342212
+        }
+    },
+    {
+        "id": 3038,
+        "name": "Les Lions Picard - Mascarade",
+        "dayOfWeek": "Saturday",
+        "time": "11:10",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_11-10-22___2020-01-18_11-22-31.mp4",
+            "offset": 47,
+            "videoBeginningTime": 1579345822,
+            "rawEncounterTime": 1579342212
+        }
+    },
+    {
+        "id": 3040,
+        "name": "Mystick Masters - Les sauvageons de Pantin",
+        "dayOfWeek": "Saturday",
+        "time": "11:25",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_10-35-42___2020-01-18_10-47-32.mp4",
+            "offset": 78,
+            "videoBeginningTime": 1579343742,
+            "rawEncounterTime": 1579343110
+        }
+    },
+    {
+        "id": 3042,
+        "name": "It's a Surprise - Nordique Noir",
+        "dayOfWeek": "Saturday",
+        "time": "11:25",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_10-35-12___2020-01-18_10-46-43.mp4",
+            "offset": 88,
+            "videoBeginningTime": 1579343712,
+            "rawEncounterTime": 1579343110
+        }
+    },
+    {
+        "id": 3044,
+        "name": "Les Trois Moustiquaires - Lascars",
+        "dayOfWeek": "Saturday",
+        "time": "11:25",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_11-25-02___2020-01-18_11-37-04.mp4",
+            "offset": 59,
+            "videoBeginningTime": 1579346702,
+            "rawEncounterTime": 1579343110
+        }
+    },
+    {
+        "id": 3046,
+        "name": "Burdigal'Atomik - Duck Tales",
+        "dayOfWeek": "Saturday",
+        "time": "11:42",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_10-53-26___2020-01-18_11-07-10.mp4",
+            "offset": 167,
+            "videoBeginningTime": 1579344806,
+            "rawEncounterTime": 1579344148
+        }
+    },
+    {
+        "id": 3048,
+        "name": "Le Loup Le Renard et la Belette - Da Vinci Canne",
+        "dayOfWeek": "Saturday",
+        "time": "11:42",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_10-54-12___2020-01-18_11-06-52.mp4",
+            "offset": 56,
+            "videoBeginningTime": 1579344852,
+            "rawEncounterTime": 1579344148
+        }
+    },
+    {
+        "id": 3029,
+        "name": "Beasts from the East - Les Schilikouards",
+        "dayOfWeek": "Saturday",
+        "time": "11:57",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_11-07-54___2020-01-18_11-19-39.mp4",
+            "offset": 99,
+            "videoBeginningTime": 1579345674,
+            "rawEncounterTime": 1579345068
+        }
+    },
+    {
+        "id": 3031,
+        "name": "Les Grands Ducs - Les Lionceaux Picards",
+        "dayOfWeek": "Saturday",
+        "time": "11:57",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_11-08-40___2020-01-18_11-21-01.mp4",
+            "offset": 88,
+            "videoBeginningTime": 1579345720,
+            "rawEncounterTime": 1579345068
+        }
+    },
+    {
+        "id": 3050,
+        "name": "Les Loups de la Butte - Padatout d'Ermont",
+        "dayOfWeek": "Saturday",
+        "time": "11:57",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_11-56-42___2020-01-18_12-07-32.mp4",
+            "offset": 44,
+            "videoBeginningTime": 1579348602,
+            "rawEncounterTime": 1579345068
+        }
+    },
+    {
+        "id": 3033,
+        "name": "Les cas saoul\u00e9s - La Rose couverte de Paname 2020",
+        "dayOfWeek": "Saturday",
+        "time": "12:12",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_11-23-24___2020-01-18_11-35-26.mp4",
+            "offset": 67,
+            "videoBeginningTime": 1579346604,
+            "rawEncounterTime": 1579345949
+        }
+    },
+    {
+        "id": 3035,
+        "name": "Les Ardi Galdu de Viroflay - Les padawans d'ermont ",
+        "dayOfWeek": "Saturday",
+        "time": "12:12",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_11-22-54___2020-01-18_11-34-36.mp4",
+            "offset": 77,
+            "videoBeginningTime": 1579346574,
+            "rawEncounterTime": 1579345949
+        }
+    },
+    {
+        "id": 3037,
+        "name": "Bunny Suicide - Les Lions Picard",
+        "dayOfWeek": "Saturday",
+        "time": "12:12",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_12-11-48___2020-01-18_12-22-42.mp4",
+            "offset": 23,
+            "videoBeginningTime": 1579349508,
+            "rawEncounterTime": 1579345949
+        }
+    },
+    {
+        "id": 3039,
+        "name": "Mascarade - Mystick Masters",
+        "dayOfWeek": "Saturday",
+        "time": "13:03",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_11-37-34___2020-01-18_11-49-40.mp4",
+            "offset": 127,
+            "videoBeginningTime": 1579347454,
+            "rawEncounterTime": 1579348980
+        }
+    },
+    {
+        "id": 3041,
+        "name": "Les sauvageons de Pantin - It's a Surprise",
+        "dayOfWeek": "Saturday",
+        "time": "13:03",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_11-37-26___2020-01-18_11-50-03.mp4",
+            "offset": 167,
+            "videoBeginningTime": 1579347446,
+            "rawEncounterTime": 1579348980
+        }
+    },
+    {
+        "id": 3043,
+        "name": "Nordique Noir - Les Trois Moustiquaires",
+        "dayOfWeek": "Saturday",
+        "time": "13:03",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_12-29-06___2020-01-18_12-44-45.mp4",
+            "offset": 175,
+            "videoBeginningTime": 1579350546,
+            "rawEncounterTime": 1579348980
+        }
+    },
+    {
+        "id": 3045,
+        "name": "Lascars - Burdigal'Atomik",
+        "dayOfWeek": "Saturday",
+        "time": "13:58",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_13-08-50___2020-01-18_13-20-22.mp4",
+            "offset": 77,
+            "videoBeginningTime": 1579352930,
+            "rawEncounterTime": 1579352314
+        }
+    },
+    {
+        "id": 3047,
+        "name": "Duck Tales - Le Loup Le Renard et la Belette",
+        "dayOfWeek": "Saturday",
+        "time": "13:58",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_13-08-36___2020-01-18_13-21-59.mp4",
+            "offset": 201,
+            "videoBeginningTime": 1579352916,
+            "rawEncounterTime": 1579352314
+        }
+    },
+    {
+        "id": 3049,
+        "name": "Da Vinci Canne - Les Loups de la Butte",
+        "dayOfWeek": "Saturday",
+        "time": "13:58",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_13-58-06___2020-01-18_14-12-23.mp4",
+            "offset": 213,
+            "videoBeginningTime": 1579355886,
+            "rawEncounterTime": 1579352314
+        }
+    },
+    {
+        "id": 3051,
+        "name": "Padatout d'Ermont - Les Schilikouards",
+        "dayOfWeek": "Saturday",
+        "time": "14:14",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_13-25-55___2020-01-18_13-39-36.mp4",
+            "offset": 145,
+            "videoBeginningTime": 1579353955,
+            "rawEncounterTime": 1579353279
+        }
+    },
+    {
+        "id": 3052,
+        "name": "Beasts from the East - Les Grands Ducs",
+        "dayOfWeek": "Saturday",
+        "time": "14:14",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_13-26-02___2020-01-18_13-39-28.mp4",
+            "offset": 124,
+            "videoBeginningTime": 1579353962,
+            "rawEncounterTime": 1579353279
+        }
+    },
+    {
+        "id": 3055,
+        "name": "Les Lionceaux Picards - La Rose couverte de Paname 2020",
+        "dayOfWeek": "Saturday",
+        "time": "14:14",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_14-15-22___2020-01-18_14-29-50.mp4",
+            "offset": 154,
+            "videoBeginningTime": 1579356922,
+            "rawEncounterTime": 1579353280
+        }
+    },
+    {
+        "id": 3056,
+        "name": "Les cas saoul\u00e9s - Les Ardi Galdu de Viroflay",
+        "dayOfWeek": "Saturday",
+        "time": "14:30",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_13-40-50___2020-01-18_13-53-26.mp4",
+            "offset": 114,
+            "videoBeginningTime": 1579354850,
+            "rawEncounterTime": 1579354207
+        }
+    },
+    {
+        "id": 3059,
+        "name": "Les padawans d'ermont - Les Lions Picard",
+        "dayOfWeek": "Saturday",
+        "time": "14:30",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_13-40-12___2020-01-18_13-52-20.mp4",
+            "offset": 122,
+            "videoBeginningTime": 1579354812,
+            "rawEncounterTime": 1579354207
+        }
+    },
+    {
+        "id": 3060,
+        "name": "Bunny Suicide - Mascarade",
+        "dayOfWeek": "Saturday",
+        "time": "14:30",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_14-29-51___2020-01-18_14-40-38.mp4",
+            "offset": 17,
+            "videoBeginningTime": 1579357791,
+            "rawEncounterTime": 1579354207
+        }
+    },
+    {
+        "id": 3063,
+        "name": "Mystick Masters - It's a Surprise",
+        "dayOfWeek": "Saturday",
+        "time": "14:43",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_13-53-41___2020-01-18_14-04-33.mp4",
+            "offset": 51,
+            "videoBeginningTime": 1579355621,
+            "rawEncounterTime": 1579355019
+        }
+    },
+    {
+        "id": 3064,
+        "name": "Les sauvageons de Pantin - Nordique Noir",
+        "dayOfWeek": "Saturday",
+        "time": "14:43",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_13-53-48___2020-01-18_14-05-00.mp4",
+            "offset": 61,
+            "videoBeginningTime": 1579355628,
+            "rawEncounterTime": 1579355019
+        }
+    },
+    {
+        "id": 3067,
+        "name": "Les Trois Moustiquaires - Burdigal'Atomik",
+        "dayOfWeek": "Saturday",
+        "time": "14:43",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_14-42-26___2020-01-18_14-52-33.mp4",
+            "offset": 7,
+            "videoBeginningTime": 1579358546,
+            "rawEncounterTime": 1579355019
+        }
+    },
+    {
+        "id": 3068,
+        "name": "Lascars - Duck Tales",
+        "dayOfWeek": "Saturday",
+        "time": "14:57",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_14-08-42___2020-01-18_14-21-41.mp4",
+            "offset": 107,
+            "videoBeginningTime": 1579356522,
+            "rawEncounterTime": 1579355849
+        }
+    },
+    {
+        "id": 3071,
+        "name": "Le Loup Le Renard et la Belette - Les Loups de la Butte",
+        "dayOfWeek": "Saturday",
+        "time": "14:57",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_14-07-30___2020-01-18_14-19-05.mp4",
+            "offset": 94,
+            "videoBeginningTime": 1579356450,
+            "rawEncounterTime": 1579355849
+        }
+    },
+    {
+        "id": 3053,
+        "name": "Les Schilikouards - Les Lionceaux Picards",
+        "dayOfWeek": "Saturday",
+        "time": "15:11",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_14-22-18___2020-01-18_14-33-09.mp4",
+            "offset": 30,
+            "videoBeginningTime": 1579357338,
+            "rawEncounterTime": 1579356716
+        }
+    },
+    {
+        "id": 3072,
+        "name": "Da Vinci Canne - Padatout d'Ermont",
+        "dayOfWeek": "Saturday",
+        "time": "15:11",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_14-22-02___2020-01-18_14-33-59.mp4",
+            "offset": 110,
+            "videoBeginningTime": 1579357322,
+            "rawEncounterTime": 1579356716
+        }
+    },
+    {
+        "id": 3077,
+        "name": "Les Grands Ducs - La Rose couverte de Paname 2020",
+        "dayOfWeek": "Saturday",
+        "time": "15:11",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_15-10-58___2020-01-18_15-23-05.mp4",
+            "offset": 112,
+            "videoBeginningTime": 1579360258,
+            "rawEncounterTime": 1579356716
+        }
+    },
+    {
+        "id": 3058,
+        "name": "Les Ardi Galdu de Viroflay - Bunny Suicide",
+        "dayOfWeek": "Saturday",
+        "time": "15:25",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_14-36-24___2020-01-18_14-48-26.mp4",
+            "offset": 54,
+            "videoBeginningTime": 1579358184,
+            "rawEncounterTime": 1579357516
+        }
+    },
+    {
+        "id": 3079,
+        "name": "Les cas saoul\u00e9s - Les padawans d'ermont ",
+        "dayOfWeek": "Saturday",
+        "time": "15:25",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_14-35-30___2020-01-18_14-47-35.mp4",
+            "offset": 111,
+            "videoBeginningTime": 1579358130,
+            "rawEncounterTime": 1579357516
+        }
+    },
+    {
+        "id": 3061,
+        "name": "Les Lions Picard - Mystick Masters",
+        "dayOfWeek": "Saturday",
+        "time": "15:25",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_15-23-56___2020-01-18_15-34-42.mp4",
+            "offset": 54,
+            "videoBeginningTime": 1579361036,
+            "rawEncounterTime": 1579357516
+        }
+    },
+    {
+        "id": 3062,
+        "name": "Mascarade - Les sauvageons de Pantin",
+        "dayOfWeek": "Saturday",
+        "time": "15:39",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_14-50-40___2020-01-18_15-03-22.mp4",
+            "offset": 118,
+            "videoBeginningTime": 1579359040,
+            "rawEncounterTime": 1579358392
+        }
+    },
+    {
+        "id": 3065,
+        "name": "It's a Surprise - Les Trois Moustiquaires",
+        "dayOfWeek": "Saturday",
+        "time": "15:39",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_14-50-08___2020-01-18_15-02-25.mp4",
+            "offset": 126,
+            "videoBeginningTime": 1579359008,
+            "rawEncounterTime": 1579358392
+        }
+    },
+    {
+        "id": 3089,
+        "name": "Nordique Noir - Burdigal'Atomik",
+        "dayOfWeek": "Saturday",
+        "time": "15:39",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_15-39-04___2020-01-18_15-51-34.mp4",
+            "offset": 128,
+            "videoBeginningTime": 1579361944,
+            "rawEncounterTime": 1579358392
+        }
+    },
+    {
+        "id": 3073,
+        "name": "Les Loups de la Butte - Beasts from the East",
+        "dayOfWeek": "Saturday",
+        "time": "15:53",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_15-07-30___2020-01-18_15-21-19.mp4",
+            "offset": 18,
+            "videoBeginningTime": 1579360050,
+            "rawEncounterTime": 1579359237
+        }
+    },
+    {
+        "id": 3091,
+        "name": "Lascars - Le Loup Le Renard et la Belette",
+        "dayOfWeek": "Saturday",
+        "time": "15:53",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_15-07-56___2020-01-18_15-22-22.mp4",
+            "offset": 29,
+            "videoBeginningTime": 1579360076,
+            "rawEncounterTime": 1579359237
+        }
+    },
+    {
+        "id": 3070,
+        "name": "Duck Tales - Da Vinci Canne",
+        "dayOfWeek": "Saturday",
+        "time": "15:53",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_15-57-22___2020-01-18_16-13-32.mp4",
+            "offset": 93,
+            "videoBeginningTime": 1579363042,
+            "rawEncounterTime": 1579359237
+        }
+    },
+    {
+        "id": 3074,
+        "name": "Padatout d'Ermont - Les Grands Ducs",
+        "dayOfWeek": "Saturday",
+        "time": "16:13",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_15-23-42___2020-01-18_15-39-28.mp4",
+            "offset": 334,
+            "videoBeginningTime": 1579361022,
+            "rawEncounterTime": 1579360410
+        }
+    },
+    {
+        "id": 3099,
+        "name": "Les Schilikouards - La Rose couverte de Paname 2020",
+        "dayOfWeek": "Saturday",
+        "time": "16:13",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_15-23-28___2020-01-18_15-38-10.mp4",
+            "offset": 283,
+            "videoBeginningTime": 1579361008,
+            "rawEncounterTime": 1579360410
+        }
+    },
+    {
+        "id": 3078,
+        "name": "Les Lionceaux Picards - Les Ardi Galdu de Viroflay",
+        "dayOfWeek": "Saturday",
+        "time": "16:13",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_16-12-46___2020-01-18_16-25-56.mp4",
+            "offset": 160,
+            "videoBeginningTime": 1579363966,
+            "rawEncounterTime": 1579360410
+        }
+    },
+    {
+        "id": 3083,
+        "name": "Bunny Suicide - Mystick Masters",
+        "dayOfWeek": "Saturday",
+        "time": "16:26",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_15-39-29___2020-01-18_15-48-17.mp4",
+            "offset": 43,
+            "videoBeginningTime": 1579361969,
+            "rawEncounterTime": 1579361215
+        }
+    },
+    {
+        "id": 3125,
+        "name": "Les cas saoul\u00e9s - Les Lions Picard",
+        "dayOfWeek": "Saturday",
+        "time": "16:26",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_15-38-11___2020-01-18_15-47-55.mp4",
+            "offset": 53,
+            "videoBeginningTime": 1579361891,
+            "rawEncounterTime": 1579361215
+        }
+    },
+    {
+        "id": 3082,
+        "name": "Les padawans d'ermont - Mascarade",
+        "dayOfWeek": "Saturday",
+        "time": "16:26",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_16-25-57___2020-01-18_16-36-13.mp4",
+            "offset": 35,
+            "videoBeginningTime": 1579364757,
+            "rawEncounterTime": 1579361215
+        }
+    },
+    {
+        "id": 3087,
+        "name": "Les sauvageons de Pantin - Les Trois Moustiquaires",
+        "dayOfWeek": "Saturday",
+        "time": "16:40",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_15-51-16___2020-01-18_16-03-02.mp4",
+            "offset": 68,
+            "videoBeginningTime": 1579362676,
+            "rawEncounterTime": 1579362034
+        }
+    },
+    {
+        "id": 3111,
+        "name": "It's a Surprise - Burdigal'Atomik",
+        "dayOfWeek": "Saturday",
+        "time": "16:40",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_15-50-28___2020-01-18_16-00-42.mp4",
+            "offset": 24,
+            "videoBeginningTime": 1579362628,
+            "rawEncounterTime": 1579362034
+        }
+    },
+    {
+        "id": 3066,
+        "name": "Nordique Noir - Lascars",
+        "dayOfWeek": "Saturday",
+        "time": "16:40",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-18_16-39-28___2020-01-18_16-49-40.mp4",
+            "offset": 10,
+            "videoBeginningTime": 1579365568,
+            "rawEncounterTime": 1579362035
+        }
+    },
+    {
+        "id": 3093,
+        "name": "Duck Tales - Les Loups de la Butte",
+        "dayOfWeek": "Saturday",
+        "time": "16:54",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-18_16-04-32___2020-01-18_16-15-28.mp4",
+            "offset": 53,
+            "videoBeginningTime": 1579363472,
+            "rawEncounterTime": 1579362869
+        }
+    },
+    {
+        "id": 3095,
+        "name": "Da Vinci Canne - Beasts from the East",
+        "dayOfWeek": "Saturday",
+        "time": "16:54",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-18_16-04-22___2020-01-18_16-15-19.mp4",
+            "offset": 64,
+            "videoBeginningTime": 1579363462,
+            "rawEncounterTime": 1579362869
+        }
+    },
+    {
+        "id": 3057,
+        "name": "La Rose couverte de Paname 2020 - Les padawans d'ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "09:49",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_09-00-26___2020-01-19_09-15-12.mp4",
+            "offset": 250,
+            "videoBeginningTime": 1579424426,
+            "rawEncounterTime": 1579423789
+        }
+    },
+    {
+        "id": 3094,
+        "name": "Le Loup Le Renard et la Belette - Padatout d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "09:49",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_09-00-08___2020-01-19_09-14-32.mp4",
+            "offset": 245,
+            "videoBeginningTime": 1579424408,
+            "rawEncounterTime": 1579423789
+        }
+    },
+    {
+        "id": 3100,
+        "name": "Les Grands Ducs - Les Ardi Galdu de Viroflay",
+        "dayOfWeek": "Sunday",
+        "time": "09:49",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_09-48-46___2020-01-19_10-02-43.mp4",
+            "offset": 227,
+            "videoBeginningTime": 1579427326,
+            "rawEncounterTime": 1579423789
+        }
+    },
+    {
+        "id": 3076,
+        "name": "Les Schilikouards - Les cas saoul\u00e9s",
+        "dayOfWeek": "Sunday",
+        "time": "09:49",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_10-14-44___2020-01-19_10-28-16.mp4",
+            "offset": 206,
+            "videoBeginningTime": 1579428884,
+            "rawEncounterTime": 1579423789
+        }
+    },
+    {
+        "id": 3084,
+        "name": "Les Lions Picard - Les sauvageons de Pantin",
+        "dayOfWeek": "Sunday",
+        "time": "10:04",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_09-15-20___2020-01-19_09-27-51.mp4",
+            "offset": 84,
+            "videoBeginningTime": 1579425320,
+            "rawEncounterTime": 1579424653
+        }
+    },
+    {
+        "id": 3124,
+        "name": "Les Lionceaux Picards - Bunny Suicide",
+        "dayOfWeek": "Sunday",
+        "time": "10:04",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_09-15-24___2020-01-19_09-28-17.mp4",
+            "offset": 101,
+            "videoBeginningTime": 1579425324,
+            "rawEncounterTime": 1579424653
+        }
+    },
+    {
+        "id": 3085,
+        "name": "Mascarade - It's a Surprise",
+        "dayOfWeek": "Sunday",
+        "time": "10:04",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_10-03-54___2020-01-19_10-15-24.mp4",
+            "offset": 37,
+            "videoBeginningTime": 1579428234,
+            "rawEncounterTime": 1579424653
+        }
+    },
+    {
+        "id": 3086,
+        "name": "Mystick Masters - Nordique Noir",
+        "dayOfWeek": "Sunday",
+        "time": "10:04",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_10-29-42___2020-01-19_10-40-48.mp4",
+            "offset": 25,
+            "videoBeginningTime": 1579429782,
+            "rawEncounterTime": 1579424653
+        }
+    },
+    {
+        "id": 3090,
+        "name": "Les Trois Moustiquaires - Duck Tales",
+        "dayOfWeek": "Sunday",
+        "time": "10:19",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_09-30-20___2020-01-19_09-43-02.mp4",
+            "offset": 124,
+            "videoBeginningTime": 1579426220,
+            "rawEncounterTime": 1579425582
+        }
+    },
+    {
+        "id": 3092,
+        "name": "Burdigal'Atomik - Da Vinci Canne",
+        "dayOfWeek": "Sunday",
+        "time": "10:19",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_09-29-51___2020-01-19_09-42-12.mp4",
+            "offset": 131,
+            "videoBeginningTime": 1579426191,
+            "rawEncounterTime": 1579425582
+        }
+    },
+    {
+        "id": 3137,
+        "name": "Lascars - Les Loups de la Butte",
+        "dayOfWeek": "Sunday",
+        "time": "10:19",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_10-19-46___2020-01-19_10-33-27.mp4",
+            "offset": 144,
+            "videoBeginningTime": 1579429186,
+            "rawEncounterTime": 1579425582
+        }
+    },
+    {
+        "id": 3117,
+        "name": "Le Loup Le Renard et la Belette - Beasts from the East",
+        "dayOfWeek": "Sunday",
+        "time": "10:33",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_09-43-03___2020-01-19_09-53-02.mp4",
+            "offset": 41,
+            "videoBeginningTime": 1579426983,
+            "rawEncounterTime": 1579426398
+        }
+    },
+    {
+        "id": 3123,
+        "name": "Les Grands Ducs - Les padawans d'ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "10:33",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_09-42-57___2020-01-19_09-53-31.mp4",
+            "offset": 54,
+            "videoBeginningTime": 1579426977,
+            "rawEncounterTime": 1579426398
+        }
+    },
+    {
+        "id": 3120,
+        "name": "Padatout d'Ermont - Les cas saoul\u00e9s",
+        "dayOfWeek": "Sunday",
+        "time": "10:33",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_10-33-50___2020-01-19_10-46-24.mp4",
+            "offset": 47,
+            "videoBeginningTime": 1579430030,
+            "rawEncounterTime": 1579426398
+        }
+    },
+    {
+        "id": 3122,
+        "name": "Les Schilikouards - Les Ardi Galdu de Viroflay",
+        "dayOfWeek": "Sunday",
+        "time": "10:33",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_10-58-10___2020-01-19_11-09-56.mp4",
+            "offset": 101,
+            "videoBeginningTime": 1579431490,
+            "rawEncounterTime": 1579426398
+        }
+    },
+    {
+        "id": 3080,
+        "name": "La Rose couverte de Paname 2020 - Bunny Suicide",
+        "dayOfWeek": "Sunday",
+        "time": "10:46",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_09-58-52___2020-01-19_10-12-26.mp4",
+            "offset": 102,
+            "videoBeginningTime": 1579427932,
+            "rawEncounterTime": 1579427218
+        }
+    },
+    {
+        "id": 3108,
+        "name": "Mascarade - Nordique Noir",
+        "dayOfWeek": "Sunday",
+        "time": "10:46",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_09-58-43___2020-01-19_10-12-00.mp4",
+            "offset": 93,
+            "videoBeginningTime": 1579427923,
+            "rawEncounterTime": 1579427219
+        }
+    },
+    {
+        "id": 3107,
+        "name": "Les Lions Picard - It's a Surprise",
+        "dayOfWeek": "Sunday",
+        "time": "10:46",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_10-47-44___2020-01-19_11-00-37.mp4",
+            "offset": 55,
+            "videoBeginningTime": 1579430864,
+            "rawEncounterTime": 1579427218
+        }
+    },
+    {
+        "id": 3109,
+        "name": "Mystick Masters - Les Trois Moustiquaires",
+        "dayOfWeek": "Sunday",
+        "time": "10:46",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_11-11-56___2020-01-19_11-24-17.mp4",
+            "offset": 131,
+            "videoBeginningTime": 1579432316,
+            "rawEncounterTime": 1579427219
+        }
+    },
+    {
+        "id": 3110,
+        "name": "Les sauvageons de Pantin - Lascars",
+        "dayOfWeek": "Sunday",
+        "time": "11:11",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_10-21-52___2020-01-19_10-37-16.mp4",
+            "offset": 289,
+            "videoBeginningTime": 1579429312,
+            "rawEncounterTime": 1579428675
+        }
+    },
+    {
+        "id": 3115,
+        "name": "Burdigal'Atomik - Les Loups de la Butte",
+        "dayOfWeek": "Sunday",
+        "time": "11:11",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_10-21-14___2020-01-19_10-36-07.mp4",
+            "offset": 294,
+            "videoBeginningTime": 1579429274,
+            "rawEncounterTime": 1579428676
+        }
+    },
+    {
+        "id": 3075,
+        "name": "Beasts from the East - Les Lionceaux Picards",
+        "dayOfWeek": "Sunday",
+        "time": "11:11",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_11-10-24___2020-01-19_11-27-35.mp4",
+            "offset": 410,
+            "videoBeginningTime": 1579432224,
+            "rawEncounterTime": 1579428676
+        }
+    },
+    {
+        "id": 3141,
+        "name": "Da Vinci Canne - Les Grands Ducs",
+        "dayOfWeek": "Sunday",
+        "time": "11:25",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_10-37-17___2020-01-19_10-49-38.mp4",
+            "offset": 74,
+            "videoBeginningTime": 1579430237,
+            "rawEncounterTime": 1579429550
+        }
+    },
+    {
+        "id": 3116,
+        "name": "Duck Tales - Padatout d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "11:25",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_10-36-57___2020-01-19_10-48-54.mp4",
+            "offset": 50,
+            "videoBeginningTime": 1579430217,
+            "rawEncounterTime": 1579429550
+        }
+    },
+    {
+        "id": 3140,
+        "name": "Le Loup Le Renard et la Belette - Les Schilikouards",
+        "dayOfWeek": "Sunday",
+        "time": "11:25",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_11-27-36___2020-01-19_11-36-25.mp4",
+            "offset": 126,
+            "videoBeginningTime": 1579433256,
+            "rawEncounterTime": 1579429550
+        }
+    },
+    {
+        "id": 3081,
+        "name": "Les Ardi Galdu de Viroflay - Les Lions Picard",
+        "dayOfWeek": "Sunday",
+        "time": "11:25",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_11-51-44___2020-01-19_12-05-23.mp4",
+            "offset": 152,
+            "videoBeginningTime": 1579434704,
+            "rawEncounterTime": 1579429550
+        }
+    },
+    {
+        "id": 3129,
+        "name": "Bunny Suicide - It's a Surprise",
+        "dayOfWeek": "Sunday",
+        "time": "11:39",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_10-50-16___2020-01-19_11-02-49.mp4",
+            "offset": 112,
+            "videoBeginningTime": 1579431016,
+            "rawEncounterTime": 1579430374
+        }
+    },
+    {
+        "id": 3126,
+        "name": "La Rose couverte de Paname 2020 - Mascarade",
+        "dayOfWeek": "Sunday",
+        "time": "11:39",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_10-50-08___2020-01-19_11-02-08.mp4",
+            "offset": 86,
+            "videoBeginningTime": 1579431008,
+            "rawEncounterTime": 1579430374
+        }
+    },
+    {
+        "id": 3105,
+        "name": "Les padawans d'ermont - Mystick Masters",
+        "dayOfWeek": "Sunday",
+        "time": "11:39",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_11-38-30___2020-01-19_11-49-22.mp4",
+            "offset": 44,
+            "videoBeginningTime": 1579433910,
+            "rawEncounterTime": 1579430374
+        }
+    },
+    {
+        "id": 3098,
+        "name": "Beasts from the East - Les cas saoul\u00e9s",
+        "dayOfWeek": "Sunday",
+        "time": "11:39",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_12-05-24___2020-01-19_12-15-10.mp4",
+            "offset": 55,
+            "videoBeginningTime": 1579435524,
+            "rawEncounterTime": 1579430374
+        }
+    },
+    {
+        "id": 3142,
+        "name": "Les Loups de la Butte - Les Lionceaux Picards",
+        "dayOfWeek": "Sunday",
+        "time": "11:53",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_11-04-10___2020-01-19_11-16-00.mp4",
+            "offset": 94,
+            "videoBeginningTime": 1579431850,
+            "rawEncounterTime": 1579431232
+        }
+    },
+    {
+        "id": 3133,
+        "name": "Les sauvageons de Pantin - Burdigal'Atomik",
+        "dayOfWeek": "Sunday",
+        "time": "11:53",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_11-04-14___2020-01-19_11-16-17.mp4",
+            "offset": 101,
+            "videoBeginningTime": 1579431854,
+            "rawEncounterTime": 1579431233
+        }
+    },
+    {
+        "id": 3112,
+        "name": "Nordique Noir - Duck Tales",
+        "dayOfWeek": "Sunday",
+        "time": "11:53",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_11-54-22___2020-01-19_12-07-25.mp4",
+            "offset": 79,
+            "videoBeginningTime": 1579434862,
+            "rawEncounterTime": 1579431233
+        }
+    },
+    {
+        "id": 3136,
+        "name": "Les Trois Moustiquaires - Da Vinci Canne",
+        "dayOfWeek": "Sunday",
+        "time": "11:53",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_12-19-04___2020-01-19_12-30-17.mp4",
+            "offset": 52,
+            "videoBeginningTime": 1579436344,
+            "rawEncounterTime": 1579431233
+        }
+    },
+    {
+        "id": 3103,
+        "name": "La Rose couverte de Paname 2020 - Les Lions Picard",
+        "dayOfWeek": "Sunday",
+        "time": "12:10",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_11-20-46___2020-01-19_11-34-53.mp4",
+            "offset": 237,
+            "videoBeginningTime": 1579432846,
+            "rawEncounterTime": 1579432235
+        }
+    },
+    {
+        "id": 3104,
+        "name": "Les Ardi Galdu de Viroflay - Mascarade",
+        "dayOfWeek": "Sunday",
+        "time": "12:10",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_11-20-30___2020-01-19_11-34-16.mp4",
+            "offset": 231,
+            "videoBeginningTime": 1579432830,
+            "rawEncounterTime": 1579432235
+        }
+    },
+    {
+        "id": 3132,
+        "name": "Mystick Masters - Lascars",
+        "dayOfWeek": "Sunday",
+        "time": "12:10",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_12-13-04___2020-01-19_12-26-57.mp4",
+            "offset": 11,
+            "videoBeginningTime": 1579435984,
+            "rawEncounterTime": 1579432235
+        }
+    },
+    {
+        "id": 3054,
+        "name": "Les Grands Ducs - Les cas saoul\u00e9s",
+        "dayOfWeek": "Sunday",
+        "time": "12:10",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_12-35-42___2020-01-19_12-49-02.mp4",
+            "offset": 183,
+            "videoBeginningTime": 1579437342,
+            "rawEncounterTime": 1579432235
+        }
+    },
+    {
+        "id": 3097,
+        "name": "Padatout d'Ermont - Les Lionceaux Picards",
+        "dayOfWeek": "Sunday",
+        "time": "12:28",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_11-39-50___2020-01-19_11-53-25.mp4",
+            "offset": 143,
+            "videoBeginningTime": 1579433990,
+            "rawEncounterTime": 1579433319
+        }
+    },
+    {
+        "id": 3069,
+        "name": "Burdigal'Atomik - Le Loup Le Renard et la Belette",
+        "dayOfWeek": "Sunday",
+        "time": "12:28",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_11-39-40___2020-01-19_11-53-32.mp4",
+            "offset": 171,
+            "videoBeginningTime": 1579433980,
+            "rawEncounterTime": 1579433319
+        }
+    },
+    {
+        "id": 3096,
+        "name": "Les Loups de la Butte - Les Schilikouards",
+        "dayOfWeek": "Sunday",
+        "time": "12:28",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_12-28-28___2020-01-19_12-41-35.mp4",
+            "offset": 124,
+            "videoBeginningTime": 1579436908,
+            "rawEncounterTime": 1579433319
+        }
+    },
+    {
+        "id": 3134,
+        "name": "It's a Surprise - Duck Tales",
+        "dayOfWeek": "Sunday",
+        "time": "12:28",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_12-54-04___2020-01-19_13-07-43.mp4",
+            "offset": 183,
+            "videoBeginningTime": 1579438444,
+            "rawEncounterTime": 1579433319
+        }
+    },
+    {
+        "id": 3128,
+        "name": "Les padawans d'ermont - Les sauvageons de Pantin",
+        "dayOfWeek": "Sunday",
+        "time": "12:43",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_11-53-26___2020-01-19_12-04-16.mp4",
+            "offset": 53,
+            "videoBeginningTime": 1579434806,
+            "rawEncounterTime": 1579434180
+        }
+    },
+    {
+        "id": 3114,
+        "name": "Lascars - Da Vinci Canne",
+        "dayOfWeek": "Sunday",
+        "time": "12:43",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_11-53-33___2020-01-19_12-03-24.mp4",
+            "offset": 60,
+            "videoBeginningTime": 1579434813,
+            "rawEncounterTime": 1579434180
+        }
+    },
+    {
+        "id": 3130,
+        "name": "Les Lions Picard - Nordique Noir",
+        "dayOfWeek": "Sunday",
+        "time": "14:05",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_13-15-38___2020-01-19_13-33-51.mp4",
+            "offset": 472,
+            "videoBeginningTime": 1579439738,
+            "rawEncounterTime": 1579439116
+        }
+    },
+    {
+        "id": 3121,
+        "name": "Beasts from the East - La Rose couverte de Paname 2020",
+        "dayOfWeek": "Sunday",
+        "time": "14:05",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_13-15-44___2020-01-19_13-33-58.mp4",
+            "offset": 465,
+            "videoBeginningTime": 1579439744,
+            "rawEncounterTime": 1579439116
+        }
+    },
+    {
+        "id": 3102,
+        "name": "Les cas saoul\u00e9s - Bunny Suicide",
+        "dayOfWeek": "Sunday",
+        "time": "14:05",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_14-04-00___2020-01-19_14-21-09.mp4",
+            "offset": 433,
+            "videoBeginningTime": 1579442640,
+            "rawEncounterTime": 1579439116
+        }
+    },
+    {
+        "id": 3131,
+        "name": "Mascarade - Les Trois Moustiquaires",
+        "dayOfWeek": "Sunday",
+        "time": "14:05",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_14-30-56___2020-01-19_14-49-08.mp4",
+            "offset": 441,
+            "videoBeginningTime": 1579444256,
+            "rawEncounterTime": 1579439116
+        }
+    },
+    {
+        "id": 3127,
+        "name": "Les Ardi Galdu de Viroflay - Mystick Masters",
+        "dayOfWeek": "Sunday",
+        "time": "14:19",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_13-33-52___2020-01-19_13-41-19.mp4",
+            "offset": 62,
+            "videoBeginningTime": 1579440832,
+            "rawEncounterTime": 1579439961
+        }
+    },
+    {
+        "id": 3138,
+        "name": "Burdigal'Atomik - Padatout d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "14:19",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_13-33-59___2020-01-19_13-41-46.mp4",
+            "offset": 77,
+            "videoBeginningTime": 1579440839,
+            "rawEncounterTime": 1579439961
+        }
+    },
+    {
+        "id": 3119,
+        "name": "Les Loups de la Butte - Les Grands Ducs",
+        "dayOfWeek": "Sunday",
+        "time": "14:19",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_14-21-10___2020-01-19_14-31-11.mp4",
+            "offset": 96,
+            "videoBeginningTime": 1579443670,
+            "rawEncounterTime": 1579439961
+        }
+    },
+    {
+        "id": 3101,
+        "name": "Les Lionceaux Picards - Les padawans d'ermont ",
+        "dayOfWeek": "Sunday",
+        "time": "14:19",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_14-49-09___2020-01-19_14-57-17.mp4",
+            "offset": 91,
+            "videoBeginningTime": 1579445349,
+            "rawEncounterTime": 1579439961
+        }
+    },
+    {
+        "id": 3118,
+        "name": "Da Vinci Canne - Les Schilikouards",
+        "dayOfWeek": "Sunday",
+        "time": "14:34",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_13-45-40___2020-01-19_13-58-26.mp4",
+            "offset": 83,
+            "videoBeginningTime": 1579441540,
+            "rawEncounterTime": 1579440855
+        }
+    },
+    {
+        "id": 3088,
+        "name": "It's a Surprise - Lascars",
+        "dayOfWeek": "Sunday",
+        "time": "14:34",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/2439\/B\/2020-01-19_13-45-28___2020-01-19_13-57-59.mp4",
+            "offset": 78,
+            "videoBeginningTime": 1579441528,
+            "rawEncounterTime": 1579440855
+        }
+    },
+    {
+        "id": 3113,
+        "name": "Les Trois Moustiquaires - Le Loup Le Renard et la Belette",
+        "dayOfWeek": "Sunday",
+        "time": "14:34",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/2439\/C\/2020-01-19_14-33-02___2020-01-19_14-44-08.mp4",
+            "offset": 64,
+            "videoBeginningTime": 1579444382,
+            "rawEncounterTime": 1579440855
+        }
+    },
+    {
+        "id": 3106,
+        "name": "Bunny Suicide - Les sauvageons de Pantin",
+        "dayOfWeek": "Sunday",
+        "time": "14:34",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/2439\/D\/2020-01-19_14-59-18___2020-01-19_15-10-32.mp4",
+            "offset": 57,
+            "videoBeginningTime": 1579445958,
+            "rawEncounterTime": 1579440855
+        }
+    },
+    {
+        "id": 3139,
+        "name": "Duck Tales - Beasts from the East",
+        "dayOfWeek": "Sunday",
+        "time": "14:47",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_13-58-27___2020-01-19_14-09-50.mp4",
+            "offset": 44,
+            "videoBeginningTime": 1579442307,
+            "rawEncounterTime": 1579441633
+        }
+    },
+    {
+        "id": 3135,
+        "name": "Nordique Noir - Le Loup Le Renard et la Belette",
+        "dayOfWeek": "Sunday",
+        "time": "15:02",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/2439\/A\/2020-01-19_14-14-46___2020-01-19_14-27-57.mp4",
+            "offset": 49,
+            "videoBeginningTime": 1579443286,
+            "rawEncounterTime": 1579442543
+        }
+    }
+]

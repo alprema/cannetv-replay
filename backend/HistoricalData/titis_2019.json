@@ -1,0 +1,1488 @@
+[
+    {
+        "id": 2265,
+        "name": "Lamor moi l'noeud - Les Freluquets de Pantin ",
+        "dayOfWeek": "Saturday",
+        "time": "11:31",
+        "area": "A",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 2267,
+        "name": "Hymenoptera Wings - Antony La Rose couverte",
+        "dayOfWeek": "Saturday",
+        "time": "11:31",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_10-42-26___2019-01-19_10-57-30.mp4",
+            "offset": 174,
+            "videoBeginningTime": 1547894546,
+            "rawEncounterTime": 1547893865
+        }
+    },
+    {
+        "id": 2269,
+        "name": "La Cr\u00e8me Anglaise - Les padawan d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "11:31",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_10-28-32___2019-01-19_10-42-59.mp4",
+            "offset": 154,
+            "videoBeginningTime": 1547893712,
+            "rawEncounterTime": 1547893865
+        }
+    },
+    {
+        "id": 2271,
+        "name": "Les L\u00e9gumes - Les Fruits",
+        "dayOfWeek": "Saturday",
+        "time": "11:31",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_10-41-18___2019-01-19_10-54-18.mp4",
+            "offset": 144,
+            "videoBeginningTime": 1547894478,
+            "rawEncounterTime": 1547893865
+        }
+    },
+    {
+        "id": 2273,
+        "name": "AOP - Lascar",
+        "dayOfWeek": "Saturday",
+        "time": "11:56",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_11-07-36___2019-01-19_11-23-05.mp4",
+            "offset": 235,
+            "videoBeginningTime": 1547896056,
+            "rawEncounterTime": 1547895416
+        }
+    },
+    {
+        "id": 2275,
+        "name": "Les Comanches de la Bastoche - It's a surprise 2019",
+        "dayOfWeek": "Saturday",
+        "time": "11:56",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_11-08-09___2019-01-19_11-24-01.mp4",
+            "offset": 228,
+            "videoBeginningTime": 1547896089,
+            "rawEncounterTime": 1547895416
+        }
+    },
+    {
+        "id": 2277,
+        "name": "flood-resistant mirror drill - L'agence Touristes",
+        "dayOfWeek": "Saturday",
+        "time": "11:56",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_10-56-08___2019-01-19_11-07-53.mp4",
+            "offset": 50,
+            "videoBeginningTime": 1547895368,
+            "rawEncounterTime": 1547895416
+        }
+    },
+    {
+        "id": 2279,
+        "name": "La Rose couverte Antony - Les Joyeuses Foresti\u00e8res",
+        "dayOfWeek": "Saturday",
+        "time": "11:56",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_11-07-38___2019-01-19_11-18-47.mp4",
+            "offset": 5,
+            "videoBeginningTime": 1547896058,
+            "rawEncounterTime": 1547895416
+        }
+    },
+    {
+        "id": 2281,
+        "name": "Les Lions Pirates - Les \u00e9vad\u00e9s d'Ascaban",
+        "dayOfWeek": "Saturday",
+        "time": "12:14",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_11-23-50___2019-01-19_11-37-47.mp4",
+            "offset": 203,
+            "videoBeginningTime": 1547897030,
+            "rawEncounterTime": 1547896450
+        }
+    },
+    {
+        "id": 2283,
+        "name": "Lionceaux picard - DoroTheA Ducklings duck and hyde ",
+        "dayOfWeek": "Saturday",
+        "time": "12:14",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_11-24-02___2019-01-19_11-37-27.mp4",
+            "offset": 195,
+            "videoBeginningTime": 1547897042,
+            "rawEncounterTime": 1547896450
+        }
+    },
+    {
+        "id": 2285,
+        "name": "Les Arvernes - Thoroughly Loughborough",
+        "dayOfWeek": "Saturday",
+        "time": "12:14",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_11-12-40___2019-01-19_11-15-37.mp4",
+            "offset": 91,
+            "videoBeginningTime": 1547896360,
+            "rawEncounterTime": 1547896450
+        }
+    },
+    {
+        "id": 2266,
+        "name": "Les Freluquets de Pantin - Hymenoptera Wings",
+        "dayOfWeek": "Saturday",
+        "time": "12:34",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_11-43-50___2019-01-19_11-59-54.mp4",
+            "offset": 345,
+            "videoBeginningTime": 1547898230,
+            "rawEncounterTime": 1547897666
+        }
+    },
+    {
+        "id": 2268,
+        "name": "Antony La Rose couverte - La Cr\u00e8me Anglaise",
+        "dayOfWeek": "Saturday",
+        "time": "12:34",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_11-44-49___2019-01-19_12-01-39.mp4",
+            "offset": 336,
+            "videoBeginningTime": 1547898289,
+            "rawEncounterTime": 1547897667
+        }
+    },
+    {
+        "id": 2270,
+        "name": "Les padawan d ermont - Les L\u00e9gumes",
+        "dayOfWeek": "Saturday",
+        "time": "12:34",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_11-34-20___2019-01-19_11-46-11.mp4",
+            "offset": 7,
+            "videoBeginningTime": 1547897660,
+            "rawEncounterTime": 1547897667
+        }
+    },
+    {
+        "id": 2287,
+        "name": "Viroflay - Lamor moi l'noeud",
+        "dayOfWeek": "Saturday",
+        "time": "12:34",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_11-43-06___2019-01-19_11-56-03.mp4",
+            "offset": 235,
+            "videoBeginningTime": 1547898186,
+            "rawEncounterTime": 1547897667
+        }
+    },
+    {
+        "id": 2272,
+        "name": "Les Fruits - AOP",
+        "dayOfWeek": "Saturday",
+        "time": "12:56",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_12-06-14___2019-01-19_12-25-31.mp4",
+            "offset": 525,
+            "videoBeginningTime": 1547899574,
+            "rawEncounterTime": 1547898998
+        }
+    },
+    {
+        "id": 2274,
+        "name": "Lascar - Les Comanches de la Bastoche",
+        "dayOfWeek": "Saturday",
+        "time": "12:56",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_12-06-24___2019-01-19_12-25-30.mp4",
+            "offset": 509,
+            "videoBeginningTime": 1547899584,
+            "rawEncounterTime": 1547898998
+        }
+    },
+    {
+        "id": 2276,
+        "name": "It's a surprise 2019 - flood-resistant mirror drill",
+        "dayOfWeek": "Saturday",
+        "time": "12:56",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_11-55-48___2019-01-19_11-58-16.mp4",
+            "offset": 50,
+            "videoBeginningTime": 1547898948,
+            "rawEncounterTime": 1547898998
+        }
+    },
+    {
+        "id": 2278,
+        "name": "L'agence Touristes - La Rose couverte Antony",
+        "dayOfWeek": "Saturday",
+        "time": "12:56",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_12-07-12___2019-01-19_12-20-09.mp4",
+            "offset": 121,
+            "videoBeginningTime": 1547899632,
+            "rawEncounterTime": 1547898998
+        }
+    },
+    {
+        "id": 2280,
+        "name": "Les Joyeuses Foresti\u00e8res - Les Lions Pirates",
+        "dayOfWeek": "Saturday",
+        "time": "13:12",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_12-25-32___2019-01-19_12-32-47.mp4",
+            "offset": 77,
+            "videoBeginningTime": 1547900732,
+            "rawEncounterTime": 1547899941
+        }
+    },
+    {
+        "id": 2282,
+        "name": "Les \u00e9vad\u00e9s d'Ascaban - Lionceaux picard",
+        "dayOfWeek": "Saturday",
+        "time": "13:12",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_12-25-31___2019-01-19_12-32-57.mp4",
+            "offset": 55,
+            "videoBeginningTime": 1547900731,
+            "rawEncounterTime": 1547899941
+        }
+    },
+    {
+        "id": 2284,
+        "name": "DoroTheA Ducklings duck and hyde - Les Arvernes",
+        "dayOfWeek": "Saturday",
+        "time": "13:12",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_12-12-20___2019-01-19_12-23-06.mp4",
+            "offset": 1,
+            "videoBeginningTime": 1547899940,
+            "rawEncounterTime": 1547899942
+        }
+    },
+    {
+        "id": 2286,
+        "name": "Thoroughly Loughborough - Viroflay",
+        "dayOfWeek": "Saturday",
+        "time": "13:12",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_12-23-04___2019-01-19_12-34-45.mp4",
+            "offset": 36,
+            "videoBeginningTime": 1547900584,
+            "rawEncounterTime": 1547899941
+        }
+    },
+    {
+        "id": 2288,
+        "name": "Lamor moi l'noeud - Hymenoptera Wings",
+        "dayOfWeek": "Saturday",
+        "time": "13:30",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_12-39-08___2019-01-19_12-51-43.mp4",
+            "offset": 169,
+            "videoBeginningTime": 1547901548,
+            "rawEncounterTime": 1547901016
+        }
+    },
+    {
+        "id": 2289,
+        "name": "Les Freluquets de Pantin - Antony La Rose couverte",
+        "dayOfWeek": "Saturday",
+        "time": "13:30",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_12-39-04___2019-01-19_12-51-11.mp4",
+            "offset": 148,
+            "videoBeginningTime": 1547901544,
+            "rawEncounterTime": 1547901016
+        }
+    },
+    {
+        "id": 2292,
+        "name": "La Cr\u00e8me Anglaise - Les L\u00e9gumes",
+        "dayOfWeek": "Saturday",
+        "time": "13:30",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_12-30-20___2019-01-19_12-39-57.mp4",
+            "offset": 18,
+            "videoBeginningTime": 1547901020,
+            "rawEncounterTime": 1547901016
+        }
+    },
+    {
+        "id": 2293,
+        "name": "Les padawan d ermont - Les Fruits",
+        "dayOfWeek": "Saturday",
+        "time": "13:30",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_12-39-20___2019-01-19_12-48-47.mp4",
+            "offset": 1,
+            "videoBeginningTime": 1547901560,
+            "rawEncounterTime": 1547901016
+        }
+    },
+    {
+        "id": 2296,
+        "name": "AOP - Les Comanches de la Bastoche",
+        "dayOfWeek": "Saturday",
+        "time": "13:47",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_12-55-44___2019-01-19_13-07-05.mp4",
+            "offset": 120,
+            "videoBeginningTime": 1547902544,
+            "rawEncounterTime": 1547902037
+        }
+    },
+    {
+        "id": 2297,
+        "name": "Lascar - It's a surprise 2019",
+        "dayOfWeek": "Saturday",
+        "time": "13:47",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_12-55-56___2019-01-19_13-07-15.mp4",
+            "offset": 109,
+            "videoBeginningTime": 1547902556,
+            "rawEncounterTime": 1547902037
+        }
+    },
+    {
+        "id": 2300,
+        "name": "flood-resistant mirror drill - La Rose couverte Antony",
+        "dayOfWeek": "Saturday",
+        "time": "13:47",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_12-48-08___2019-01-19_12-59-41.mp4",
+            "offset": 88,
+            "videoBeginningTime": 1547902088,
+            "rawEncounterTime": 1547902037
+        }
+    },
+    {
+        "id": 2301,
+        "name": "L'agence Touristes - Les Joyeuses Foresti\u00e8res",
+        "dayOfWeek": "Saturday",
+        "time": "13:47",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_12-57-08___2019-01-19_13-08-40.mp4",
+            "offset": 77,
+            "videoBeginningTime": 1547902628,
+            "rawEncounterTime": 1547902037
+        }
+    },
+    {
+        "id": 2304,
+        "name": "Les Lions Pirates - Lionceaux picard",
+        "dayOfWeek": "Saturday",
+        "time": "14:01",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_13-10-14___2019-01-19_13-20-36.mp4",
+            "offset": 53,
+            "videoBeginningTime": 1547903414,
+            "rawEncounterTime": 1547902900
+        }
+    },
+    {
+        "id": 2305,
+        "name": "Les \u00e9vad\u00e9s d'Ascaban - DoroTheA Ducklings duck and hyde ",
+        "dayOfWeek": "Saturday",
+        "time": "14:01",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_13-10-10___2019-01-19_13-20-15.mp4",
+            "offset": 44,
+            "videoBeginningTime": 1547903410,
+            "rawEncounterTime": 1547902900
+        }
+    },
+    {
+        "id": 2308,
+        "name": "Les Arvernes - Viroflay",
+        "dayOfWeek": "Saturday",
+        "time": "14:01",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_13-07-33___2019-01-19_13-12-05.mp4",
+            "offset": 46,
+            "videoBeginningTime": 1547903253,
+            "rawEncounterTime": 1547902900
+        }
+    },
+    {
+        "id": 2290,
+        "name": "Hymenoptera Wings - La Cr\u00e8me Anglaise",
+        "dayOfWeek": "Saturday",
+        "time": "14:42",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_13-51-10___2019-01-19_14-01-31.mp4",
+            "offset": 52,
+            "videoBeginningTime": 1547905870,
+            "rawEncounterTime": 1547905355
+        }
+    },
+    {
+        "id": 2291,
+        "name": "Antony La Rose couverte - Les padawan d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "14:42",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_13-51-07___2019-01-19_14-01-16.mp4",
+            "offset": 46,
+            "videoBeginningTime": 1547905867,
+            "rawEncounterTime": 1547905355
+        }
+    },
+    {
+        "id": 2309,
+        "name": "Thoroughly Loughborough - Lamor moi l'noeud",
+        "dayOfWeek": "Saturday",
+        "time": "14:42",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_13-43-29___2019-01-19_13-53-35.mp4",
+            "offset": 36,
+            "videoBeginningTime": 1547905409,
+            "rawEncounterTime": 1547905355
+        }
+    },
+    {
+        "id": 2358,
+        "name": "Les Freluquets de Pantin - Les L\u00e9gumes",
+        "dayOfWeek": "Saturday",
+        "time": "14:42",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_13-52-16___2019-01-19_14-03-07.mp4",
+            "offset": 46,
+            "videoBeginningTime": 1547905936,
+            "rawEncounterTime": 1547905355
+        }
+    },
+    {
+        "id": 2295,
+        "name": "Les Fruits - Lascar",
+        "dayOfWeek": "Saturday",
+        "time": "14:58",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_14-07-12___2019-01-19_14-20-07.mp4",
+            "offset": 179,
+            "videoBeginningTime": 1547906832,
+            "rawEncounterTime": 1547906291
+        }
+    },
+    {
+        "id": 2298,
+        "name": "Les Comanches de la Bastoche - flood-resistant mirror drill",
+        "dayOfWeek": "Saturday",
+        "time": "14:58",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_14-07-05___2019-01-19_14-19-30.mp4",
+            "offset": 160,
+            "videoBeginningTime": 1547906825,
+            "rawEncounterTime": 1547906291
+        }
+    },
+    {
+        "id": 2299,
+        "name": "It's a surprise 2019 - L'agence Touristes",
+        "dayOfWeek": "Saturday",
+        "time": "14:58",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_13-58-00___2019-01-19_14-07-32.mp4",
+            "offset": 36,
+            "videoBeginningTime": 1547906280,
+            "rawEncounterTime": 1547906291
+        }
+    },
+    {
+        "id": 2302,
+        "name": "La Rose couverte Antony - Les Lions Pirates",
+        "dayOfWeek": "Saturday",
+        "time": "14:58",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_14-07-16___2019-01-19_14-18-52.mp4",
+            "offset": 127,
+            "videoBeginningTime": 1547906836,
+            "rawEncounterTime": 1547906291
+        }
+    },
+    {
+        "id": 2303,
+        "name": "Les Joyeuses Foresti\u00e8res - Les \u00e9vad\u00e9s d'Ascaban",
+        "dayOfWeek": "Saturday",
+        "time": "15:14",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_14-23-46___2019-01-19_14-35-51.mp4",
+            "offset": 134,
+            "videoBeginningTime": 1547907826,
+            "rawEncounterTime": 1547907291
+        }
+    },
+    {
+        "id": 2306,
+        "name": "Lionceaux picard - Les Arvernes",
+        "dayOfWeek": "Saturday",
+        "time": "15:14",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_14-23-40___2019-01-19_14-35-44.mp4",
+            "offset": 144,
+            "videoBeginningTime": 1547907820,
+            "rawEncounterTime": 1547907291
+        }
+    },
+    {
+        "id": 2330,
+        "name": "DoroTheA Ducklings duck and hyde - Viroflay",
+        "dayOfWeek": "Saturday",
+        "time": "15:14",
+        "area": "C",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 2294,
+        "name": "Les L\u00e9gumes - AOP",
+        "dayOfWeek": "Saturday",
+        "time": "15:32",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_14-42-58___2019-01-19_14-57-53.mp4",
+            "offset": 231,
+            "videoBeginningTime": 1547908978,
+            "rawEncounterTime": 1547908369
+        }
+    },
+    {
+        "id": 2311,
+        "name": "Lamor moi l'noeud - Antony La Rose couverte",
+        "dayOfWeek": "Saturday",
+        "time": "15:32",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_14-42-50___2019-01-19_14-56-45.mp4",
+            "offset": 183,
+            "videoBeginningTime": 1547908970,
+            "rawEncounterTime": 1547908369
+        }
+    },
+    {
+        "id": 2312,
+        "name": "Les Freluquets de Pantin - La Cr\u00e8me Anglaise",
+        "dayOfWeek": "Saturday",
+        "time": "15:32",
+        "area": "C",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 2313,
+        "name": "Hymenoptera Wings - Les padawan d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "15:32",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_14-32-03___2019-01-19_14-35-00.mp4",
+            "offset": 6,
+            "videoBeginningTime": 1547908323,
+            "rawEncounterTime": 1547908369
+        }
+    },
+    {
+        "id": 2318,
+        "name": "Les Fruits - Les Comanches de la Bastoche",
+        "dayOfWeek": "Saturday",
+        "time": "15:51",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_15-00-24___2019-01-19_15-14-27.mp4",
+            "offset": 229,
+            "videoBeginningTime": 1547910024,
+            "rawEncounterTime": 1547909465
+        }
+    },
+    {
+        "id": 2320,
+        "name": "Lascar - flood-resistant mirror drill",
+        "dayOfWeek": "Saturday",
+        "time": "15:51",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_15-00-07___2019-01-19_15-13-37.mp4",
+            "offset": 218,
+            "videoBeginningTime": 1547910007,
+            "rawEncounterTime": 1547909465
+        }
+    },
+    {
+        "id": 2322,
+        "name": "It's a surprise 2019 - La Rose couverte Antony",
+        "dayOfWeek": "Saturday",
+        "time": "15:51",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_14-51-30___2019-01-19_15-02-26.mp4",
+            "offset": -24,
+            "videoBeginningTime": 1547909490,
+            "rawEncounterTime": 1547909465
+        }
+    },
+    {
+        "id": 2324,
+        "name": "L'agence Touristes - Les Lions Pirates",
+        "dayOfWeek": "Saturday",
+        "time": "15:51",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-19_14-51-04___2019-01-19_15-00-18.mp4",
+            "offset": -7,
+            "videoBeginningTime": 1547909464,
+            "rawEncounterTime": 1547909465
+        }
+    },
+    {
+        "id": 2307,
+        "name": "DoroTheA Ducklings duck and hyde - Thoroughly Loughborough",
+        "dayOfWeek": "Saturday",
+        "time": "16:11",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-19_15-20-28___2019-01-19_15-35-10.mp4",
+            "offset": 292,
+            "videoBeginningTime": 1547911228,
+            "rawEncounterTime": 1547910692
+        }
+    },
+    {
+        "id": 2326,
+        "name": "Les Joyeuses Foresti\u00e8res - Lionceaux picard",
+        "dayOfWeek": "Saturday",
+        "time": "16:11",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-19_15-20-22___2019-01-19_15-33-40.mp4",
+            "offset": 217,
+            "videoBeginningTime": 1547911222,
+            "rawEncounterTime": 1547910692
+        }
+    },
+    {
+        "id": 2328,
+        "name": "Les \u00e9vad\u00e9s d'Ascaban - Les Arvernes",
+        "dayOfWeek": "Saturday",
+        "time": "16:11",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-19_15-08-32___2019-01-19_15-19-43.mp4",
+            "offset": 181,
+            "videoBeginningTime": 1547910512,
+            "rawEncounterTime": 1547910692
+        }
+    },
+    {
+        "id": 2310,
+        "name": "Viroflay - Les Freluquets de Pantin ",
+        "dayOfWeek": "Sunday",
+        "time": "09:43",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_08-52-54___2019-01-20_09-06-34.mp4",
+            "offset": 207,
+            "videoBeginningTime": 1547974374,
+            "rawEncounterTime": 1547973814
+        }
+    },
+    {
+        "id": 2314,
+        "name": "Antony La Rose couverte - Les L\u00e9gumes",
+        "dayOfWeek": "Sunday",
+        "time": "09:43",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_08-52-50___2019-01-20_09-06-12.mp4",
+            "offset": 191,
+            "videoBeginningTime": 1547974370,
+            "rawEncounterTime": 1547973814
+        }
+    },
+    {
+        "id": 2316,
+        "name": "Les padawan d ermont - AOP",
+        "dayOfWeek": "Sunday",
+        "time": "09:43",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_08-44-18___2019-01-20_08-52-54.mp4",
+            "offset": -43,
+            "videoBeginningTime": 1547973858,
+            "rawEncounterTime": 1547973814
+        }
+    },
+    {
+        "id": 2334,
+        "name": "Lamor moi l'noeud - La Cr\u00e8me Anglaise",
+        "dayOfWeek": "Sunday",
+        "time": "09:43",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_08-52-18___2019-01-20_09-04-05.mp4",
+            "offset": 161,
+            "videoBeginningTime": 1547974338,
+            "rawEncounterTime": 1547973814
+        }
+    },
+    {
+        "id": 2321,
+        "name": "Les Comanches de la Bastoche - L'agence Touristes",
+        "dayOfWeek": "Sunday",
+        "time": "10:06",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_09-14-28___2019-01-20_09-29-55.mp4",
+            "offset": 369,
+            "videoBeginningTime": 1547975668,
+            "rawEncounterTime": 1547975163
+        }
+    },
+    {
+        "id": 2341,
+        "name": "Les Fruits - It's a surprise 2019",
+        "dayOfWeek": "Sunday",
+        "time": "10:06",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_09-14-38___2019-01-20_09-30-05.mp4",
+            "offset": 361,
+            "videoBeginningTime": 1547975678,
+            "rawEncounterTime": 1547975163
+        }
+    },
+    {
+        "id": 2346,
+        "name": "flood-resistant mirror drill - Les Lions Pirates",
+        "dayOfWeek": "Sunday",
+        "time": "10:06",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_09-06-04___2019-01-20_09-15-43.mp4",
+            "offset": -1,
+            "videoBeginningTime": 1547975164,
+            "rawEncounterTime": 1547975163
+        }
+    },
+    {
+        "id": 2366,
+        "name": "Lascar - La Rose couverte Antony",
+        "dayOfWeek": "Sunday",
+        "time": "10:06",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_09-15-30___2019-01-20_09-25-11.mp4",
+            "offset": -7,
+            "videoBeginningTime": 1547975730,
+            "rawEncounterTime": 1547975163
+        }
+    },
+    {
+        "id": 2329,
+        "name": "Lionceaux picard - Thoroughly Loughborough",
+        "dayOfWeek": "Sunday",
+        "time": "10:22",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_09-31-48___2019-01-20_09-43-48.mp4",
+            "offset": 123,
+            "videoBeginningTime": 1547976708,
+            "rawEncounterTime": 1547976165
+        }
+    },
+    {
+        "id": 2349,
+        "name": "Les Joyeuses Foresti\u00e8res - DoroTheA Ducklings duck and hyde ",
+        "dayOfWeek": "Sunday",
+        "time": "10:22",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_09-31-43___2019-01-20_09-43-20.mp4",
+            "offset": 108,
+            "videoBeginningTime": 1547976703,
+            "rawEncounterTime": 1547976165
+        }
+    },
+    {
+        "id": 2377,
+        "name": "Les Arvernes - Hymenoptera Wings",
+        "dayOfWeek": "Sunday",
+        "time": "10:22",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_09-21-40___2019-01-20_09-32-16.mp4",
+            "offset": 65,
+            "videoBeginningTime": 1547976100,
+            "rawEncounterTime": 1547976165
+        }
+    },
+    {
+        "id": 2374,
+        "name": "Les \u00e9vad\u00e9s d'Ascaban - Viroflay",
+        "dayOfWeek": "Sunday",
+        "time": "10:22",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_09-31-48___2019-01-20_09-41-54.mp4",
+            "offset": 41,
+            "videoBeginningTime": 1547976708,
+            "rawEncounterTime": 1547976165
+        }
+    },
+    {
+        "id": 2335,
+        "name": "Les Freluquets de Pantin - Les padawan d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "10:39",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_09-48-46___2019-01-20_10-02-28.mp4",
+            "offset": 227,
+            "videoBeginningTime": 1547977726,
+            "rawEncounterTime": 1547977184
+        }
+    },
+    {
+        "id": 2338,
+        "name": "La Cr\u00e8me Anglaise - AOP",
+        "dayOfWeek": "Sunday",
+        "time": "10:39",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_09-48-40___2019-01-20_10-01-54.mp4",
+            "offset": 208,
+            "videoBeginningTime": 1547977720,
+            "rawEncounterTime": 1547977184
+        }
+    },
+    {
+        "id": 2317,
+        "name": "Les L\u00e9gumes - Lascar",
+        "dayOfWeek": "Sunday",
+        "time": "10:39",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_09-39-30___2019-01-20_09-49-16.mp4",
+            "offset": 14,
+            "videoBeginningTime": 1547977170,
+            "rawEncounterTime": 1547977184
+        }
+    },
+    {
+        "id": 2337,
+        "name": "Antony La Rose couverte - Les Fruits",
+        "dayOfWeek": "Sunday",
+        "time": "10:39",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_09-48-48___2019-01-20_09-58-23.mp4",
+            "offset": 8,
+            "videoBeginningTime": 1547977728,
+            "rawEncounterTime": 1547977184
+        }
+    },
+    {
+        "id": 2344,
+        "name": "Les Comanches de la Bastoche - La Rose couverte Antony",
+        "dayOfWeek": "Sunday",
+        "time": "10:54",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_10-03-54___2019-01-20_10-15-41.mp4",
+            "offset": 110,
+            "videoBeginningTime": 1547978634,
+            "rawEncounterTime": 1547978090
+        }
+    },
+    {
+        "id": 2368,
+        "name": "It's a surprise 2019 - Les Lions Pirates",
+        "dayOfWeek": "Sunday",
+        "time": "10:54",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_10-04-19___2019-01-20_10-16-06.mp4",
+            "offset": 88,
+            "videoBeginningTime": 1547978659,
+            "rawEncounterTime": 1547978090
+        }
+    },
+    {
+        "id": 2323,
+        "name": "flood-resistant mirror drill - Les Joyeuses Foresti\u00e8res",
+        "dayOfWeek": "Sunday",
+        "time": "10:54",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_09-54-48___2019-01-20_10-06-22.mp4",
+            "offset": 4,
+            "videoBeginningTime": 1547978088,
+            "rawEncounterTime": 1547978090
+        }
+    },
+    {
+        "id": 2331,
+        "name": "Les Arvernes - Lamor moi l'noeud",
+        "dayOfWeek": "Sunday",
+        "time": "10:54",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_10-06-06___2019-01-20_10-17-58.mp4",
+            "offset": 15,
+            "videoBeginningTime": 1547978766,
+            "rawEncounterTime": 1547978090
+        }
+    },
+    {
+        "id": 2333,
+        "name": "Viroflay - Hymenoptera Wings",
+        "dayOfWeek": "Sunday",
+        "time": "11:09",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_10-18-44___2019-01-20_10-29-04.mp4",
+            "offset": 35,
+            "videoBeginningTime": 1547979524,
+            "rawEncounterTime": 1547978994
+        }
+    },
+    {
+        "id": 2347,
+        "name": "L'agence Touristes - Les \u00e9vad\u00e9s d'Ascaban",
+        "dayOfWeek": "Sunday",
+        "time": "11:09",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_10-18-39___2019-01-20_10-28-39.mp4",
+            "offset": 25,
+            "videoBeginningTime": 1547979519,
+            "rawEncounterTime": 1547978994
+        }
+    },
+    {
+        "id": 2315,
+        "name": "La Cr\u00e8me Anglaise - Les Fruits",
+        "dayOfWeek": "Sunday",
+        "time": "11:23",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_10-32-54___2019-01-20_10-44-28.mp4",
+            "offset": 99,
+            "videoBeginningTime": 1547980374,
+            "rawEncounterTime": 1547979833
+        }
+    },
+    {
+        "id": 2332,
+        "name": "Thoroughly Loughborough - Les Freluquets de Pantin ",
+        "dayOfWeek": "Sunday",
+        "time": "11:23",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_10-32-49___2019-01-20_10-44-06.mp4",
+            "offset": 90,
+            "videoBeginningTime": 1547980369,
+            "rawEncounterTime": 1547979833
+        }
+    },
+    {
+        "id": 2339,
+        "name": "Les padawan d ermont - Lascar",
+        "dayOfWeek": "Sunday",
+        "time": "11:23",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_10-22-58___2019-01-20_10-33-25.mp4",
+            "offset": 56,
+            "videoBeginningTime": 1547979778,
+            "rawEncounterTime": 1547979833
+        }
+    },
+    {
+        "id": 2360,
+        "name": "Antony La Rose couverte - AOP",
+        "dayOfWeek": "Sunday",
+        "time": "11:23",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_10-32-54___2019-01-20_10-42-55.mp4",
+            "offset": 38,
+            "videoBeginningTime": 1547980374,
+            "rawEncounterTime": 1547979833
+        }
+    },
+    {
+        "id": 2327,
+        "name": "Les Lions Pirates - DoroTheA Ducklings duck and hyde ",
+        "dayOfWeek": "Sunday",
+        "time": "11:38",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_10-47-22___2019-01-20_10-59-23.mp4",
+            "offset": 117,
+            "videoBeginningTime": 1547981242,
+            "rawEncounterTime": 1547980692
+        }
+    },
+    {
+        "id": 2340,
+        "name": "Les L\u00e9gumes - Les Comanches de la Bastoche",
+        "dayOfWeek": "Sunday",
+        "time": "11:38",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_10-47-18___2019-01-20_10-59-01.mp4",
+            "offset": 106,
+            "videoBeginningTime": 1547981238,
+            "rawEncounterTime": 1547980692
+        }
+    },
+    {
+        "id": 2345,
+        "name": "It's a surprise 2019 - Les Joyeuses Foresti\u00e8res",
+        "dayOfWeek": "Sunday",
+        "time": "11:38",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_10-37-20___2019-01-20_10-47-54.mp4",
+            "offset": 53,
+            "videoBeginningTime": 1547980640,
+            "rawEncounterTime": 1547980692
+        }
+    },
+    {
+        "id": 2348,
+        "name": "La Rose couverte Antony - Lionceaux picard",
+        "dayOfWeek": "Sunday",
+        "time": "11:38",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_10-47-24___2019-01-20_10-58-22.mp4",
+            "offset": 83,
+            "videoBeginningTime": 1547981244,
+            "rawEncounterTime": 1547980692
+        }
+    },
+    {
+        "id": 2369,
+        "name": "flood-resistant mirror drill - Les \u00e9vad\u00e9s d'Ascaban",
+        "dayOfWeek": "Sunday",
+        "time": "11:53",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_11-07-12___2019-01-20_11-23-46.mp4",
+            "offset": 142,
+            "videoBeginningTime": 1547982432,
+            "rawEncounterTime": 1547981633
+        }
+    },
+    {
+        "id": 2355,
+        "name": "Thoroughly Loughborough - Hymenoptera Wings",
+        "dayOfWeek": "Sunday",
+        "time": "11:53",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_11-07-01___2019-01-20_11-23-14.mp4",
+            "offset": 134,
+            "videoBeginningTime": 1547982421,
+            "rawEncounterTime": 1547981633
+        }
+    },
+    {
+        "id": 2365,
+        "name": "AOP - L'agence Touristes",
+        "dayOfWeek": "Sunday",
+        "time": "11:53",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_10-51-56___2019-01-20_10-57-22.mp4",
+            "offset": 118,
+            "videoBeginningTime": 1547981516,
+            "rawEncounterTime": 1547981633
+        }
+    },
+    {
+        "id": 2352,
+        "name": "Lionceaux picard - Viroflay",
+        "dayOfWeek": "Sunday",
+        "time": "11:53",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_11-03-32___2019-01-20_11-15-19.mp4",
+            "offset": 107,
+            "videoBeginningTime": 1547982212,
+            "rawEncounterTime": 1547981633
+        }
+    },
+    {
+        "id": 2353,
+        "name": "DoroTheA Ducklings duck and hyde - Lamor moi l'noeud",
+        "dayOfWeek": "Sunday",
+        "time": "12:12",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_11-23-47___2019-01-20_11-31-37.mp4",
+            "offset": 28,
+            "videoBeginningTime": 1547983427,
+            "rawEncounterTime": 1547982720
+        }
+    },
+    {
+        "id": 2354,
+        "name": "Les Arvernes - Les Freluquets de Pantin ",
+        "dayOfWeek": "Sunday",
+        "time": "12:58",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_12-07-46___2019-01-20_12-20-39.mp4",
+            "offset": 180,
+            "videoBeginningTime": 1547986066,
+            "rawEncounterTime": 1547985526
+        }
+    },
+    {
+        "id": 2361,
+        "name": "La Cr\u00e8me Anglaise - Lascar",
+        "dayOfWeek": "Sunday",
+        "time": "12:58",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_12-07-42___2019-01-20_12-20-07.mp4",
+            "offset": 159,
+            "videoBeginningTime": 1547986062,
+            "rawEncounterTime": 1547985526
+        }
+    },
+    {
+        "id": 2362,
+        "name": "Les padawan d ermont - Les Comanches de la Bastoche",
+        "dayOfWeek": "Sunday",
+        "time": "12:58",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_11-56-44___2019-01-20_12-08-16.mp4",
+            "offset": 123,
+            "videoBeginningTime": 1547985404,
+            "rawEncounterTime": 1547985526
+        }
+    },
+    {
+        "id": 2363,
+        "name": "Les L\u00e9gumes - It's a surprise 2019",
+        "dayOfWeek": "Sunday",
+        "time": "12:58",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_12-07-48___2019-01-20_12-17-15.mp4",
+            "offset": 3,
+            "videoBeginningTime": 1547986068,
+            "rawEncounterTime": 1547985526
+        }
+    },
+    {
+        "id": 2325,
+        "name": "La Rose couverte Antony - Les \u00e9vad\u00e9s d'Ascaban",
+        "dayOfWeek": "Sunday",
+        "time": "13:13",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_12-22-10___2019-01-20_12-33-06.mp4",
+            "offset": 62,
+            "videoBeginningTime": 1547986930,
+            "rawEncounterTime": 1547986390
+        }
+    },
+    {
+        "id": 2342,
+        "name": "AOP - flood-resistant mirror drill",
+        "dayOfWeek": "Sunday",
+        "time": "13:13",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_12-22-03___2019-01-20_12-32-44.mp4",
+            "offset": 57,
+            "videoBeginningTime": 1547986923,
+            "rawEncounterTime": 1547986390
+        }
+    },
+    {
+        "id": 2356,
+        "name": "Viroflay - Antony La Rose couverte",
+        "dayOfWeek": "Sunday",
+        "time": "13:13",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_12-12-28___2019-01-20_12-22-39.mp4",
+            "offset": 43,
+            "videoBeginningTime": 1547986348,
+            "rawEncounterTime": 1547986390
+        }
+    },
+    {
+        "id": 2359,
+        "name": "Hymenoptera Wings - Les Fruits",
+        "dayOfWeek": "Sunday",
+        "time": "13:13",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_12-22-10___2019-01-20_12-32-05.mp4",
+            "offset": 32,
+            "videoBeginningTime": 1547986930,
+            "rawEncounterTime": 1547986390
+        }
+    },
+    {
+        "id": 2370,
+        "name": "L'agence Touristes - Lionceaux picard",
+        "dayOfWeek": "Sunday",
+        "time": "13:27",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_12-35-50___2019-01-20_12-46-00.mp4",
+            "offset": 32,
+            "videoBeginningTime": 1547987750,
+            "rawEncounterTime": 1547987227
+        }
+    },
+    {
+        "id": 2373,
+        "name": "Les Lions Pirates - Thoroughly Loughborough",
+        "dayOfWeek": "Sunday",
+        "time": "13:27",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_12-35-46___2019-01-20_12-45-57.mp4",
+            "offset": 41,
+            "videoBeginningTime": 1547987746,
+            "rawEncounterTime": 1547987227
+        }
+    },
+    {
+        "id": 2372,
+        "name": "Les Joyeuses Foresti\u00e8res - Les Arvernes",
+        "dayOfWeek": "Sunday",
+        "time": "13:27",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_12-26-12___2019-01-20_12-36-24.mp4",
+            "offset": 55,
+            "videoBeginningTime": 1547987172,
+            "rawEncounterTime": 1547987227
+        }
+    },
+    {
+        "id": 2357,
+        "name": "Lamor moi l'noeud - Les padawan d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "13:40",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_12-49-04___2019-01-20_12-59-36.mp4",
+            "offset": 41,
+            "videoBeginningTime": 1547988544,
+            "rawEncounterTime": 1547988006
+        }
+    },
+    {
+        "id": 2376,
+        "name": "DoroTheA Ducklings duck and hyde - Les Freluquets de Pantin ",
+        "dayOfWeek": "Sunday",
+        "time": "13:40",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_12-48-59___2019-01-20_12-59-17.mp4",
+            "offset": 35,
+            "videoBeginningTime": 1547988539,
+            "rawEncounterTime": 1547988006
+        }
+    },
+    {
+        "id": 2319,
+        "name": "AOP - It's a surprise 2019",
+        "dayOfWeek": "Sunday",
+        "time": "13:40",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_12-39-56___2019-01-20_12-49-25.mp4",
+            "offset": 10,
+            "videoBeginningTime": 1547987996,
+            "rawEncounterTime": 1547988006
+        }
+    },
+    {
+        "id": 2336,
+        "name": "Hymenoptera Wings - Les L\u00e9gumes",
+        "dayOfWeek": "Sunday",
+        "time": "13:40",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_12-49-14___2019-01-20_12-59-03.mp4",
+            "offset": 19,
+            "videoBeginningTime": 1547988554,
+            "rawEncounterTime": 1547988006
+        }
+    },
+    {
+        "id": 2364,
+        "name": "Les Fruits - flood-resistant mirror drill",
+        "dayOfWeek": "Sunday",
+        "time": "13:53",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_13-03-00___2019-01-20_13-14-01.mp4",
+            "offset": 57,
+            "videoBeginningTime": 1547989380,
+            "rawEncounterTime": 1547988828
+        }
+    },
+    {
+        "id": 2379,
+        "name": "Viroflay - La Cr\u00e8me Anglaise",
+        "dayOfWeek": "Sunday",
+        "time": "13:53",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_13-02-53___2019-01-20_13-13-36.mp4",
+            "offset": 48,
+            "videoBeginningTime": 1547989373,
+            "rawEncounterTime": 1547988828
+        }
+    },
+    {
+        "id": 2343,
+        "name": "Lascar - L'agence Touristes",
+        "dayOfWeek": "Sunday",
+        "time": "13:53",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_12-53-44___2019-01-20_12-58-51.mp4",
+            "offset": 4,
+            "videoBeginningTime": 1547988824,
+            "rawEncounterTime": 1547988828
+        }
+    },
+    {
+        "id": 2350,
+        "name": "Les Lions Pirates - Les Arvernes",
+        "dayOfWeek": "Sunday",
+        "time": "13:53",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_13-03-06___2019-01-20_13-13-07.mp4",
+            "offset": 21,
+            "videoBeginningTime": 1547989386,
+            "rawEncounterTime": 1547988828
+        }
+    },
+    {
+        "id": 2351,
+        "name": "Les \u00e9vad\u00e9s d'Ascaban - Thoroughly Loughborough",
+        "dayOfWeek": "Sunday",
+        "time": "14:07",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_13-16-32___2019-01-20_13-27-48.mp4",
+            "offset": 67,
+            "videoBeginningTime": 1547990192,
+            "rawEncounterTime": 1547989636
+        }
+    },
+    {
+        "id": 2367,
+        "name": "Les Comanches de la Bastoche - Les Joyeuses Foresti\u00e8res",
+        "dayOfWeek": "Sunday",
+        "time": "14:07",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1746\/B\/2019-01-20_13-16-25___2019-01-20_13-27-23.mp4",
+            "offset": 58,
+            "videoBeginningTime": 1547990185,
+            "rawEncounterTime": 1547989636
+        }
+    },
+    {
+        "id": 2371,
+        "name": "La Rose couverte Antony - DoroTheA Ducklings duck and hyde ",
+        "dayOfWeek": "Sunday",
+        "time": "14:07",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1746\/C\/2019-01-20_13-09-30___2019-01-20_13-21-45.mp4",
+            "offset": 44,
+            "videoBeginningTime": 1547989770,
+            "rawEncounterTime": 1547989636
+        }
+    },
+    {
+        "id": 2375,
+        "name": "Lionceaux picard - Lamor moi l'noeud",
+        "dayOfWeek": "Sunday",
+        "time": "14:07",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/1746\/D\/2019-01-20_13-16-38___2019-01-20_13-27-01.mp4",
+            "offset": 40,
+            "videoBeginningTime": 1547990198,
+            "rawEncounterTime": 1547989636
+        }
+    },
+    {
+        "id": 2378,
+        "name": "Thoroughly Loughborough - Antony La Rose couverte",
+        "dayOfWeek": "Sunday",
+        "time": "14:26",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1746\/A\/2019-01-20_13-28-16___2019-01-20_13-37-53.mp4",
+            "offset": 9,
+            "videoBeginningTime": 1547990896,
+            "rawEncounterTime": 1547990764
+        }
+    }
+]

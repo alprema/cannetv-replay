@@ -1,0 +1,1250 @@
+[
+    {
+        "id": 1395,
+        "name": "Les Arvernes 1 - Lions Picard",
+        "dayOfWeek": "Saturday",
+        "time": "11:11",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517048474_1517049158.mp4",
+            "offset": 26,
+            "videoBeginningTime": "1517048474",
+            "rawEncounterTime": 1517047884
+        }
+    },
+    {
+        "id": 1397,
+        "name": "Pirates d'Ermont - KBC Martinique",
+        "dayOfWeek": "Saturday",
+        "time": "11:11",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2388_1517051590_1517052135.mp4",
+            "offset": 0,
+            "videoBeginningTime": "1517051590",
+            "rawEncounterTime": 1517047884
+        }
+    },
+    {
+        "id": 1399,
+        "name": "Les \u00c9lans d'Alaska - savate arcisienne",
+        "dayOfWeek": "Saturday",
+        "time": "11:11",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517048578_1517049257.mp4",
+            "offset": 3,
+            "videoBeginningTime": "1517048578",
+            "rawEncounterTime": 1517047884
+        }
+    },
+    {
+        "id": 1401,
+        "name": "It is a Surprise 2018 - Les Arvernes 2",
+        "dayOfWeek": "Saturday",
+        "time": "11:34",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517049944_1517050710.mp4",
+            "offset": 34,
+            "videoBeginningTime": "1517049944",
+            "rawEncounterTime": 1517049281
+        }
+    },
+    {
+        "id": 1403,
+        "name": "Les Mohicans des ar\u00e8nes - Les padawon d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "11:34",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2390_1517053132_1517053889.mp4",
+            "offset": 66,
+            "videoBeginningTime": "1517053132",
+            "rawEncounterTime": 1517049281
+        }
+    },
+    {
+        "id": 1405,
+        "name": "Les Mousquetaires de Prague - Les Lascars",
+        "dayOfWeek": "Saturday",
+        "time": "11:34",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517050014_1517050750.mp4",
+            "offset": 17,
+            "videoBeginningTime": "1517050014",
+            "rawEncounterTime": 1517049281
+        }
+    },
+    {
+        "id": 1407,
+        "name": "La Rose couverte de Paname - J'ai envie de... ",
+        "dayOfWeek": "Saturday",
+        "time": "11:53",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517050982_1517051717.mp4",
+            "offset": 73,
+            "videoBeginningTime": "1517050982",
+            "rawEncounterTime": 1517050387
+        }
+    },
+    {
+        "id": 1409,
+        "name": "CANNETABS - Titirade",
+        "dayOfWeek": "Saturday",
+        "time": "11:53",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2391_1517054224_1517054966.mp4",
+            "offset": 65,
+            "videoBeginningTime": "1517054224",
+            "rawEncounterTime": 1517050387
+        }
+    },
+    {
+        "id": 1396,
+        "name": "Lions Picard - Pirates d'Ermont",
+        "dayOfWeek": "Saturday",
+        "time": "12:12",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517052106_1517052744.mp4",
+            "offset": 6,
+            "videoBeginningTime": "1517052106",
+            "rawEncounterTime": 1517051573
+        }
+    },
+    {
+        "id": 1398,
+        "name": "KBC Martinique - Les \u00c9lans d'Alaska",
+        "dayOfWeek": "Saturday",
+        "time": "12:12",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2392_1517055370_1517056203.mp4",
+            "offset": 165,
+            "videoBeginningTime": "1517055370",
+            "rawEncounterTime": 1517051573
+        }
+    },
+    {
+        "id": 1459,
+        "name": "Les Arvernes 1 - savate arcisienne",
+        "dayOfWeek": "Saturday",
+        "time": "12:12",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517052194_1517052976.mp4",
+            "offset": 147,
+            "videoBeginningTime": "1517052194",
+            "rawEncounterTime": 1517051554
+        }
+    },
+    {
+        "id": 1402,
+        "name": "Les Arvernes 2 - Les Mohicans des ar\u00e8nes",
+        "dayOfWeek": "Saturday",
+        "time": "12:29",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517053126_1517053868.mp4",
+            "offset": 99,
+            "videoBeginningTime": "1517053126",
+            "rawEncounterTime": 1517052550
+        }
+    },
+    {
+        "id": 1404,
+        "name": "Les padawon d ermont - Les Mousquetaires de Prague",
+        "dayOfWeek": "Saturday",
+        "time": "12:29",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2393_1517056354_1517057087.mp4",
+            "offset": 89,
+            "videoBeginningTime": "1517056354",
+            "rawEncounterTime": 1517052550
+        }
+    },
+    {
+        "id": 1465,
+        "name": "It is a Surprise 2018 - Les Lascars",
+        "dayOfWeek": "Saturday",
+        "time": "12:29",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517053228_1517053951.mp4",
+            "offset": 62,
+            "videoBeginningTime": "1517053228",
+            "rawEncounterTime": 1517052550
+        }
+    },
+    {
+        "id": 1408,
+        "name": "J'ai envie de... - CANNETABS",
+        "dayOfWeek": "Saturday",
+        "time": "12:46",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517054128_1517054751.mp4",
+            "offset": -9,
+            "videoBeginningTime": "1517054128",
+            "rawEncounterTime": 1517053561
+        }
+    },
+    {
+        "id": 1439,
+        "name": "La Rose couverte de Paname - Titirade",
+        "dayOfWeek": "Saturday",
+        "time": "12:46",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2394_1517057340_1517057955.mp4",
+            "offset": -7,
+            "videoBeginningTime": "1517057340",
+            "rawEncounterTime": 1517053561
+        }
+    },
+    {
+        "id": 1411,
+        "name": "Les Arvernes 1 - Pirates d'Ermont",
+        "dayOfWeek": "Saturday",
+        "time": "13:01",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517055028_1517055632.mp4",
+            "offset": 2,
+            "videoBeginningTime": "1517055028",
+            "rawEncounterTime": 1517054496
+        }
+    },
+    {
+        "id": 1412,
+        "name": "Lions Picard - KBC Martinique",
+        "dayOfWeek": "Saturday",
+        "time": "13:01",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2395_1517058278_1517058884.mp4",
+            "offset": -16,
+            "videoBeginningTime": "1517058278",
+            "rawEncounterTime": 1517054496
+        }
+    },
+    {
+        "id": 1400,
+        "name": " savate arcisienne - It is a Surprise 2018",
+        "dayOfWeek": "Saturday",
+        "time": "13:01",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517055154_1517055796.mp4",
+            "offset": 1,
+            "videoBeginningTime": "1517055154",
+            "rawEncounterTime": 1517054496
+        }
+    },
+    {
+        "id": 1418,
+        "name": "Les Arvernes 2 - Les padawon d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "14:03",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517058826_1517059500.mp4",
+            "offset": 13,
+            "videoBeginningTime": "1517058826",
+            "rawEncounterTime": 1517058234
+        }
+    },
+    {
+        "id": 1419,
+        "name": "Les Mohicans des ar\u00e8nes - Les Mousquetaires de Prague",
+        "dayOfWeek": "Saturday",
+        "time": "14:03",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2396_1517062054_1517062826.mp4",
+            "offset": 110,
+            "videoBeginningTime": "1517062054",
+            "rawEncounterTime": 1517058234
+        }
+    },
+    {
+        "id": 1406,
+        "name": "Les Lascars - La Rose couverte de Paname",
+        "dayOfWeek": "Saturday",
+        "time": "14:03",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517058884_1517059603.mp4",
+            "offset": 85,
+            "videoBeginningTime": "1517058884",
+            "rawEncounterTime": 1517058234
+        }
+    },
+    {
+        "id": 1424,
+        "name": "J'ai envie de... - Titirade",
+        "dayOfWeek": "Saturday",
+        "time": "14:17",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517059604_1517060247.mp4",
+            "offset": 22,
+            "videoBeginningTime": "1517059604",
+            "rawEncounterTime": 1517059051
+        }
+    },
+    {
+        "id": 1489,
+        "name": "CANNETABS - Les \u00c9lans d'Alaska",
+        "dayOfWeek": "Saturday",
+        "time": "14:17",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2397_1517062826_1517063442.mp4",
+            "offset": 0,
+            "videoBeginningTime": "1517062826",
+            "rawEncounterTime": 1517059051
+        }
+    },
+    {
+        "id": 1414,
+        "name": "KBC Martinique - savate arcisienne",
+        "dayOfWeek": "Saturday",
+        "time": "14:32",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517060470_1517061127.mp4",
+            "offset": 40,
+            "videoBeginningTime": "1517060470",
+            "rawEncounterTime": 1517059923
+        }
+    },
+    {
+        "id": 1445,
+        "name": "Pirates d'Ermont - It is a Surprise 2018",
+        "dayOfWeek": "Saturday",
+        "time": "14:32",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2398_1517063738_1517064448.mp4",
+            "offset": 53,
+            "videoBeginningTime": "1517063738",
+            "rawEncounterTime": 1517059923
+        }
+    },
+    {
+        "id": 1420,
+        "name": "Les padawon d ermont - Les Lascars",
+        "dayOfWeek": "Saturday",
+        "time": "14:32",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517060578_1517061272.mp4",
+            "offset": 55,
+            "videoBeginningTime": "1517060578",
+            "rawEncounterTime": 1517059923
+        }
+    },
+    {
+        "id": 1421,
+        "name": "Les Mousquetaires de Prague - La Rose couverte de Paname",
+        "dayOfWeek": "Saturday",
+        "time": "14:48",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517061544_1517062267.mp4",
+            "offset": 25,
+            "videoBeginningTime": "1517061544",
+            "rawEncounterTime": 1517060914
+        }
+    },
+    {
+        "id": 1476,
+        "name": "Lions Picard - Les Arvernes 2",
+        "dayOfWeek": "Saturday",
+        "time": "14:48",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2400_1517064756_1517065505.mp4",
+            "offset": 67,
+            "videoBeginningTime": "1517064756",
+            "rawEncounterTime": 1517060914
+        }
+    },
+    {
+        "id": 1410,
+        "name": "Titirade - Les Arvernes 1",
+        "dayOfWeek": "Saturday",
+        "time": "14:48",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517061604_1517062299.mp4",
+            "offset": 23,
+            "videoBeginningTime": "1517061604",
+            "rawEncounterTime": 1517060914
+        }
+    },
+    {
+        "id": 1447,
+        "name": "Les \u00c9lans d'Alaska - Les Mohicans des ar\u00e8nes",
+        "dayOfWeek": "Saturday",
+        "time": "15:04",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517062416_1517063055.mp4",
+            "offset": 32,
+            "videoBeginningTime": "1517062416",
+            "rawEncounterTime": 1517061879
+        }
+    },
+    {
+        "id": 1422,
+        "name": "Les Lascars - J'ai envie de... ",
+        "dayOfWeek": "Saturday",
+        "time": "15:19",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517063300_1517063927.mp4",
+            "offset": 0,
+            "videoBeginningTime": "1517063300",
+            "rawEncounterTime": 1517062740
+        }
+    },
+    {
+        "id": 1429,
+        "name": "Pirates d'Ermont - savate arcisienne",
+        "dayOfWeek": "Saturday",
+        "time": "15:19",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2401_1517066530_1517067295.mp4",
+            "offset": 135,
+            "videoBeginningTime": "1517066530",
+            "rawEncounterTime": 1517062741
+        }
+    },
+    {
+        "id": 1430,
+        "name": "KBC Martinique - It is a Surprise 2018",
+        "dayOfWeek": "Saturday",
+        "time": "15:19",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517063368_1517064085.mp4",
+            "offset": 106,
+            "videoBeginningTime": "1517063368",
+            "rawEncounterTime": 1517062741
+        }
+    },
+    {
+        "id": 1468,
+        "name": "Les padawon d ermont - CANNETABS",
+        "dayOfWeek": "Saturday",
+        "time": "15:33",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517064176_1517064858.mp4",
+            "offset": 51,
+            "videoBeginningTime": "1517064176",
+            "rawEncounterTime": 1517063614
+        }
+    },
+    {
+        "id": 1426,
+        "name": "Titirade - Lions Picard",
+        "dayOfWeek": "Saturday",
+        "time": "15:33",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2402_1517067380_1517067998.mp4",
+            "offset": 11,
+            "videoBeginningTime": "1517067380",
+            "rawEncounterTime": 1517063614
+        }
+    },
+    {
+        "id": 1434,
+        "name": "Les Arvernes 2 - Les Mousquetaires de Prague",
+        "dayOfWeek": "Saturday",
+        "time": "15:33",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517064272_1517064929.mp4",
+            "offset": 16,
+            "videoBeginningTime": "1517064272",
+            "rawEncounterTime": 1517063614
+        }
+    },
+    {
+        "id": 1455,
+        "name": "La Rose couverte de Paname - Les Arvernes 1",
+        "dayOfWeek": "Saturday",
+        "time": "15:48",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517065076_1517065760.mp4",
+            "offset": 19,
+            "videoBeginningTime": "1517065076",
+            "rawEncounterTime": 1517064480
+        }
+    },
+    {
+        "id": 1467,
+        "name": "Les Mohicans des ar\u00e8nes - J'ai envie de... ",
+        "dayOfWeek": "Saturday",
+        "time": "15:48",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2403_1517068286_1517068970.mp4",
+            "offset": 37,
+            "videoBeginningTime": "1517068286",
+            "rawEncounterTime": 1517064481
+        }
+    },
+    {
+        "id": 1413,
+        "name": "Pirates d'Ermont - Les \u00c9lans d'Alaska",
+        "dayOfWeek": "Saturday",
+        "time": "16:02",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517065938_1517066628.mp4",
+            "offset": 41,
+            "videoBeginningTime": "1517065938",
+            "rawEncounterTime": 1517065361
+        }
+    },
+    {
+        "id": 1480,
+        "name": " savate arcisienne - Les Lascars",
+        "dayOfWeek": "Saturday",
+        "time": "16:02",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2404_1517069164_1517069837.mp4",
+            "offset": 25,
+            "videoBeginningTime": "1517069164",
+            "rawEncounterTime": 1517065361
+        }
+    },
+    {
+        "id": 1433,
+        "name": "It is a Surprise 2018 - Les padawon d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "16:02",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517066038_1517066714.mp4",
+            "offset": 13,
+            "videoBeginningTime": "1517066038",
+            "rawEncounterTime": 1517065361
+        }
+    },
+    {
+        "id": 1441,
+        "name": "CANNETABS - Lions Picard",
+        "dayOfWeek": "Saturday",
+        "time": "16:17",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517066828_1517067464.mp4",
+            "offset": 11,
+            "videoBeginningTime": "1517066828",
+            "rawEncounterTime": 1517066270
+        }
+    },
+    {
+        "id": 1446,
+        "name": "KBC Martinique - Les Arvernes 2",
+        "dayOfWeek": "Saturday",
+        "time": "16:17",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2405_1517070024_1517070733.mp4",
+            "offset": 114,
+            "videoBeginningTime": "1517070024",
+            "rawEncounterTime": 1517066270
+        }
+    },
+    {
+        "id": 1469,
+        "name": "Les Mousquetaires de Prague - Titirade",
+        "dayOfWeek": "Saturday",
+        "time": "16:17",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517067142_1517067843.mp4",
+            "offset": 69,
+            "videoBeginningTime": "1517067142",
+            "rawEncounterTime": 1517066270
+        }
+    },
+    {
+        "id": 1440,
+        "name": "J'ai envie de... - Les Arvernes 1",
+        "dayOfWeek": "Saturday",
+        "time": "16:34",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517067806_1517068588.mp4",
+            "offset": 150,
+            "videoBeginningTime": "1517067806",
+            "rawEncounterTime": 1517067242
+        }
+    },
+    {
+        "id": 1451,
+        "name": "Les Mohicans des ar\u00e8nes - La Rose couverte de Paname",
+        "dayOfWeek": "Saturday",
+        "time": "16:34",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2406_1517071038_1517071832.mp4",
+            "offset": 157,
+            "videoBeginningTime": "1517071038",
+            "rawEncounterTime": 1517067242
+        }
+    },
+    {
+        "id": 1415,
+        "name": "Les \u00c9lans d'Alaska - It is a Surprise 2018",
+        "dayOfWeek": "Saturday",
+        "time": "16:50",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517068736_1517069391.mp4",
+            "offset": 53,
+            "videoBeginningTime": "1517068736",
+            "rawEncounterTime": 1517068204
+        }
+    },
+    {
+        "id": 1448,
+        "name": " savate arcisienne - Les padawon d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "16:50",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2408_1517071978_1517072737.mp4",
+            "offset": 144,
+            "videoBeginningTime": "1517071978",
+            "rawEncounterTime": 1517068204
+        }
+    },
+    {
+        "id": 1438,
+        "name": "Les Lascars - CANNETABS",
+        "dayOfWeek": "Saturday",
+        "time": "16:50",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517069044_1517069831.mp4",
+            "offset": 187,
+            "videoBeginningTime": "1517069044",
+            "rawEncounterTime": 1517068204
+        }
+    },
+    {
+        "id": 1442,
+        "name": "Titirade - Pirates d'Ermont",
+        "dayOfWeek": "Saturday",
+        "time": "17:04",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517069598_1517070203.mp4",
+            "offset": 3,
+            "videoBeginningTime": "1517069598",
+            "rawEncounterTime": 1517069066
+        }
+    },
+    {
+        "id": 1427,
+        "name": "Les Arvernes 1 - KBC Martinique",
+        "dayOfWeek": "Saturday",
+        "time": "17:04",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2409_1517072854_1517073497.mp4",
+            "offset": 15,
+            "videoBeginningTime": "1517072854",
+            "rawEncounterTime": 1517069066
+        }
+    },
+    {
+        "id": 1437,
+        "name": "Les Mousquetaires de Prague - J'ai envie de... ",
+        "dayOfWeek": "Saturday",
+        "time": "17:04",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517069944_1517070587.mp4",
+            "offset": 6,
+            "videoBeginningTime": "1517069944",
+            "rawEncounterTime": 1517069066
+        }
+    },
+    {
+        "id": 1466,
+        "name": "Les Arvernes 2 - La Rose couverte de Paname",
+        "dayOfWeek": "Saturday",
+        "time": "17:18",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517070440_1517071042.mp4",
+            "offset": 0,
+            "videoBeginningTime": "1517070440",
+            "rawEncounterTime": 1517069907
+        }
+    },
+    {
+        "id": 1428,
+        "name": "Lions Picard - Les \u00c9lans d'Alaska",
+        "dayOfWeek": "Saturday",
+        "time": "17:18",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2410_1517073680_1517074356.mp4",
+            "offset": 62,
+            "videoBeginningTime": "1517073680",
+            "rawEncounterTime": 1517069907
+        }
+    },
+    {
+        "id": 1483,
+        "name": "Les Mohicans des ar\u00e8nes - CANNETABS",
+        "dayOfWeek": "Saturday",
+        "time": "17:18",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517070524_1517071191.mp4",
+            "offset": 67,
+            "videoBeginningTime": "1517070524",
+            "rawEncounterTime": 1517069907
+        }
+    },
+    {
+        "id": 1449,
+        "name": "It is a Surprise 2018 - Les Mousquetaires de Prague",
+        "dayOfWeek": "Sunday",
+        "time": "09:44",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517129900_1517130574.mp4",
+            "offset": 59,
+            "videoBeginningTime": "1517129900",
+            "rawEncounterTime": 1517129043
+        }
+    },
+    {
+        "id": 1452,
+        "name": "Les padawon d ermont - J'ai envie de... ",
+        "dayOfWeek": "Sunday",
+        "time": "09:44",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2411_1517132804_1517133467.mp4",
+            "offset": 60,
+            "videoBeginningTime": "1517132804",
+            "rawEncounterTime": 1517129043
+        }
+    },
+    {
+        "id": 1454,
+        "name": "Les Lascars - Titirade",
+        "dayOfWeek": "Sunday",
+        "time": "09:44",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517129694_1517130337.mp4",
+            "offset": 10,
+            "videoBeginningTime": "1517129694",
+            "rawEncounterTime": 1517129043
+        }
+    },
+    {
+        "id": 1416,
+        "name": " savate arcisienne - Les Arvernes 2",
+        "dayOfWeek": "Sunday",
+        "time": "09:57",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517130575_1517131024.mp4",
+            "offset": 30,
+            "videoBeginningTime": "1517130575",
+            "rawEncounterTime": 1517129870
+        }
+    },
+    {
+        "id": 1423,
+        "name": "La Rose couverte de Paname - CANNETABS",
+        "dayOfWeek": "Sunday",
+        "time": "09:57",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2412_1517133616_1517134253.mp4",
+            "offset": 50,
+            "videoBeginningTime": "1517133616",
+            "rawEncounterTime": 1517129870
+        }
+    },
+    {
+        "id": 1443,
+        "name": "Les Arvernes 1 - Les \u00c9lans d'Alaska",
+        "dayOfWeek": "Sunday",
+        "time": "09:57",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517130494_1517131137.mp4",
+            "offset": 38,
+            "videoBeginningTime": "1517130494",
+            "rawEncounterTime": 1517129870
+        }
+    },
+    {
+        "id": 1462,
+        "name": "KBC Martinique - Les Mohicans des ar\u00e8nes",
+        "dayOfWeek": "Sunday",
+        "time": "10:10",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517131230_1517131913.mp4",
+            "offset": 22,
+            "videoBeginningTime": "1517131230",
+            "rawEncounterTime": 1517130636
+        }
+    },
+    {
+        "id": 1456,
+        "name": "J'ai envie de... - Lions Picard",
+        "dayOfWeek": "Sunday",
+        "time": "10:27",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517132170_1517132778.mp4",
+            "offset": 4,
+            "videoBeginningTime": "1517132170",
+            "rawEncounterTime": 1517131635
+        }
+    },
+    {
+        "id": 1484,
+        "name": "Les padawon d ermont - Titirade",
+        "dayOfWeek": "Sunday",
+        "time": "10:27",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2413_1517135404_1517136128.mp4",
+            "offset": 112,
+            "videoBeginningTime": "1517135404",
+            "rawEncounterTime": 1517131635
+        }
+    },
+    {
+        "id": 1425,
+        "name": "CANNETABS - Les Arvernes 1",
+        "dayOfWeek": "Sunday",
+        "time": "10:27",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517132346_1517133052.mp4",
+            "offset": 11,
+            "videoBeginningTime": "1517132346",
+            "rawEncounterTime": 1517131635
+        }
+    },
+    {
+        "id": 1431,
+        "name": "Les \u00c9lans d'Alaska - Les Arvernes 2",
+        "dayOfWeek": "Sunday",
+        "time": "10:41",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517132998_1517133660.mp4",
+            "offset": 55,
+            "videoBeginningTime": "1517132998",
+            "rawEncounterTime": 1517132461
+        }
+    },
+    {
+        "id": 1464,
+        "name": " savate arcisienne - Les Mousquetaires de Prague",
+        "dayOfWeek": "Sunday",
+        "time": "10:41",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2414_1517136282_1517136984.mp4",
+            "offset": 37,
+            "videoBeginningTime": "1517136282",
+            "rawEncounterTime": 1517132461
+        }
+    },
+    {
+        "id": 1481,
+        "name": "It is a Surprise 2018 - La Rose couverte de Paname",
+        "dayOfWeek": "Sunday",
+        "time": "10:41",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517133132_1517133809.mp4",
+            "offset": 23,
+            "videoBeginningTime": "1517133132",
+            "rawEncounterTime": 1517132461
+        }
+    },
+    {
+        "id": 1435,
+        "name": "Les Mohicans des ar\u00e8nes - Les Lascars",
+        "dayOfWeek": "Sunday",
+        "time": "10:56",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517133958_1517134579.mp4",
+            "offset": 2,
+            "videoBeginningTime": "1517133958",
+            "rawEncounterTime": 1517133407
+        }
+    },
+    {
+        "id": 1457,
+        "name": "CANNETABS - Pirates d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "11:10",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517134776_1517135392.mp4",
+            "offset": 19,
+            "videoBeginningTime": "1517134776",
+            "rawEncounterTime": 1517134247
+        }
+    },
+    {
+        "id": 1458,
+        "name": "Titirade - KBC Martinique",
+        "dayOfWeek": "Sunday",
+        "time": "11:10",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2415_1517138060_1517138734.mp4",
+            "offset": 18,
+            "videoBeginningTime": "1517138060",
+            "rawEncounterTime": 1517134246
+        }
+    },
+    {
+        "id": 1436,
+        "name": "Les padawon d ermont - La Rose couverte de Paname",
+        "dayOfWeek": "Sunday",
+        "time": "11:10",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517134870_1517135480.mp4",
+            "offset": 3,
+            "videoBeginningTime": "1517134870",
+            "rawEncounterTime": 1517134247
+        }
+    },
+    {
+        "id": 1444,
+        "name": "Lions Picard - savate arcisienne",
+        "dayOfWeek": "Sunday",
+        "time": "11:25",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517135700_1517136375.mp4",
+            "offset": 62,
+            "videoBeginningTime": "1517135700",
+            "rawEncounterTime": 1517135154
+        }
+    },
+    {
+        "id": 1475,
+        "name": "Les Arvernes 1 - It is a Surprise 2018",
+        "dayOfWeek": "Sunday",
+        "time": "11:25",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2416_1517138906_1517139537.mp4",
+            "offset": 37,
+            "videoBeginningTime": "1517138906",
+            "rawEncounterTime": 1517135154
+        }
+    },
+    {
+        "id": 1479,
+        "name": "Les \u00c9lans d'Alaska - Les Mousquetaires de Prague",
+        "dayOfWeek": "Sunday",
+        "time": "11:25",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517135800_1517136478.mp4",
+            "offset": 50,
+            "videoBeginningTime": "1517135800",
+            "rawEncounterTime": 1517135154
+        }
+    },
+    {
+        "id": 1482,
+        "name": "Les Arvernes 2 - J'ai envie de... ",
+        "dayOfWeek": "Sunday",
+        "time": "11:41",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517136638_1517137240.mp4",
+            "offset": 1,
+            "videoBeginningTime": "1517136638",
+            "rawEncounterTime": 1517136103
+        }
+    },
+    {
+        "id": 1477,
+        "name": "Pirates d'Ermont - Les Mohicans des ar\u00e8nes",
+        "dayOfWeek": "Sunday",
+        "time": "11:41",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2417_1517139854_1517140485.mp4",
+            "offset": 38,
+            "videoBeginningTime": "1517139854",
+            "rawEncounterTime": 1517136103
+        }
+    },
+    {
+        "id": 1486,
+        "name": "Les Lascars - Lions Picard",
+        "dayOfWeek": "Sunday",
+        "time": "11:41",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517136734_1517137367.mp4",
+            "offset": 20,
+            "videoBeginningTime": "1517136734",
+            "rawEncounterTime": 1517136103
+        }
+    },
+    {
+        "id": 1473,
+        "name": "CANNETABS - KBC Martinique",
+        "dayOfWeek": "Sunday",
+        "time": "11:55",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517137434_1517138040.mp4",
+            "offset": 10,
+            "videoBeginningTime": "1517137434",
+            "rawEncounterTime": 1517136907
+        }
+    },
+    {
+        "id": 1463,
+        "name": "Les \u00c9lans d'Alaska - Les padawon d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "11:55",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2418_1517140674_1517141309.mp4",
+            "offset": 26,
+            "videoBeginningTime": "1517140674",
+            "rawEncounterTime": 1517136907
+        }
+    },
+    {
+        "id": 1485,
+        "name": "Les Mousquetaires de Prague - Les Arvernes 1",
+        "dayOfWeek": "Sunday",
+        "time": "11:55",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517137766_1517138443.mp4",
+            "offset": 58,
+            "videoBeginningTime": "1517137766",
+            "rawEncounterTime": 1517136907
+        }
+    },
+    {
+        "id": 1490,
+        "name": "Titirade - savate arcisienne",
+        "dayOfWeek": "Sunday",
+        "time": "12:08",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517138384_1517139104.mp4",
+            "offset": -116,
+            "videoBeginningTime": "1517138384",
+            "rawEncounterTime": 1517137731
+        }
+    },
+    {
+        "id": 1417,
+        "name": "It is a Surprise 2018 - Les Mohicans des ar\u00e8nes",
+        "dayOfWeek": "Sunday",
+        "time": "12:08",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2419_1517141514_1517142168.mp4",
+            "offset": 29,
+            "videoBeginningTime": "1517141514",
+            "rawEncounterTime": 1517137731
+        }
+    },
+    {
+        "id": 1450,
+        "name": "Les Arvernes 2 - Les Lascars",
+        "dayOfWeek": "Sunday",
+        "time": "12:08",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517138444_1517138980.mp4",
+            "offset": 12,
+            "videoBeginningTime": "1517138444",
+            "rawEncounterTime": 1517137731
+        }
+    },
+    {
+        "id": 1471,
+        "name": "La Rose couverte de Paname - Lions Picard",
+        "dayOfWeek": "Sunday",
+        "time": "12:23",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517139158_1517139778.mp4",
+            "offset": 13,
+            "videoBeginningTime": "1517139158",
+            "rawEncounterTime": 1517138618
+        }
+    },
+    {
+        "id": 1472,
+        "name": "J'ai envie de... - Pirates d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "12:23",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2420_1517142368_1517143003.mp4",
+            "offset": 42,
+            "videoBeginningTime": "1517142368",
+            "rawEncounterTime": 1517138618
+        }
+    },
+    {
+        "id": 1453,
+        "name": "Les Mousquetaires de Prague - CANNETABS",
+        "dayOfWeek": "Sunday",
+        "time": "12:37",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517140018_1517140685.mp4",
+            "offset": 3,
+            "videoBeginningTime": "1517140018",
+            "rawEncounterTime": 1517139422
+        }
+    },
+    {
+        "id": 1478,
+        "name": "KBC Martinique - Les padawon d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "12:37",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2421_1517143200_1517143913.mp4",
+            "offset": 92,
+            "videoBeginningTime": "1517143200",
+            "rawEncounterTime": 1517139422
+        }
+    },
+    {
+        "id": 1432,
+        "name": " savate arcisienne - Les Mohicans des ar\u00e8nes",
+        "dayOfWeek": "Sunday",
+        "time": "12:37",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517139890_1517140426.mp4",
+            "offset": 86,
+            "videoBeginningTime": "1517139890",
+            "rawEncounterTime": 1517139422
+        }
+    },
+    {
+        "id": 1470,
+        "name": "Les Lascars - Les Arvernes 1",
+        "dayOfWeek": "Sunday",
+        "time": "12:50",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/1294\/A\/MVI_1517140784_1517141405.mp4",
+            "offset": 7,
+            "videoBeginningTime": "1517140784",
+            "rawEncounterTime": 1517140239
+        }
+    },
+    {
+        "id": 1474,
+        "name": "Titirade - Les \u00c9lans d'Alaska",
+        "dayOfWeek": "Sunday",
+        "time": "12:50",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2422_1517144016_1517144606.mp4",
+            "offset": -28,
+            "videoBeginningTime": "1517144016",
+            "rawEncounterTime": 1517140239
+        }
+    },
+    {
+        "id": 1460,
+        "name": "Lions Picard - It is a Surprise 2018",
+        "dayOfWeek": "Sunday",
+        "time": "12:50",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517140854_1517141505.mp4",
+            "offset": 54,
+            "videoBeginningTime": "1517140854",
+            "rawEncounterTime": 1517140239
+        }
+    },
+    {
+        "id": 1488,
+        "name": "J'ai envie de... - KBC Martinique",
+        "dayOfWeek": "Sunday",
+        "time": "13:03",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/1294\/B\/T59A2423_1517144776_1517145434.mp4",
+            "offset": 49,
+            "videoBeginningTime": "1517144776",
+            "rawEncounterTime": 1517141009
+        }
+    },
+    {
+        "id": 1487,
+        "name": "La Rose couverte de Paname - Pirates d'Ermont",
+        "dayOfWeek": "Sunday",
+        "time": "13:03",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517141662_1517142363.mp4",
+            "offset": 66,
+            "videoBeginningTime": "1517141662",
+            "rawEncounterTime": 1517141009
+        }
+    },
+    {
+        "id": 1461,
+        "name": "Pirates d'Ermont - Les Arvernes 2",
+        "dayOfWeek": "Sunday",
+        "time": "13:18",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/1294\/C\/MVI_1517142510_1517143138.mp4",
+            "offset": 17,
+            "videoBeginningTime": "1517142510",
+            "rawEncounterTime": 1517141883
+        }
+    }
+]

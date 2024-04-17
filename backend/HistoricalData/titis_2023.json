@@ -1,0 +1,1544 @@
+[
+    {
+        "id": 3608,
+        "name": "Les bichons t\u00eatus - Nicool and the Gang",
+        "dayOfWeek": "Saturday",
+        "time": "11:08",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_10-20-00___2022-01-21_10-34-18.mp4",
+            "offset": 143,
+            "videoBeginningTime": 1642760400,
+            "rawEncounterTime": 1674295706
+        }
+    },
+    {
+        "id": 3609,
+        "name": "Les bichons barbus - Charlemont 2 le retour ",
+        "dayOfWeek": "Saturday",
+        "time": "11:08",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_10-20-00___2022-01-21_10-31-29.mp4",
+            "offset": 128,
+            "videoBeginningTime": 1642760400,
+            "rawEncounterTime": 1674295707
+        }
+    },
+    {
+        "id": 3610,
+        "name": "Die Pfandflaschen - La Rose couverte de Paname 2023",
+        "dayOfWeek": "Saturday",
+        "time": "11:08",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_10-20-00___2022-01-21_10-32-45.mp4",
+            "offset": 117,
+            "videoBeginningTime": 1642760400,
+            "rawEncounterTime": 1674295707
+        }
+    },
+    {
+        "id": 3611,
+        "name": "Panache de Napalm - Les Lascars 2023",
+        "dayOfWeek": "Saturday",
+        "time": "11:27",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_10-40-26___2022-01-21_10-57-51.mp4",
+            "offset": 222,
+            "videoBeginningTime": 1642761626,
+            "rawEncounterTime": 1674296825
+        }
+    },
+    {
+        "id": 3612,
+        "name": "Canne Coquine 2023 - Chocolateam",
+        "dayOfWeek": "Saturday",
+        "time": "11:27",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_10-37-22___2022-01-21_10-48-51.mp4",
+            "offset": 204,
+            "videoBeginningTime": 1642761442,
+            "rawEncounterTime": 1674296825
+        }
+    },
+    {
+        "id": 3613,
+        "name": "CICER & co - L'ONF",
+        "dayOfWeek": "Saturday",
+        "time": "11:27",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_10-42-04___2022-01-21_10-57-58.mp4",
+            "offset": 102,
+            "videoBeginningTime": 1642761724,
+            "rawEncounterTime": 1674296825
+        }
+    },
+    {
+        "id": 3614,
+        "name": "Le Canne-Arval - Les 3 Doigts de la Main",
+        "dayOfWeek": "Saturday",
+        "time": "11:46",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_10-58-12___2022-01-21_11-10-37.mp4",
+            "offset": 29,
+            "videoBeginningTime": 1642762692,
+            "rawEncounterTime": 1674297997
+        }
+    },
+    {
+        "id": 3615,
+        "name": "Les 49.3 - Swingers",
+        "dayOfWeek": "Saturday",
+        "time": "11:46",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_10-59-42___2022-01-21_11-11-13.mp4",
+            "offset": 39,
+            "videoBeginningTime": 1642762782,
+            "rawEncounterTime": 1674297997
+        }
+    },
+    {
+        "id": 3616,
+        "name": "Les cavaliers de l\u2019apokalypse - Les Dragons Picards",
+        "dayOfWeek": "Saturday",
+        "time": "11:46",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_10-59-40___2022-01-21_11-14-24.mp4",
+            "offset": 147,
+            "videoBeginningTime": 1642762780,
+            "rawEncounterTime": 1674297997
+        }
+    },
+    {
+        "id": 3617,
+        "name": "Les Grominets - Les padatwo d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "12:03",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_11-16-02___2022-01-21_11-31-57.mp4",
+            "offset": 206,
+            "videoBeginningTime": 1642763762,
+            "rawEncounterTime": 1674299034
+        }
+    },
+    {
+        "id": 3618,
+        "name": "Les padawans d ermont - Mampf",
+        "dayOfWeek": "Saturday",
+        "time": "12:03",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_11-14-26___2022-01-21_11-25-58.mp4",
+            "offset": 193,
+            "videoBeginningTime": 1642763666,
+            "rawEncounterTime": 1674299035
+        }
+    },
+    {
+        "id": 3619,
+        "name": "The Beertles - Gangstamon",
+        "dayOfWeek": "Saturday",
+        "time": "12:03",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_11-17-34___2022-01-21_11-33-29.mp4",
+            "offset": 183,
+            "videoBeginningTime": 1642763854,
+            "rawEncounterTime": 1674299035
+        }
+    },
+    {
+        "id": 3626,
+        "name": "Nicool and the Gang - Les bichons barbus",
+        "dayOfWeek": "Saturday",
+        "time": "12:32",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_11-45-38___2022-01-21_12-04-49.mp4",
+            "offset": 323,
+            "videoBeginningTime": 1642765538,
+            "rawEncounterTime": 1674300730
+        }
+    },
+    {
+        "id": 3632,
+        "name": "Charlemont 2 le retour - Les bichons t\u00eatus",
+        "dayOfWeek": "Saturday",
+        "time": "12:32",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_11-40-56___2022-01-21_11-52-27.mp4",
+            "offset": 297,
+            "videoBeginningTime": 1642765256,
+            "rawEncounterTime": 1674300730
+        }
+    },
+    {
+        "id": 3624,
+        "name": "L'ONF - Chocolateam",
+        "dayOfWeek": "Saturday",
+        "time": "12:32",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_11-44-37___2022-01-21_12-00-57.mp4",
+            "offset": 280,
+            "videoBeginningTime": 1642765477,
+            "rawEncounterTime": 1674300730
+        }
+    },
+    {
+        "id": 3625,
+        "name": "La Rose couverte de Paname 2023 - Panache de Napalm",
+        "dayOfWeek": "Saturday",
+        "time": "12:50",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_12-04-50___2022-01-21_12-15-31.mp4",
+            "offset": 118,
+            "videoBeginningTime": 1642766690,
+            "rawEncounterTime": 1674301840
+        }
+    },
+    {
+        "id": 3630,
+        "name": "CICER & co - Canne Coquine 2023",
+        "dayOfWeek": "Saturday",
+        "time": "12:50",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_12-02-48___2022-01-21_12-14-19.mp4",
+            "offset": 95,
+            "videoBeginningTime": 1642766568,
+            "rawEncounterTime": 1674301840
+        }
+    },
+    {
+        "id": 3631,
+        "name": "Les Lascars 2023 - Die Pfandflaschen",
+        "dayOfWeek": "Saturday",
+        "time": "12:50",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_12-03-29___2022-01-21_12-16-51.mp4",
+            "offset": 79,
+            "videoBeginningTime": 1642766609,
+            "rawEncounterTime": 1674301840
+        }
+    },
+    {
+        "id": 3623,
+        "name": "Les 3 Doigts de la Main - Les 49.3",
+        "dayOfWeek": "Saturday",
+        "time": "13:07",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_12-18-40___2022-01-21_12-31-37.mp4",
+            "offset": 109,
+            "videoBeginningTime": 1642767520,
+            "rawEncounterTime": 1674302872
+        }
+    },
+    {
+        "id": 3629,
+        "name": "Swingers - Le Canne-Arval",
+        "dayOfWeek": "Saturday",
+        "time": "13:07",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_12-20-06___2022-01-21_12-31-35.mp4",
+            "offset": 87,
+            "videoBeginningTime": 1642767606,
+            "rawEncounterTime": 1674302872
+        }
+    },
+    {
+        "id": 3621,
+        "name": "Gangstamon - Les padawans d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "13:07",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_12-20-33___2022-01-21_12-33-44.mp4",
+            "offset": 77,
+            "videoBeginningTime": 1642767633,
+            "rawEncounterTime": 1674302872
+        }
+    },
+    {
+        "id": 3622,
+        "name": "Les Dragons Picards - Les Grominets",
+        "dayOfWeek": "Saturday",
+        "time": "13:26",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_12-37-10___2022-01-21_12-53-23.mp4",
+            "offset": 295,
+            "videoBeginningTime": 1642768630,
+            "rawEncounterTime": 1674303973
+        }
+    },
+    {
+        "id": 3627,
+        "name": "Mampf - The Beertles",
+        "dayOfWeek": "Saturday",
+        "time": "13:26",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_12-35-16___2022-01-21_12-46-43.mp4",
+            "offset": 276,
+            "videoBeginningTime": 1642768516,
+            "rawEncounterTime": 1674303973
+        }
+    },
+    {
+        "id": 3628,
+        "name": "Les padatwo d ermont - Les cavaliers de l\u2019apokalypse ",
+        "dayOfWeek": "Saturday",
+        "time": "13:26",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_12-38-47___2022-01-21_12-54-53.mp4",
+            "offset": 259,
+            "videoBeginningTime": 1642768727,
+            "rawEncounterTime": 1674303973
+        }
+    },
+    {
+        "id": 3644,
+        "name": "Chocolateam - Les bichons barbus",
+        "dayOfWeek": "Saturday",
+        "time": "14:42",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_13-53-40___2022-01-21_14-07-13.mp4",
+            "offset": 128,
+            "videoBeginningTime": 1642773220,
+            "rawEncounterTime": 1674308555
+        }
+    },
+    {
+        "id": 3637,
+        "name": "L'ONF - Canne Coquine 2023",
+        "dayOfWeek": "Saturday",
+        "time": "14:42",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_13-54-24___2022-01-21_14-05-49.mp4",
+            "offset": 110,
+            "videoBeginningTime": 1642773264,
+            "rawEncounterTime": 1674308555
+        }
+    },
+    {
+        "id": 3638,
+        "name": "Les Lascars 2023 - La Rose couverte de Paname 2023",
+        "dayOfWeek": "Saturday",
+        "time": "14:42",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_13-55-13___2022-01-21_14-08-38.mp4",
+            "offset": 94,
+            "videoBeginningTime": 1642773313,
+            "rawEncounterTime": 1674308555
+        }
+    },
+    {
+        "id": 3641,
+        "name": "Die Pfandflaschen - Charlemont 2 le retour ",
+        "dayOfWeek": "Saturday",
+        "time": "14:59",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_14-10-56___2022-01-21_14-25-11.mp4",
+            "offset": 131,
+            "videoBeginningTime": 1642774256,
+            "rawEncounterTime": 1674309553
+        }
+    },
+    {
+        "id": 3645,
+        "name": "Panache de Napalm - Nicool and the Gang",
+        "dayOfWeek": "Saturday",
+        "time": "14:59",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_14-10-54___2022-01-21_14-22-19.mp4",
+            "offset": 118,
+            "videoBeginningTime": 1642774254,
+            "rawEncounterTime": 1674309553
+        }
+    },
+    {
+        "id": 3636,
+        "name": "Swingers - Les 3 Doigts de la Main",
+        "dayOfWeek": "Saturday",
+        "time": "14:59",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_14-12-27___2022-01-21_14-26-40.mp4",
+            "offset": 107,
+            "videoBeginningTime": 1642774347,
+            "rawEncounterTime": 1674309553
+        }
+    },
+    {
+        "id": 3640,
+        "name": "Le Canne-Arval - CICER & co",
+        "dayOfWeek": "Saturday",
+        "time": "15:16",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_14-28-28___2022-01-21_14-43-05.mp4",
+            "offset": 123,
+            "videoBeginningTime": 1642775308,
+            "rawEncounterTime": 1674310574
+        }
+    },
+    {
+        "id": 3642,
+        "name": "Les bichons t\u00eatus - Gangstamon",
+        "dayOfWeek": "Saturday",
+        "time": "15:16",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_14-28-06___2022-01-21_14-39-34.mp4",
+            "offset": 108,
+            "videoBeginningTime": 1642775286,
+            "rawEncounterTime": 1674310575
+        }
+    },
+    {
+        "id": 3634,
+        "name": "The Beertles - Les padatwo d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "15:16",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_14-30-00___2022-01-21_14-44-28.mp4",
+            "offset": 90,
+            "videoBeginningTime": 1642775400,
+            "rawEncounterTime": 1674310575
+        }
+    },
+    {
+        "id": 3635,
+        "name": "Les padawans d ermont - Les Grominets",
+        "dayOfWeek": "Saturday",
+        "time": "15:33",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_14-44-36___2022-01-21_14-57-28.mp4",
+            "offset": 70,
+            "videoBeginningTime": 1642776276,
+            "rawEncounterTime": 1674311595
+        }
+    },
+    {
+        "id": 3639,
+        "name": "Mampf - Les cavaliers de l\u2019apokalypse ",
+        "dayOfWeek": "Saturday",
+        "time": "15:33",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_14-46-14___2022-01-21_14-57-42.mp4",
+            "offset": 40,
+            "videoBeginningTime": 1642776374,
+            "rawEncounterTime": 1674311595
+        }
+    },
+    {
+        "id": 3643,
+        "name": "Les Dragons Picards - Les 49.3",
+        "dayOfWeek": "Saturday",
+        "time": "15:33",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_14-46-07___2022-01-21_14-58-43.mp4",
+            "offset": 30,
+            "videoBeginningTime": 1642776367,
+            "rawEncounterTime": 1674311595
+        }
+    },
+    {
+        "id": 3657,
+        "name": "Les bichons barbus - L'ONF",
+        "dayOfWeek": "Saturday",
+        "time": "15:53",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_15-05-24___2022-01-21_15-21-10.mp4",
+            "offset": 194,
+            "videoBeginningTime": 1642777524,
+            "rawEncounterTime": 1674312793
+        }
+    },
+    {
+        "id": 3649,
+        "name": "Les 3 Doigts de la Main - Canne Coquine 2023",
+        "dayOfWeek": "Saturday",
+        "time": "15:53",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_15-04-06___2022-01-21_15-15-39.mp4",
+            "offset": 172,
+            "videoBeginningTime": 1642777446,
+            "rawEncounterTime": 1674312793
+        }
+    },
+    {
+        "id": 3650,
+        "name": "La Rose couverte de Paname 2023 - Charlemont 2 le retour ",
+        "dayOfWeek": "Saturday",
+        "time": "15:53",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_15-07-02___2022-01-21_15-22-28.mp4",
+            "offset": 143,
+            "videoBeginningTime": 1642777622,
+            "rawEncounterTime": 1674312793
+        }
+    },
+    {
+        "id": 3654,
+        "name": "Chocolateam - Panache de Napalm",
+        "dayOfWeek": "Saturday",
+        "time": "16:10",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_15-21-54___2022-01-21_15-35-17.mp4",
+            "offset": 78,
+            "videoBeginningTime": 1642778514,
+            "rawEncounterTime": 1674313810
+        }
+    },
+    {
+        "id": 3658,
+        "name": "Nicool and the Gang - Les Lascars 2023",
+        "dayOfWeek": "Saturday",
+        "time": "16:10",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_15-22-50___2022-01-21_15-34-24.mp4",
+            "offset": 66,
+            "videoBeginningTime": 1642778570,
+            "rawEncounterTime": 1674313811
+        }
+    },
+    {
+        "id": 3656,
+        "name": "Le Canne-Arval - Die Pfandflaschen",
+        "dayOfWeek": "Saturday",
+        "time": "16:10",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_15-23-26___2022-01-21_15-36-53.mp4",
+            "offset": 57,
+            "videoBeginningTime": 1642778606,
+            "rawEncounterTime": 1674313811
+        }
+    },
+    {
+        "id": 3647,
+        "name": "Les padatwo d ermont - Les padawans d ermont",
+        "dayOfWeek": "Saturday",
+        "time": "16:26",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_15-37-32___2022-01-21_15-50-37.mp4",
+            "offset": 73,
+            "videoBeginningTime": 1642779452,
+            "rawEncounterTime": 1674314761
+        }
+    },
+    {
+        "id": 3648,
+        "name": "Les cavaliers de l\u2019apokalypse - CICER & co",
+        "dayOfWeek": "Saturday",
+        "time": "16:26",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_15-39-00___2022-01-21_15-50-35.mp4",
+            "offset": 48,
+            "videoBeginningTime": 1642779540,
+            "rawEncounterTime": 1674314761
+        }
+    },
+    {
+        "id": 3651,
+        "name": "Les Grominets - The Beertles",
+        "dayOfWeek": "Saturday",
+        "time": "16:26",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_15-39-10___2022-01-21_15-51-48.mp4",
+            "offset": 15,
+            "videoBeginningTime": 1642779550,
+            "rawEncounterTime": 1674314761
+        }
+    },
+    {
+        "id": 3652,
+        "name": "Les Dragons Picards - Swingers",
+        "dayOfWeek": "Saturday",
+        "time": "16:42",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_15-54-08___2022-01-21_16-08-07.mp4",
+            "offset": 100,
+            "videoBeginningTime": 1642780448,
+            "rawEncounterTime": 1674315731
+        }
+    },
+    {
+        "id": 3653,
+        "name": "Gangstamon - Les 49.3",
+        "dayOfWeek": "Saturday",
+        "time": "16:42",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_15-54-36___2022-01-21_16-06-11.mp4",
+            "offset": 82,
+            "videoBeginningTime": 1642780476,
+            "rawEncounterTime": 1674315731
+        }
+    },
+    {
+        "id": 3655,
+        "name": "Les bichons t\u00eatus - Mampf",
+        "dayOfWeek": "Saturday",
+        "time": "16:42",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_15-55-34___2022-01-21_16-09-23.mp4",
+            "offset": 72,
+            "videoBeginningTime": 1642780534,
+            "rawEncounterTime": 1674315731
+        }
+    },
+    {
+        "id": 3663,
+        "name": "L'ONF - Les 3 Doigts de la Main",
+        "dayOfWeek": "Saturday",
+        "time": "17:01",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_16-13-42___2022-01-21_16-30-28.mp4",
+            "offset": 257,
+            "videoBeginningTime": 1642781622,
+            "rawEncounterTime": 1674316895
+        }
+    },
+    {
+        "id": 3664,
+        "name": "La Rose couverte de Paname 2023 - Le Canne-Arval",
+        "dayOfWeek": "Saturday",
+        "time": "17:01",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_16-11-14___2022-01-21_16-22-45.mp4",
+            "offset": 243,
+            "videoBeginningTime": 1642781474,
+            "rawEncounterTime": 1674316895
+        }
+    },
+    {
+        "id": 3665,
+        "name": "Charlemont 2 le retour - CICER & co",
+        "dayOfWeek": "Saturday",
+        "time": "17:01",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-21_16-14-48___2022-01-21_16-31-09.mp4",
+            "offset": 234,
+            "videoBeginningTime": 1642781688,
+            "rawEncounterTime": 1674316895
+        }
+    },
+    {
+        "id": 3666,
+        "name": "Panache de Napalm - The Beertles",
+        "dayOfWeek": "Saturday",
+        "time": "17:18",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-21_16-30-29___2022-01-21_16-42-46.mp4",
+            "offset": 114,
+            "videoBeginningTime": 1642782629,
+            "rawEncounterTime": 1674317921
+        }
+    },
+    {
+        "id": 3667,
+        "name": "Les Grominets - Les bichons barbus",
+        "dayOfWeek": "Saturday",
+        "time": "17:18",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-21_16-30-54___2022-01-21_16-42-29.mp4",
+            "offset": 95,
+            "videoBeginningTime": 1642782654,
+            "rawEncounterTime": 1674317921
+        }
+    },
+    {
+        "id": 3669,
+        "name": "Les padatwo d ermont - Nicool and the Gang",
+        "dayOfWeek": "Saturday",
+        "time": "17:18",
+        "area": "C",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 3660,
+        "name": "Les cavaliers de l\u2019apokalypse - Swingers",
+        "dayOfWeek": "Sunday",
+        "time": "09:10",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_08-10-00___2022-01-22_08-30-53.mp4",
+            "offset": 471,
+            "videoBeginningTime": 1642839000,
+            "rawEncounterTime": 1674375010
+        }
+    },
+    {
+        "id": 3661,
+        "name": "Canne Coquine 2023 - Gangstamon",
+        "dayOfWeek": "Sunday",
+        "time": "09:10",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_08-10-00___2022-01-22_08-30-53.mp4",
+            "offset": 498,
+            "videoBeginningTime": 1642839000,
+            "rawEncounterTime": 1674375010
+        }
+    },
+    {
+        "id": 3662,
+        "name": "Les Lascars 2023 - Les Dragons Picards",
+        "dayOfWeek": "Sunday",
+        "time": "09:10",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_08-10-00___2022-01-22_08-21-29.mp4",
+            "offset": 483,
+            "videoBeginningTime": 1642839000,
+            "rawEncounterTime": 1674375010
+        }
+    },
+    {
+        "id": 3668,
+        "name": "Les padawans d ermont - Les bichons t\u00eatus",
+        "dayOfWeek": "Sunday",
+        "time": "09:10",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_08-10-00___2022-01-22_08-26-21.mp4",
+            "offset": 475,
+            "videoBeginningTime": 1642839000,
+            "rawEncounterTime": 1674375010
+        }
+    },
+    {
+        "id": 3670,
+        "name": "Les 49.3 - Chocolateam",
+        "dayOfWeek": "Sunday",
+        "time": "09:59",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_08-30-54___2022-01-22_08-44-45.mp4",
+            "offset": 112,
+            "videoBeginningTime": 1642840254,
+            "rawEncounterTime": 1674377996
+        }
+    },
+    {
+        "id": 3671,
+        "name": "Mampf - Die Pfandflaschen",
+        "dayOfWeek": "Sunday",
+        "time": "09:59",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_08-30-54___2022-01-22_08-44-48.mp4",
+            "offset": 127,
+            "videoBeginningTime": 1642840254,
+            "rawEncounterTime": 1674377996
+        }
+    },
+    {
+        "id": 3678,
+        "name": "Charlemont 2 le retour - Le Canne-Arval",
+        "dayOfWeek": "Sunday",
+        "time": "10:20",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_08-46-37___2022-01-22_09-00-14.mp4",
+            "offset": 167,
+            "videoBeginningTime": 1642841197,
+            "rawEncounterTime": 1674379206
+        }
+    },
+    {
+        "id": 3674,
+        "name": "L'ONF - Les padatwo d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "10:20",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_08-47-10___2022-01-22_09-01-14.mp4",
+            "offset": 187,
+            "videoBeginningTime": 1642841230,
+            "rawEncounterTime": 1674379206
+        }
+    },
+    {
+        "id": 3684,
+        "name": "Les bichons barbus - Panache de Napalm",
+        "dayOfWeek": "Sunday",
+        "time": "10:20",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_08-53-58___2022-01-22_09-05-28.mp4",
+            "offset": 174,
+            "videoBeginningTime": 1642841638,
+            "rawEncounterTime": 1674379206
+        }
+    },
+    {
+        "id": 3673,
+        "name": "Gangstamon - Swingers",
+        "dayOfWeek": "Sunday",
+        "time": "10:20",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_08-51-40___2022-01-22_09-05-42.mp4",
+            "offset": 164,
+            "videoBeginningTime": 1642841500,
+            "rawEncounterTime": 1674379206
+        }
+    },
+    {
+        "id": 3675,
+        "name": "Canne Coquine 2023 - Les cavaliers de l\u2019apokalypse ",
+        "dayOfWeek": "Sunday",
+        "time": "10:37",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_09-04-23___2022-01-22_09-17-22.mp4",
+            "offset": 82,
+            "videoBeginningTime": 1642842263,
+            "rawEncounterTime": 1674380227
+        }
+    },
+    {
+        "id": 3676,
+        "name": "CICER & co - Les bichons t\u00eatus",
+        "dayOfWeek": "Sunday",
+        "time": "10:37",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_09-04-36___2022-01-22_09-17-38.mp4",
+            "offset": 101,
+            "videoBeginningTime": 1642842276,
+            "rawEncounterTime": 1674380227
+        }
+    },
+    {
+        "id": 3679,
+        "name": "The Beertles - Les padawans d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "10:37",
+        "area": "C",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 3680,
+        "name": "Les Lascars 2023 - Les Grominets",
+        "dayOfWeek": "Sunday",
+        "time": "10:37",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_09-09-05___2022-01-22_09-22-05.mp4",
+            "offset": 79,
+            "videoBeginningTime": 1642842545,
+            "rawEncounterTime": 1674380227
+        }
+    },
+    {
+        "id": 3677,
+        "name": "Nicool and the Gang - Mampf",
+        "dayOfWeek": "Sunday",
+        "time": "10:54",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_09-24-31___2022-01-22_09-40-37.mp4",
+            "offset": 103,
+            "videoBeginningTime": 1642843471,
+            "rawEncounterTime": 1674381267
+        }
+    },
+    {
+        "id": 3681,
+        "name": "Les 49.3 - La Rose couverte de Paname 2023",
+        "dayOfWeek": "Sunday",
+        "time": "10:54",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_09-25-04___2022-01-22_09-41-35.mp4",
+            "offset": 122,
+            "videoBeginningTime": 1642843504,
+            "rawEncounterTime": 1674381267
+        }
+    },
+    {
+        "id": 3682,
+        "name": "Chocolateam - Les Dragons Picards",
+        "dayOfWeek": "Sunday",
+        "time": "10:54",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_09-29-20___2022-01-22_09-40-49.mp4",
+            "offset": 113,
+            "videoBeginningTime": 1642843760,
+            "rawEncounterTime": 1674381267
+        }
+    },
+    {
+        "id": 3683,
+        "name": "Les 3 Doigts de la Main - Die Pfandflaschen",
+        "dayOfWeek": "Sunday",
+        "time": "10:54",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_09-29-24___2022-01-22_09-45-45.mp4",
+            "offset": 101,
+            "videoBeginningTime": 1642843764,
+            "rawEncounterTime": 1674381268
+        }
+    },
+    {
+        "id": 3686,
+        "name": "Les cavaliers de l\u2019apokalypse - Le Canne-Arval",
+        "dayOfWeek": "Sunday",
+        "time": "11:16",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_09-44-28___2022-01-22_09-57-16.mp4",
+            "offset": 10,
+            "videoBeginningTime": 1642844668,
+            "rawEncounterTime": 1674382570
+        }
+    },
+    {
+        "id": 3689,
+        "name": "Canne Coquine 2023 - Les padawans d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "11:16",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_09-45-02___2022-01-22_09-59-43.mp4",
+            "offset": 116,
+            "videoBeginningTime": 1642844702,
+            "rawEncounterTime": 1674382570
+        }
+    },
+    {
+        "id": 3691,
+        "name": "Les bichons barbus - Les Lascars 2023",
+        "dayOfWeek": "Sunday",
+        "time": "11:16",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_09-51-16___2022-01-22_10-02-44.mp4",
+            "offset": 98,
+            "videoBeginningTime": 1642845076,
+            "rawEncounterTime": 1674382570
+        }
+    },
+    {
+        "id": 3695,
+        "name": "Les bichons t\u00eatus - The Beertles",
+        "dayOfWeek": "Sunday",
+        "time": "11:16",
+        "area": "D",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 3687,
+        "name": "Les 3 Doigts de la Main - CICER & co",
+        "dayOfWeek": "Sunday",
+        "time": "11:36",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_10-03-24___2022-01-22_10-17-07.mp4",
+            "offset": 135,
+            "videoBeginningTime": 1642845804,
+            "rawEncounterTime": 1674383776
+        }
+    },
+    {
+        "id": 3688,
+        "name": "Les Dragons Picards - L'ONF",
+        "dayOfWeek": "Sunday",
+        "time": "11:36",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_10-03-48___2022-01-22_10-17-47.mp4",
+            "offset": 152,
+            "videoBeginningTime": 1642845828,
+            "rawEncounterTime": 1674383776
+        }
+    },
+    {
+        "id": 3690,
+        "name": "Les Grominets - Nicool and the Gang",
+        "dayOfWeek": "Sunday",
+        "time": "11:36",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_10-10-42___2022-01-22_10-22-13.mp4",
+            "offset": 143,
+            "videoBeginningTime": 1642846242,
+            "rawEncounterTime": 1674383776
+        }
+    },
+    {
+        "id": 3692,
+        "name": "Gangstamon - La Rose couverte de Paname 2023",
+        "dayOfWeek": "Sunday",
+        "time": "11:36",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_10-08-20___2022-01-22_10-22-17.mp4",
+            "offset": 129,
+            "videoBeginningTime": 1642846100,
+            "rawEncounterTime": 1674383776
+        }
+    },
+    {
+        "id": 3693,
+        "name": "Les 49.3 - Panache de Napalm",
+        "dayOfWeek": "Sunday",
+        "time": "11:54",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_10-21-31___2022-01-22_10-33-58.mp4",
+            "offset": 81,
+            "videoBeginningTime": 1642846891,
+            "rawEncounterTime": 1674384885
+        }
+    },
+    {
+        "id": 3694,
+        "name": "Mampf - Charlemont 2 le retour ",
+        "dayOfWeek": "Sunday",
+        "time": "11:54",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_10-22-08___2022-01-22_10-36-02.mp4",
+            "offset": 159,
+            "videoBeginningTime": 1642846928,
+            "rawEncounterTime": 1674384885
+        }
+    },
+    {
+        "id": 3696,
+        "name": "Swingers - Chocolateam",
+        "dayOfWeek": "Sunday",
+        "time": "11:54",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_10-29-46___2022-01-22_10-41-16.mp4",
+            "offset": 106,
+            "videoBeginningTime": 1642847386,
+            "rawEncounterTime": 1674384885
+        }
+    },
+    {
+        "id": 3697,
+        "name": "Die Pfandflaschen - Les padatwo d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "11:54",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_10-26-47___2022-01-22_10-40-11.mp4",
+            "offset": 98,
+            "videoBeginningTime": 1642847207,
+            "rawEncounterTime": 1674384885
+        }
+    },
+    {
+        "id": 3706,
+        "name": "Canne Coquine 2023 - Les bichons barbus",
+        "dayOfWeek": "Sunday",
+        "time": "12:14",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_10-40-59___2022-01-22_10-53-24.mp4",
+            "offset": 68,
+            "videoBeginningTime": 1642848059,
+            "rawEncounterTime": 1674386042
+        }
+    },
+    {
+        "id": 3699,
+        "name": "Le Canne-Arval - Gangstamon",
+        "dayOfWeek": "Sunday",
+        "time": "12:14",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_10-41-32___2022-01-22_10-54-50.mp4",
+            "offset": 113,
+            "videoBeginningTime": 1642848092,
+            "rawEncounterTime": 1674386042
+        }
+    },
+    {
+        "id": 3702,
+        "name": "La Rose couverte de Paname 2023 - Les padawans d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "12:14",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_10-49-44___2022-01-22_11-01-13.mp4",
+            "offset": 65,
+            "videoBeginningTime": 1642848584,
+            "rawEncounterTime": 1674386042
+        }
+    },
+    {
+        "id": 3703,
+        "name": "Les Grominets - Les bichons t\u00eatus",
+        "dayOfWeek": "Sunday",
+        "time": "12:14",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_10-46-09___2022-01-22_10-58-57.mp4",
+            "offset": 58,
+            "videoBeginningTime": 1642848369,
+            "rawEncounterTime": 1674386042
+        }
+    },
+    {
+        "id": 3700,
+        "name": "CICER & co - Swingers",
+        "dayOfWeek": "Sunday",
+        "time": "12:30",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_10-57-22___2022-01-22_11-09-43.mp4",
+            "offset": 72,
+            "videoBeginningTime": 1642849042,
+            "rawEncounterTime": 1674387034
+        }
+    },
+    {
+        "id": 3701,
+        "name": "The Beertles - Charlemont 2 le retour ",
+        "dayOfWeek": "Sunday",
+        "time": "12:30",
+        "area": "B",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 3704,
+        "name": "L'ONF - Les 49.3",
+        "dayOfWeek": "Sunday",
+        "time": "12:30",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_11-06-04___2022-01-22_11-17-37.mp4",
+            "offset": 77,
+            "videoBeginningTime": 1642849564,
+            "rawEncounterTime": 1674387034
+        }
+    },
+    {
+        "id": 3705,
+        "name": "Panache de Napalm - Les Dragons Picards",
+        "dayOfWeek": "Sunday",
+        "time": "12:30",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_11-02-17___2022-01-22_11-14-52.mp4",
+            "offset": 67,
+            "videoBeginningTime": 1642849337,
+            "rawEncounterTime": 1674387034
+        }
+    },
+    {
+        "id": 3707,
+        "name": "Les 3 Doigts de la Main - Mampf",
+        "dayOfWeek": "Sunday",
+        "time": "12:47",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_11-14-02___2022-01-22_11-26-05.mp4",
+            "offset": 82,
+            "videoBeginningTime": 1642850042,
+            "rawEncounterTime": 1674388060
+        }
+    },
+    {
+        "id": 3708,
+        "name": "Les padatwo d ermont - Les Lascars 2023",
+        "dayOfWeek": "Sunday",
+        "time": "12:47",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_11-14-34___2022-01-22_11-28-28.mp4",
+            "offset": 188,
+            "videoBeginningTime": 1642850074,
+            "rawEncounterTime": 1674388061
+        }
+    },
+    {
+        "id": 3709,
+        "name": "Nicool and the Gang - Chocolateam",
+        "dayOfWeek": "Sunday",
+        "time": "12:47",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_11-21-38___2022-01-22_11-33-08.mp4",
+            "offset": 170,
+            "videoBeginningTime": 1642850498,
+            "rawEncounterTime": 1674388061
+        }
+    },
+    {
+        "id": 3710,
+        "name": "Die Pfandflaschen - Les cavaliers de l\u2019apokalypse ",
+        "dayOfWeek": "Sunday",
+        "time": "12:47",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_11-19-02___2022-01-22_11-32-47.mp4",
+            "offset": 159,
+            "videoBeginningTime": 1642850342,
+            "rawEncounterTime": 1674388061
+        }
+    },
+    {
+        "id": 3723,
+        "name": "Le Canne-Arval - Les padawans d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "14:01",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_12-28-29___2022-01-22_12-40-54.mp4",
+            "offset": 85,
+            "videoBeginningTime": 1642854509,
+            "rawEncounterTime": 1674392510
+        }
+    },
+    {
+        "id": 3713,
+        "name": "Les bichons t\u00eatus - Panache de Napalm",
+        "dayOfWeek": "Sunday",
+        "time": "14:01",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_12-29-04___2022-01-22_12-42-39.mp4",
+            "offset": 147,
+            "videoBeginningTime": 1642854544,
+            "rawEncounterTime": 1674392510
+        }
+    },
+    {
+        "id": 3714,
+        "name": "L'ONF - Les Grominets",
+        "dayOfWeek": "Sunday",
+        "time": "14:01",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_12-36-58___2022-01-22_12-48-26.mp4",
+            "offset": 98,
+            "videoBeginningTime": 1642855018,
+            "rawEncounterTime": 1674392511
+        }
+    },
+    {
+        "id": 3719,
+        "name": "Les Dragons Picards - Canne Coquine 2023",
+        "dayOfWeek": "Sunday",
+        "time": "14:01",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_12-33-35___2022-01-22_12-46-28.mp4",
+            "offset": 83,
+            "videoBeginningTime": 1642854815,
+            "rawEncounterTime": 1674392511
+        }
+    },
+    {
+        "id": 3720,
+        "name": "Les bichons barbus - Les 49.3",
+        "dayOfWeek": "Sunday",
+        "time": "14:17",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_12-44-04___2022-01-22_12-55-01.mp4",
+            "offset": 21,
+            "videoBeginningTime": 1642855444,
+            "rawEncounterTime": 1674393467
+        }
+    },
+    {
+        "id": 3712,
+        "name": "Gangstamon - Les 3 Doigts de la Main",
+        "dayOfWeek": "Sunday",
+        "time": "14:17",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_12-44-38___2022-01-22_12-55-41.mp4",
+            "offset": 17,
+            "videoBeginningTime": 1642855478,
+            "rawEncounterTime": 1674393467
+        }
+    },
+    {
+        "id": 3715,
+        "name": "Swingers - Nicool and the Gang",
+        "dayOfWeek": "Sunday",
+        "time": "14:17",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_12-54-10___2022-01-22_13-05-26.mp4",
+            "offset": 7,
+            "videoBeginningTime": 1642856050,
+            "rawEncounterTime": 1674393467
+        }
+    },
+    {
+        "id": 3716,
+        "name": "CICER & co - Mampf",
+        "dayOfWeek": "Sunday",
+        "time": "14:17",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_12-49-17___2022-01-22_13-00-36.mp4",
+            "offset": 2,
+            "videoBeginningTime": 1642855757,
+            "rawEncounterTime": 1674393467
+        }
+    },
+    {
+        "id": 3717,
+        "name": "Les cavaliers de l\u2019apokalypse - Les Lascars 2023",
+        "dayOfWeek": "Sunday",
+        "time": "14:32",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_12-59-27___2022-01-22_13-11-48.mp4",
+            "offset": 74,
+            "videoBeginningTime": 1642856367,
+            "rawEncounterTime": 1674394359
+        }
+    },
+    {
+        "id": 3718,
+        "name": "Charlemont 2 le retour - Les padatwo d ermont",
+        "dayOfWeek": "Sunday",
+        "time": "14:32",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_13-00-00___2022-01-22_13-12-20.mp4",
+            "offset": 65,
+            "videoBeginningTime": 1642856400,
+            "rawEncounterTime": 1674394362
+        }
+    },
+    {
+        "id": 3721,
+        "name": "Chocolateam - La Rose couverte de Paname 2023",
+        "dayOfWeek": "Sunday",
+        "time": "14:32",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_13-08-32___2022-01-22_13-20-02.mp4",
+            "offset": 53,
+            "videoBeginningTime": 1642856912,
+            "rawEncounterTime": 1674394359
+        }
+    },
+    {
+        "id": 3722,
+        "name": "The Beertles - Die Pfandflaschen",
+        "dayOfWeek": "Sunday",
+        "time": "14:32",
+        "area": "D",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 3734,
+        "name": "Panache de Napalm - Canne Coquine 2023",
+        "dayOfWeek": "Sunday",
+        "time": "14:51",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_13-18-16___2022-01-22_13-31-26.mp4",
+            "offset": 146,
+            "videoBeginningTime": 1642857496,
+            "rawEncounterTime": 1674395512
+        }
+    },
+    {
+        "id": 3725,
+        "name": "Gangstamon - L'ONF",
+        "dayOfWeek": "Sunday",
+        "time": "14:51",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_13-18-46___2022-01-22_13-32-34.mp4",
+            "offset": 180,
+            "videoBeginningTime": 1642857526,
+            "rawEncounterTime": 1674395512
+        }
+    },
+    {
+        "id": 3728,
+        "name": "Le Canne-Arval - Mampf",
+        "dayOfWeek": "Sunday",
+        "time": "14:51",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_13-26-00___2022-01-22_13-37-30.mp4",
+            "offset": 158,
+            "videoBeginningTime": 1642857960,
+            "rawEncounterTime": 1674395512
+        }
+    },
+    {
+        "id": 3732,
+        "name": "Nicool and the Gang - Les 49.3",
+        "dayOfWeek": "Sunday",
+        "time": "14:51",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_13-23-17___2022-01-22_13-36-47.mp4",
+            "offset": 141,
+            "videoBeginningTime": 1642857797,
+            "rawEncounterTime": 1674395512
+        }
+    },
+    {
+        "id": 3736,
+        "name": "Swingers - Les bichons barbus",
+        "dayOfWeek": "Sunday",
+        "time": "15:07",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_13-33-57___2022-01-22_13-46-50.mp4",
+            "offset": 104,
+            "videoBeginningTime": 1642858437,
+            "rawEncounterTime": 1674396428
+        }
+    },
+    {
+        "id": 3726,
+        "name": "Charlemont 2 le retour - Les Grominets",
+        "dayOfWeek": "Sunday",
+        "time": "15:07",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_13-34-32___2022-01-22_13-47-30.mp4",
+            "offset": 100,
+            "videoBeginningTime": 1642858472,
+            "rawEncounterTime": 1674396429
+        }
+    },
+    {
+        "id": 3727,
+        "name": "Les 3 Doigts de la Main - The Beertles",
+        "dayOfWeek": "Sunday",
+        "time": "15:07",
+        "area": "C",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 3729,
+        "name": "Les padatwo d ermont - CICER & co",
+        "dayOfWeek": "Sunday",
+        "time": "15:07",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_13-39-07___2022-01-22_13-52-09.mp4",
+            "offset": 80,
+            "videoBeginningTime": 1642858747,
+            "rawEncounterTime": 1674396429
+        }
+    },
+    {
+        "id": 3730,
+        "name": "La Rose couverte de Paname 2023 - Les Dragons Picards",
+        "dayOfWeek": "Sunday",
+        "time": "15:26",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3513\/A\/2022-01-22_13-55-25___2022-01-22_14-10-44.mp4",
+            "offset": 104,
+            "videoBeginningTime": 1642859725,
+            "rawEncounterTime": 1674397569
+        }
+    },
+    {
+        "id": 3731,
+        "name": "Les bichons t\u00eatus - Les cavaliers de l\u2019apokalypse ",
+        "dayOfWeek": "Sunday",
+        "time": "15:26",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3513\/B\/2022-01-22_13-55-14___2022-01-22_14-10-02.mp4",
+            "offset": 110,
+            "videoBeginningTime": 1642859714,
+            "rawEncounterTime": 1674397569
+        }
+    },
+    {
+        "id": 3733,
+        "name": "Les Lascars 2023 - Chocolateam",
+        "dayOfWeek": "Sunday",
+        "time": "15:26",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3513\/C\/2022-01-22_14-01-26___2022-01-22_14-12-56.mp4",
+            "offset": 90,
+            "videoBeginningTime": 1642860086,
+            "rawEncounterTime": 1674397570
+        }
+    },
+    {
+        "id": 3735,
+        "name": "Les padawans d ermont - Die Pfandflaschen",
+        "dayOfWeek": "Sunday",
+        "time": "15:26",
+        "area": "D",
+        "videoInfo": {
+            "fileName": "video\/3513\/D\/2022-01-22_13-59-41___2022-01-22_14-14-20.mp4",
+            "offset": 82,
+            "videoBeginningTime": 1642859981,
+            "rawEncounterTime": 1674397570
+        }
+    }
+]

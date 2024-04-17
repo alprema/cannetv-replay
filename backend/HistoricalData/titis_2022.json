@@ -1,0 +1,841 @@
+[
+    {
+        "id": 3415,
+        "name": "Les Lascars 2022 - Canne'TreVingtTreize",
+        "dayOfWeek": "Saturday",
+        "time": "10:43",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_16-20-14___2018-12-05_16-34-52.mp4",
+            "offset": 210,
+            "videoBeginningTime": 1544026814,
+            "rawEncounterTime": 1642844588
+        }
+    },
+    {
+        "id": 3417,
+        "name": "Les Lions Picards - The Flying Machines",
+        "dayOfWeek": "Saturday",
+        "time": "10:43",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_09-53-34___2022-01-22_10-08-23.mp4",
+            "offset": 207,
+            "videoBeginningTime": 1642845214,
+            "rawEncounterTime": 1642844588
+        }
+    },
+    {
+        "id": 3419,
+        "name": "Manicou Gangsta Paradise - Les Z\u00e8bres Rouges",
+        "dayOfWeek": "Saturday",
+        "time": "10:43",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_09-54-28___2022-01-22_10-09-27.mp4",
+            "offset": 204,
+            "videoBeginningTime": 1642845268,
+            "rawEncounterTime": 1642844588
+        }
+    },
+    {
+        "id": 3421,
+        "name": "Beasts from East - Les Bougnats Sauvages",
+        "dayOfWeek": "Saturday",
+        "time": "11:00",
+        "area": "A",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 3423,
+        "name": "Stau - Canne & Dragons",
+        "dayOfWeek": "Saturday",
+        "time": "11:00",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_10-12-02___2022-01-22_10-30-00.mp4",
+            "offset": 343,
+            "videoBeginningTime": 1642846322,
+            "rawEncounterTime": 1642845645
+        }
+    },
+    {
+        "id": 3425,
+        "name": "Les Cas Saoul\u00e9s 2022 - Les Marlous des Fortifs",
+        "dayOfWeek": "Saturday",
+        "time": "11:00",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_10-12-50___2022-01-22_10-30-50.mp4",
+            "offset": 339,
+            "videoBeginningTime": 1642846370,
+            "rawEncounterTime": 1642845645
+        }
+    },
+    {
+        "id": 3416,
+        "name": "Canne'TreVingtTreize - Les Lions Picards",
+        "dayOfWeek": "Saturday",
+        "time": "11:18",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_16-54-21___2018-12-05_17-08-26.mp4",
+            "offset": 236,
+            "videoBeginningTime": 1544028861,
+            "rawEncounterTime": 1642846693
+        }
+    },
+    {
+        "id": 3418,
+        "name": "The Flying Machines - Manicou Gangsta Paradise",
+        "dayOfWeek": "Saturday",
+        "time": "11:18",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_10-30-01___2022-01-22_10-46-00.mp4",
+            "offset": 231,
+            "videoBeginningTime": 1642847401,
+            "rawEncounterTime": 1642846693
+        }
+    },
+    {
+        "id": 3427,
+        "name": "Les cannes fantastiques - Les Lascars 2022",
+        "dayOfWeek": "Saturday",
+        "time": "11:18",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_10-30-51___2022-01-22_10-45-58.mp4",
+            "offset": 222,
+            "videoBeginningTime": 1642847451,
+            "rawEncounterTime": 1642846693
+        }
+    },
+    {
+        "id": 3420,
+        "name": "Les Z\u00e8bres Rouges - Beasts from East",
+        "dayOfWeek": "Saturday",
+        "time": "11:36",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_17-13-01___2018-12-05_17-28-01.mp4",
+            "offset": 284,
+            "videoBeginningTime": 1544029981,
+            "rawEncounterTime": 1642847807
+        }
+    },
+    {
+        "id": 3422,
+        "name": "Les Bougnats Sauvages - Stau",
+        "dayOfWeek": "Saturday",
+        "time": "11:36",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_10-49-58___2022-01-22_11-08-46.mp4",
+            "offset": 279,
+            "videoBeginningTime": 1642848598,
+            "rawEncounterTime": 1642847807
+        }
+    },
+    {
+        "id": 3424,
+        "name": "Canne & Dragons - Les Cas Saoul\u00e9s 2022",
+        "dayOfWeek": "Saturday",
+        "time": "11:36",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_10-50-44___2022-01-22_11-09-31.mp4",
+            "offset": 276,
+            "videoBeginningTime": 1642848644,
+            "rawEncounterTime": 1642847807
+        }
+    },
+    {
+        "id": 3426,
+        "name": "Les Marlous des Fortifs - Les cannes fantastiques",
+        "dayOfWeek": "Saturday",
+        "time": "11:55",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_17-36-24___2018-12-05_17-52-40.mp4",
+            "offset": 58,
+            "videoBeginningTime": 1544031384,
+            "rawEncounterTime": 1642848909
+        }
+    },
+    {
+        "id": 3428,
+        "name": "Les Lascars 2022 - Les Lions Picards",
+        "dayOfWeek": "Saturday",
+        "time": "12:12",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_17-52-41___2018-12-05_18-01-33.mp4",
+            "offset": 60,
+            "videoBeginningTime": 1544032361,
+            "rawEncounterTime": 1642849933
+        }
+    },
+    {
+        "id": 3429,
+        "name": "Canne'TreVingtTreize - The Flying Machines",
+        "dayOfWeek": "Saturday",
+        "time": "12:12",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_11-22-44___2022-01-22_11-35-48.mp4",
+            "offset": 94,
+            "videoBeginningTime": 1642850564,
+            "rawEncounterTime": 1642849933
+        }
+    },
+    {
+        "id": 3432,
+        "name": "Manicou Gangsta Paradise - Beasts from East",
+        "dayOfWeek": "Saturday",
+        "time": "12:12",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_11-23-32___2022-01-22_11-36-11.mp4",
+            "offset": 66,
+            "videoBeginningTime": 1642850612,
+            "rawEncounterTime": 1642849933
+        }
+    },
+    {
+        "id": 3433,
+        "name": "Les Z\u00e8bres Rouges - Les Bougnats Sauvages",
+        "dayOfWeek": "Saturday",
+        "time": "12:29",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_18-06-19___2018-12-05_18-20-33.mp4",
+            "offset": 185,
+            "videoBeginningTime": 1544033179,
+            "rawEncounterTime": 1642850953
+        }
+    },
+    {
+        "id": 3436,
+        "name": "Stau - Les Cas Saoul\u00e9s 2022",
+        "dayOfWeek": "Saturday",
+        "time": "12:29",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_11-39-38___2022-01-22_11-54-02.mp4",
+            "offset": 182,
+            "videoBeginningTime": 1642851578,
+            "rawEncounterTime": 1642850953
+        }
+    },
+    {
+        "id": 3437,
+        "name": "Canne & Dragons - Les Marlous des Fortifs",
+        "dayOfWeek": "Saturday",
+        "time": "12:29",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_11-40-26___2022-01-22_11-54-41.mp4",
+            "offset": 167,
+            "videoBeginningTime": 1642851626,
+            "rawEncounterTime": 1642850953
+        }
+    },
+    {
+        "id": 3430,
+        "name": "Les Lions Picards - Manicou Gangsta Paradise",
+        "dayOfWeek": "Saturday",
+        "time": "14:02",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_19-39-11___2018-12-05_19-53-10.mp4",
+            "offset": 173,
+            "videoBeginningTime": 1544038751,
+            "rawEncounterTime": 1642856527
+        }
+    },
+    {
+        "id": 3440,
+        "name": "Les cannes fantastiques - Canne'TreVingtTreize",
+        "dayOfWeek": "Saturday",
+        "time": "14:02",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_13-12-18___2022-01-22_13-26-13.mp4",
+            "offset": 167,
+            "videoBeginningTime": 1642857138,
+            "rawEncounterTime": 1642856528
+        }
+    },
+    {
+        "id": 3441,
+        "name": "Les Lascars 2022 - The Flying Machines",
+        "dayOfWeek": "Saturday",
+        "time": "14:02",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_13-13-04___2022-01-22_13-27-35.mp4",
+            "offset": 200,
+            "videoBeginningTime": 1642857184,
+            "rawEncounterTime": 1642856528
+        }
+    },
+    {
+        "id": 3434,
+        "name": "Beasts from East - Stau",
+        "dayOfWeek": "Saturday",
+        "time": "14:17",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_19-55-03___2018-12-05_20-09-34.mp4",
+            "offset": 193,
+            "videoBeginningTime": 1544039703,
+            "rawEncounterTime": 1642857468
+        }
+    },
+    {
+        "id": 3435,
+        "name": "Les Bougnats Sauvages - Canne & Dragons",
+        "dayOfWeek": "Saturday",
+        "time": "14:17",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_13-28-10___2022-01-22_13-42-40.mp4",
+            "offset": 190,
+            "videoBeginningTime": 1642858090,
+            "rawEncounterTime": 1642857468
+        }
+    },
+    {
+        "id": 3472,
+        "name": "Les Z\u00e8bres Rouges - Les Cas Saoul\u00e9s 2022",
+        "dayOfWeek": "Saturday",
+        "time": "14:17",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_13-28-56___2022-01-22_13-43-23.mp4",
+            "offset": 185,
+            "videoBeginningTime": 1642858136,
+            "rawEncounterTime": 1642857468
+        }
+    },
+    {
+        "id": 3439,
+        "name": "Les Marlous des Fortifs - Les Lascars 2022",
+        "dayOfWeek": "Saturday",
+        "time": "14:32",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_20-09-46___2018-12-05_20-23-22.mp4",
+            "offset": 139,
+            "videoBeginningTime": 1544040586,
+            "rawEncounterTime": 1642858352
+        }
+    },
+    {
+        "id": 3442,
+        "name": "Canne'TreVingtTreize - Manicou Gangsta Paradise",
+        "dayOfWeek": "Saturday",
+        "time": "14:32",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_13-43-02___2022-01-22_13-56-47.mp4",
+            "offset": 137,
+            "videoBeginningTime": 1642858982,
+            "rawEncounterTime": 1642858352
+        }
+    },
+    {
+        "id": 3453,
+        "name": "Les cannes fantastiques - Les Lions Picards",
+        "dayOfWeek": "Saturday",
+        "time": "14:32",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_13-43-54___2022-01-22_13-57-45.mp4",
+            "offset": 136,
+            "videoBeginningTime": 1642859034,
+            "rawEncounterTime": 1642858352
+        }
+    },
+    {
+        "id": 3431,
+        "name": "The Flying Machines - Les Z\u00e8bres Rouges",
+        "dayOfWeek": "Saturday",
+        "time": "14:48",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_20-25-02___2018-12-05_20-38-50.mp4",
+            "offset": 176,
+            "videoBeginningTime": 1544041502,
+            "rawEncounterTime": 1642859292
+        }
+    },
+    {
+        "id": 3447,
+        "name": "Beasts from East - Canne & Dragons",
+        "dayOfWeek": "Saturday",
+        "time": "14:48",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_13-58-20___2022-01-22_14-12-20.mp4",
+            "offset": 173,
+            "videoBeginningTime": 1642859900,
+            "rawEncounterTime": 1642859292
+        }
+    },
+    {
+        "id": 3448,
+        "name": "Les Bougnats Sauvages - Les Cas Saoul\u00e9s 2022",
+        "dayOfWeek": "Saturday",
+        "time": "14:48",
+        "area": "C",
+        "videoInfo": {
+            "error": "There is no video for the selected match."
+        }
+    },
+    {
+        "id": 3449,
+        "name": "Stau - Les Marlous des Fortifs",
+        "dayOfWeek": "Saturday",
+        "time": "15:03",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_20-40-05___2018-12-05_20-54-11.mp4",
+            "offset": 197,
+            "videoBeginningTime": 1544042405,
+            "rawEncounterTime": 1642860198
+        }
+    },
+    {
+        "id": 3454,
+        "name": "Les Lascars 2022 - Manicou Gangsta Paradise",
+        "dayOfWeek": "Saturday",
+        "time": "15:17",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_20-54-48___2018-12-05_21-08-51.mp4",
+            "offset": 175,
+            "videoBeginningTime": 1544043288,
+            "rawEncounterTime": 1642861063
+        }
+    },
+    {
+        "id": 3438,
+        "name": "Les Cas Saoul\u00e9s 2022 - Les cannes fantastiques",
+        "dayOfWeek": "Saturday",
+        "time": "15:17",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_14-27-56___2022-01-22_14-42-12.mp4",
+            "offset": 184,
+            "videoBeginningTime": 1642861676,
+            "rawEncounterTime": 1642861063
+        }
+    },
+    {
+        "id": 3443,
+        "name": "Les Lions Picards - Les Z\u00e8bres Rouges",
+        "dayOfWeek": "Saturday",
+        "time": "15:17",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_14-28-44___2022-01-22_14-43-18.mp4",
+            "offset": 198,
+            "videoBeginningTime": 1642861724,
+            "rawEncounterTime": 1642861063
+        }
+    },
+    {
+        "id": 3444,
+        "name": "The Flying Machines - Beasts from East",
+        "dayOfWeek": "Saturday",
+        "time": "15:33",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_21-11-15___2018-12-05_21-27-11.mp4",
+            "offset": 277,
+            "videoBeginningTime": 1544044275,
+            "rawEncounterTime": 1642862038
+        }
+    },
+    {
+        "id": 3476,
+        "name": "Canne & Dragons - Canne'TreVingtTreize",
+        "dayOfWeek": "Saturday",
+        "time": "15:33",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-22_14-44-04___2022-01-22_14-59-41.mp4",
+            "offset": 272,
+            "videoBeginningTime": 1642862644,
+            "rawEncounterTime": 1642862038
+        }
+    },
+    {
+        "id": 3461,
+        "name": "Les Bougnats Sauvages - Les Marlous des Fortifs",
+        "dayOfWeek": "Saturday",
+        "time": "15:33",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-22_14-44-42___2022-01-22_15-00-09.mp4",
+            "offset": 268,
+            "videoBeginningTime": 1642862682,
+            "rawEncounterTime": 1642862038
+        }
+    },
+    {
+        "id": 3462,
+        "name": "Stau - Les cannes fantastiques",
+        "dayOfWeek": "Saturday",
+        "time": "15:49",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-05_21-27-12___2018-12-05_21-40-12.mp4",
+            "offset": 197,
+            "videoBeginningTime": 1544045232,
+            "rawEncounterTime": 1642862991
+        }
+    },
+    {
+        "id": 3451,
+        "name": "Les Cas Saoul\u00e9s 2022 - Les Lascars 2022",
+        "dayOfWeek": "Sunday",
+        "time": "10:01",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-06_15-38-53___2018-12-06_15-51-49.mp4",
+            "offset": 79,
+            "videoBeginningTime": 1544110733,
+            "rawEncounterTime": 1642928478
+        }
+    },
+    {
+        "id": 3445,
+        "name": "Manicou Gangsta Paradise - Les Bougnats Sauvages",
+        "dayOfWeek": "Sunday",
+        "time": "10:01",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-23_09-12-00___2022-01-23_09-24-45.mp4",
+            "offset": 66,
+            "videoBeginningTime": 1642929120,
+            "rawEncounterTime": 1642928478
+        }
+    },
+    {
+        "id": 3452,
+        "name": "Les Marlous des Fortifs - Canne'TreVingtTreize",
+        "dayOfWeek": "Sunday",
+        "time": "10:01",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-23_09-12-50___2022-01-23_09-25-26.mp4",
+            "offset": 50,
+            "videoBeginningTime": 1642929170,
+            "rawEncounterTime": 1642928478
+        }
+    },
+    {
+        "id": 3456,
+        "name": "Les Lions Picards - Beasts from East",
+        "dayOfWeek": "Sunday",
+        "time": "10:17",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-06_15-54-57___2018-12-06_16-08-22.mp4",
+            "offset": 118,
+            "videoBeginningTime": 1544111697,
+            "rawEncounterTime": 1642929452
+        }
+    },
+    {
+        "id": 3459,
+        "name": "Les Z\u00e8bres Rouges - Canne & Dragons",
+        "dayOfWeek": "Sunday",
+        "time": "10:17",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-23_09-28-08___2022-01-23_09-41-35.mp4",
+            "offset": 112,
+            "videoBeginningTime": 1642930088,
+            "rawEncounterTime": 1642929452
+        }
+    },
+    {
+        "id": 3466,
+        "name": "Les cannes fantastiques - The Flying Machines",
+        "dayOfWeek": "Sunday",
+        "time": "10:17",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-23_09-29-00___2022-01-23_09-42-32.mp4",
+            "offset": 110,
+            "videoBeginningTime": 1642930140,
+            "rawEncounterTime": 1642929452
+        }
+    },
+    {
+        "id": 3458,
+        "name": "Manicou Gangsta Paradise - Stau",
+        "dayOfWeek": "Sunday",
+        "time": "10:33",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-06_16-10-40___2018-12-06_16-24-16.mp4",
+            "offset": 162,
+            "videoBeginningTime": 1544112640,
+            "rawEncounterTime": 1642930428
+        }
+    },
+    {
+        "id": 3464,
+        "name": "Les Cas Saoul\u00e9s 2022 - Canne'TreVingtTreize",
+        "dayOfWeek": "Sunday",
+        "time": "10:33",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-23_09-43-48___2022-01-23_09-57-22.mp4",
+            "offset": 155,
+            "videoBeginningTime": 1642931028,
+            "rawEncounterTime": 1642930428
+        }
+    },
+    {
+        "id": 3450,
+        "name": "Canne & Dragons - Les cannes fantastiques",
+        "dayOfWeek": "Sunday",
+        "time": "10:33",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-23_09-44-36___2022-01-23_09-58-11.mp4",
+            "offset": 152,
+            "videoBeginningTime": 1642931076,
+            "rawEncounterTime": 1642930428
+        }
+    },
+    {
+        "id": 3457,
+        "name": "The Flying Machines - Les Bougnats Sauvages",
+        "dayOfWeek": "Sunday",
+        "time": "10:49",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-06_16-26-24___2018-12-06_16-39-44.mp4",
+            "offset": 120,
+            "videoBeginningTime": 1544113584,
+            "rawEncounterTime": 1642931347
+        }
+    },
+    {
+        "id": 3465,
+        "name": "Les Marlous des Fortifs - Les Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "10:49",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-23_09-59-26___2022-01-23_10-12-41.mp4",
+            "offset": 116,
+            "videoBeginningTime": 1642931966,
+            "rawEncounterTime": 1642931347
+        }
+    },
+    {
+        "id": 3467,
+        "name": "Les Lascars 2022 - Les Z\u00e8bres Rouges",
+        "dayOfWeek": "Sunday",
+        "time": "10:49",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-23_10-00-16___2022-01-23_10-13-33.mp4",
+            "offset": 115,
+            "videoBeginningTime": 1642932016,
+            "rawEncounterTime": 1642931347
+        }
+    },
+    {
+        "id": 3460,
+        "name": "Beasts from East - Les Cas Saoul\u00e9s 2022",
+        "dayOfWeek": "Sunday",
+        "time": "11:07",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-06_16-44-38___2018-12-06_16-56-29.mp4",
+            "offset": 66,
+            "videoBeginningTime": 1544114678,
+            "rawEncounterTime": 1642932476
+        }
+    },
+    {
+        "id": 3471,
+        "name": "Manicou Gangsta Paradise - Canne & Dragons",
+        "dayOfWeek": "Sunday",
+        "time": "11:07",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-23_10-17-50___2022-01-23_10-29-33.mp4",
+            "offset": 50,
+            "videoBeginningTime": 1642933070,
+            "rawEncounterTime": 1642932476
+        }
+    },
+    {
+        "id": 3446,
+        "name": "Les Z\u00e8bres Rouges - Stau",
+        "dayOfWeek": "Sunday",
+        "time": "11:07",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-23_10-18-44___2022-01-23_10-30-33.mp4",
+            "offset": 48,
+            "videoBeginningTime": 1642933124,
+            "rawEncounterTime": 1642932476
+        }
+    },
+    {
+        "id": 3469,
+        "name": "Les Lions Picards - Les Bougnats Sauvages",
+        "dayOfWeek": "Sunday",
+        "time": "11:24",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-06_17-01-40___2018-12-06_17-14-11.mp4",
+            "offset": 80,
+            "videoBeginningTime": 1544115700,
+            "rawEncounterTime": 1642933472
+        }
+    },
+    {
+        "id": 3478,
+        "name": "Les Marlous des Fortifs - The Flying Machines",
+        "dayOfWeek": "Sunday",
+        "time": "11:24",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-23_10-34-52___2022-01-23_10-47-14.mp4",
+            "offset": 64,
+            "videoBeginningTime": 1642934092,
+            "rawEncounterTime": 1642933472
+        }
+    },
+    {
+        "id": 3475,
+        "name": "Stau - Les Lascars 2022",
+        "dayOfWeek": "Sunday",
+        "time": "11:39",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-06_17-17-12___2018-12-06_17-29-54.mp4",
+            "offset": 66,
+            "videoBeginningTime": 1544116632,
+            "rawEncounterTime": 1642934377
+        }
+    },
+    {
+        "id": 3479,
+        "name": "Les cannes fantastiques - Manicou Gangsta Paradise",
+        "dayOfWeek": "Sunday",
+        "time": "11:54",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-06_17-31-50___2018-12-06_17-45-08.mp4",
+            "offset": 110,
+            "videoBeginningTime": 1544117510,
+            "rawEncounterTime": 1642935266
+        }
+    },
+    {
+        "id": 3455,
+        "name": "Canne'TreVingtTreize - Les Z\u00e8bres Rouges",
+        "dayOfWeek": "Sunday",
+        "time": "11:54",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-23_11-05-00___2022-01-23_11-18-30.mp4",
+            "offset": 118,
+            "videoBeginningTime": 1642935900,
+            "rawEncounterTime": 1642935266
+        }
+    },
+    {
+        "id": 3473,
+        "name": "Beasts from East - Les Marlous des Fortifs",
+        "dayOfWeek": "Sunday",
+        "time": "11:54",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-23_11-05-50___2022-01-23_11-19-30.mp4",
+            "offset": 121,
+            "videoBeginningTime": 1642935950,
+            "rawEncounterTime": 1642935266
+        }
+    },
+    {
+        "id": 3477,
+        "name": "Les Cas Saoul\u00e9s 2022 - Les Lions Picards",
+        "dayOfWeek": "Sunday",
+        "time": "12:14",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-06_17-50-50___2018-12-06_18-07-10.mp4",
+            "offset": 343,
+            "videoBeginningTime": 1544118650,
+            "rawEncounterTime": 1642936456
+        }
+    },
+    {
+        "id": 3463,
+        "name": "Canne & Dragons - Les Lascars 2022",
+        "dayOfWeek": "Sunday",
+        "time": "12:14",
+        "area": "B",
+        "videoInfo": {
+            "fileName": "video\/3215\/B\/2022-01-23_11-23-54___2022-01-23_11-40-17.mp4",
+            "offset": 346,
+            "videoBeginningTime": 1642937034,
+            "rawEncounterTime": 1642936456
+        }
+    },
+    {
+        "id": 3470,
+        "name": "The Flying Machines - Stau",
+        "dayOfWeek": "Sunday",
+        "time": "12:14",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-23_11-24-50___2022-01-23_11-41-16.mp4",
+            "offset": 338,
+            "videoBeginningTime": 1642937090,
+            "rawEncounterTime": 1642936456
+        }
+    },
+    {
+        "id": 3474,
+        "name": "Les Bougnats Sauvages - Les cannes fantastiques",
+        "dayOfWeek": "Sunday",
+        "time": "12:29",
+        "area": "A",
+        "videoInfo": {
+            "fileName": "video\/3215\/A\/2018-12-06_18-07-08___2018-12-06_18-21-28.mp4",
+            "offset": 154,
+            "videoBeginningTime": 1544119628,
+            "rawEncounterTime": 1642937365
+        }
+    },
+    {
+        "id": 3468,
+        "name": "Canne'TreVingtTreize - Beasts from East",
+        "dayOfWeek": "Sunday",
+        "time": "12:29",
+        "area": "C",
+        "videoInfo": {
+            "fileName": "video\/3215\/C\/2022-01-23_11-41-52___2022-01-23_11-57-03.mp4",
+            "offset": 149,
+            "videoBeginningTime": 1642938112,
+            "rawEncounterTime": 1642937365
+        }
+    }
+]
