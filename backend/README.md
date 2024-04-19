@@ -9,3 +9,9 @@ To deploy the project in prod, build it using this command:
 ```sh
 dotnet publish -c Release --no-self-contained --runtime linux-arm64
 ```
+
+Then copy the files on the server and run the following command:
+
+```sh
+ sudo systemctl restart cannetv-replay
+```
