@@ -1,0 +1,10 @@
+@import './base.css';
+
+body {
+    background: linear-gradient(90deg, #007aa9 0%, #00081f 60%);
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+  
