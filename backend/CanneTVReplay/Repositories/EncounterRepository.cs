@@ -24,14 +24,23 @@ namespace CanneTVReplay.Repositories
             public string? roundduration { get; set; }
         }
 
-        private IDbConnection _canneCounterDb;
+        private class EncounterFileInfoRow
+        {
+            public int EncounterId { get; set; }
+            public int FileIndex { get; set; }
+            public string FilePath { get; set; }
+            public int OffsetInSeconds { get; set; }
+        }
 
+        private IDbConnection _canneCounterDb;
+        private IDbConnection _canneReplayDb;
         private const int RED_TEAM_COUNTER = 101;
         private const int BLUE_TEAM_COUNTER = 102;
 
-        public EncounterRepository(CanneCounterConnectionProvider canneCounterConnectionProvider)
+        public EncounterRepository(CanneCounterConnectionProvider canneCounterConnectionProvider, CanneReplayConnectionProvider canneReplayConnectionProvider)
         {
             _canneCounterDb = canneCounterConnectionProvider.Connection;
+            _canneReplayDb = canneReplayConnectionProvider.Connection;
         }
 
         public Encounter GetEncounter(int encounterId)
@@ -56,11 +65,29 @@ namespace CanneTVReplay.Repositories
                 ? int.Parse(technicalCharacteristics.assaultduration)
                 : int.Parse(technicalCharacteristics.roundperassault) * int.Parse(technicalCharacteristics.roundduration);
 
+            var fileDataRow = _canneReplayDb.Query<EncounterFileInfoRow>(@"
+                SELECT encounter_id as EncounterId, file_index as FileIndex, file_path as FilePath, offset_in_seconds OffsetInSeconds
+                FROM encounter_to_file
+                WHERE encounter_id = @encounterId
+                ORDER BY file_index;
+                ", new { encounterId }
+                )
+                .ToList();
+
+
+
 
             return new Encounter
             {
                 Id = encounterId,
                 DurationInSeconds = durationInSeconds,
+                FileInfoList = fileDataRow.Select(row => new EncounterFileInfo
+                                {
+                                    FilePath = row.FilePath,
+                                    FileIndex = row.FileIndex,
+                                    OffsetInSeconds = row.OffsetInSeconds,
+                                }
+                                ).ToList(),
 
                 RedTeam = new Team
                 {

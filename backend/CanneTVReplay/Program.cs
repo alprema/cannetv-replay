@@ -18,7 +18,7 @@ builder.Services.AddSwaggerGen();
 if (builder.Environment.IsDevelopment())
 {
     builder.Services.AddTransient(_ => new CanneCounterConnectionProvider { Connection = new MySqlConnection("Server=localhost;Database=cannetvjnmmain;Uid=root;Pwd=;") });
-    builder.Services.AddTransient(_ => new CanneReplayConnectionProvider { Connection = new MySqlConnection("Server=localhost;Database=mysql;Uid=root;Pwd=;") });
+    builder.Services.AddTransient(_ => new CanneReplayConnectionProvider { Connection = new MySqlConnection("Server=localhost;Database=cannetvreplay;Uid=root;Pwd=;") });
 
 
     builder.Services.AddCors(options =>
@@ -36,7 +36,7 @@ else
     var mysqlUser = Environment.GetEnvironmentVariable("MYSQL_USER");
     var mysqlPassword = Environment.GetEnvironmentVariable("MYSQL_PASSWORD");
     builder.Services.AddTransient(_ => new CanneCounterConnectionProvider { Connection = new MySqlConnection($"Server=localhost;Database=cannetvjnmmain;Uid={mysqlUser};Pwd={mysqlPassword};") });
-    builder.Services.AddTransient(_ => new CanneReplayConnectionProvider { Connection = new MySqlConnection($"Server=localhost;Database=mysql;Uid={mysqlUser};Pwd={mysqlPassword};") });
+    builder.Services.AddTransient(_ => new CanneReplayConnectionProvider { Connection = new MySqlConnection($"Server=localhost;Database=cannetvreplay;Uid={mysqlUser};Pwd={mysqlPassword};") });
 }
 
 builder.Services.AddTransient<CompetitionRepository>();
